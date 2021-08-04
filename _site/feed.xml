@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://jeho.page/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jeho.page/" rel="alternate" type="text/html" /><updated>2021-08-04T11:11:14+09:00</updated><id>https://jeho.page/feed.xml</id><title type="html">개발자의 기쁨과 슬픔</title><subtitle>개발자로 지내며 있었던 여러가지 경험과 느낌을 smalltalk 합니다.</subtitle><entry><title type="html">안드로이드 플레이스토어에서 인앱결제 부가가치세 설정하기</title><link href="https://jeho.page/jekyll/update/2021/08/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="안드로이드 플레이스토어에서 인앱결제 부가가치세 설정하기" /><published>2021-08-04T10:52:54+09:00</published><updated>2021-08-04T10:52:54+09:00</updated><id>https://jeho.page/jekyll/update/2021/08/04/welcome-to-jekyll</id><content type="html" xml:base="https://jeho.page/jekyll/update/2021/08/04/welcome-to-jekyll.html">&lt;p&gt;저는 &lt;a href=&quot;https://withcoffee.app/&quot;&gt;직장인 소개팅 어플 커피한잔&lt;/a&gt;을 개발한 뒤 플레이스토어에서 특별한 세금 설정 없이 몇 년을 운영해왔었는데요. 이번에 부가가치세에 대해서 공부를 하다가 뭔가 잘못되었다는 걸 깨닫게 되었습니다.&lt;/p&gt;
+
+&lt;p&gt;바쁜 사람들을 위해 필요한 부분만 요약하면&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;인앱결제 상품이 있다면 플레이스토어에서 반드시 한국 부가가치세율 10%를 입력해줘야 한다.&lt;/li&gt;
+  &lt;li&gt;이 부가가치세율 설정은 한국의 경우 디폴트로 0%로 설정 되어있다.&lt;/li&gt;
+  &lt;li&gt;즉, 이걸 직접 10%로 고친 기억이 없다면 뭔가 잘못된 것이고 불필요한 세금을 내고 있는 것이다. 어서 확인해보러 가자.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;저는 개인 개발자들 중 90% 이상이 이 부가세 설정을 제대로 하지 않고 상품을 팔고 있을 것이라 추측합니다.&lt;/p&gt;
+
+&lt;p&gt;제대로 설정해줄 경우 (사업자의 구조에 따라 다르겠지만) 약 3% 정도의 추가 이익이 생기고 세금 신고 또한 정확하게 할 수 있게 되기 때문에 반드시 설정해주고 넘어가야 합니다.&lt;/p&gt;
+
+&lt;p&gt;설정 방법은 아래 동영상을 보시면서 따라해보시면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/9xVlAjBfcKo&quot;&gt;[게임피플] 수익의 10%는 세금! 구글 인앱의 부가세 설정 방법 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1인 개발자들에게 세법은 어려운 주제입니다.&lt;/p&gt;
+
+&lt;p&gt;그래도 피할 수 없다면 이겨내야 하는 법. 저는 열심히 부딪혀 보기로 했습니다.&lt;br /&gt;
+새로운 지식을 알게되면 열심히 공유하겠습니다.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">저는 직장인 소개팅 어플 커피한잔을 개발한 뒤 플레이스토어에서 특별한 세금 설정 없이 몇 년을 운영해왔었는데요. 이번에 부가가치세에 대해서 공부를 하다가 뭔가 잘못되었다는 걸 깨닫게 되었습니다.</summary></entry></feed>
