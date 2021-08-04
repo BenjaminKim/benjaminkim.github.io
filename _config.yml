@@ -25,13 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: BenjaminKim
-
+lang: "ko"
+timezone: "Asia/Seoul"
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
 google_analytics: G-GWXLJNJY30
+port: 3000
 
 # Exclude from processing.
 # The following items will not be processed, by default.
