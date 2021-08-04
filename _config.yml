@@ -27,7 +27,7 @@ url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http
 github_username: BenjaminKim
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
