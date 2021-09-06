@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: BenjaminKim
 lang: "ko"
-timezone: "Asia/Seoul"
+timezone: Asia/Seoul
 # Build settings
 theme: minima
 plugins:
