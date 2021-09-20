@@ -2,3 +2,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://jeho.page/sitemap.xml
+
+#DaumWebMasterTool:46cea7c23d6c4163acb80829d745fe921df9a9123a561045f9376669ae06181a:PVfbK7YRwTID5p03q8sQ/Q==
