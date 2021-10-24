@@ -2,6 +2,7 @@
 layout: post
 categories: programming
 image: /assets/img/books.jpg
+title: 알아두면 유용한 MoveFileEx 함수의 펜딩 옵션
 ---
 [MoveFileEx](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexw) 함수는 파일 이름 변경이나 삭제를 컴퓨터가 재시작할 때 까지 지연시킬 수 있는 상당히 유용한 옵션이 있다.  
 사용 중인 DLL을 교체 한다거나 언인스톨시 파일을 삭제해야 하는데 파일이 사용중이어서 삭제할 수 없는 경우에 유용하게 쓸 수 있다.
