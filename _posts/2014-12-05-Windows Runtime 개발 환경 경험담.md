@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/raymond_chen.jpg
+image: /assets/img/winrt.jpg
 title: Windows Runtime 개발 환경 경험담
 date: 2014-12-05 12:40:00 +0900
 ---
