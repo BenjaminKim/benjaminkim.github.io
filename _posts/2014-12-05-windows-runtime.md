@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/winrt.jpg
-title: Windows Runtime 유니버셜 앱 개발 경험담
+title: Windows 유니버셜 앱 개발 경험담
 date: 2014-12-05 12:40:00 +0900
 ---
 꽤 오랫동안 윈도 프로그래밍에서 떨어져 살다가 윈도폰은 어떨지 궁금해서 문득 윈도폰 하나를 중고로 구입해본 적이 있었다.  
