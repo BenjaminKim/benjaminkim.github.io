@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/DSCN0049.jpg
+image: https://t1.daumcdn.net/cfile/tistory/12495F314C57E3660B
 title: 로그 뷰어로써의 Vim - 멀티 하이라이팅 기능
 ---
 vim은 좋아하는 에디터이다.  
