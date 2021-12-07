@@ -2,7 +2,7 @@
 layout: post
 categories: programming
 image: /assets/img/jeho.jpg
-title: boost 라이브러리로 커맨드 라인 파싱 쉽게 하기
+title: C++ program_options 라이브러리로 커맨드 라인 파싱 쉽게 하기
 date: 2009-09-12 17:40:00 +0900
 ---
 
