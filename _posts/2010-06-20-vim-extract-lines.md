@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: https://t1.daumcdn.net/cfile/tistory/12495F314C57E3660B
+image: https://t1.daumcdn.net/cfile/tistory/151F12324C57E3667A
 title: 로그 뷰어로써의 Vim - 원하는 문자열만 골라내기
 ---
 `/` 를 통해 쉽고 빠르게 원하는 문자열을 하이라이트 서치 할 수 있는 것만 해도 vim은 로그뷰어로서 꽤 쓸만하다.
