@@ -2,6 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/DSCN0049.jpg
+date: 2010-01-13 19:18:00 +0900
 ---
 Java API에 있는 `File` 클래스의 메소드를 보다가 `getAbsolutePath`와 `getCanonicalPath`를 보고는 이상하다 생각했다. 
 결과가 항상 같은 절대경로로 나왔던 것이다.  
