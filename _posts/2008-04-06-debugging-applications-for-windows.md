@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: essay
+categories: programming
 image: https://image.aladin.co.kr/product/47/86/cover500/8956741797_1.gif
 title: Windows 디버깅을 알려주는 최고의 책
 date: 2008-04-06 20:13:00 +0900

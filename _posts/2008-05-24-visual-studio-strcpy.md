@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: essay
+categories: programming
 image: /assets/img/vs2005.png
 title: Visual C++ 문자열 함수 잘 사용하기
 date: 2008-05-24 14:45:00 +0900
