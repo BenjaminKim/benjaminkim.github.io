@@ -37,7 +37,7 @@ date: 2008-04-06 20:13:00 +0900
 
 * 심볼서버 구성,
 * ASSERT와 TRACE,
-* [경고 없는 코드를 작성하는 방법](http://localhost:3000/essay/2008/05/24/visual-studio-strcpy.html)
+* [경고 없는 코드를 작성하는 방법](/programming/2008/05/24/visual-studio-strcpy.html)
 * 컴파일, 링커 옵션에서 각 스위치들의 의미,
 * DLL이 로드되다가 충돌 하였을 때 재배치되는 과정과 방지하는 방법,
 * 멀티쓰레드 프로그래밍시에 주의사항,
