@@ -14,7 +14,7 @@ Windows 프로그래머라면 꼭 구독해야 할 블로그 하나를 꼽으라
 
 윈도우즈 프로그래머가 배울 것이 많은 주제들로 글을 쓰는데다가 유머감각도 있기 때문에 재미있다.
 
-[모어 조엘 온 소프트웨어](https://www.benjaminlog.com/entry/More-Joel-on-Software)에서 조엘은 그를 두고 [세상에서 가장 훌륭한 프로그래머](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) 라고 표현하기도 할만큼 실력있는 해커이기도 하다.
+[모어 조엘 온 소프트웨어](/essay/2010/01/07/more-joel-on-software.html)에서 조엘은 그를 두고 [세상에서 가장 훌륭한 프로그래머](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) 라고 표현하기도 할만큼 실력있는 해커이기도 하다.
 
 이 책은 2006년에 그의 블로그의 글들을 모아서 발행되었으며, 2007년에 번역서가 출간되었다.  
 처음 이 책이 나왔을 때 나는 UI 프로그래밍에 관심이 많아서 그 쪽으로 많이 읽었는데 이번에 다시 읽을 때는 파일 시스템이나 윈도우 시스템 내부의 이야기를 중심으로 읽었다.
