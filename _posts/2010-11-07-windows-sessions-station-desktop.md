@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: essay
-image: https://t1.daumcdn.net/cfile/tistory/141C20354CB9D96A49
+categories: programming
+image: https://t1.daumcdn.net/cfile/tistory/1250F9104CD6A09434
 title: Windows의 세션, 윈도우 스테이션, 데스크탑에 대해 자세히 알아보기
 date: 2010-11-07 18:23:00 +0900
 ---
