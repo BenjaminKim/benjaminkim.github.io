@@ -7,7 +7,7 @@ date: 2022-01-05 17:56:00 +0900
 ---
 jQuery를 만든 존 레식이 언젠가 [매일매일 코딩하기](https://johnresig.com/blog/write-code-every-day/)라는 글을 쓴 적이 있습니다.
 
-존 레식은 무려 3년 동안이나 매일 코딩하기를 해냈네요.
+존 레식은 무려 [3년 동안이나](https://github.com/jeresig?tab=overview&from=2014-12-01&to=2014-12-31) 매일 코딩하기를 해냈네요.
 
 ![](/assets/img/john_resig.png)  
 *존 레식 GitHub, 2014년*
