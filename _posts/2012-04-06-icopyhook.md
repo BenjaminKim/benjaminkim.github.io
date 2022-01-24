@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: programming
-image: https://t1.daumcdn.net/cfile/tistory/143B83374F863E110A
+image: /assets/img/books.jpg
 title: 쉘의 파일 오퍼레이션을 잡아챌 수 있는 ICopyHook 인터페이스
 date: 2012-04-06 14:55:00 +0900
 ---
