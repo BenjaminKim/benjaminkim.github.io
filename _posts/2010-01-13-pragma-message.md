@@ -5,6 +5,7 @@ image: https://t1.daumcdn.net/cfile/tistory/1272672E4C57E35C05
 title: 비주얼 스튜디오에서 pragma message 로 실수 방지 하기
 date: 2010-01-13 23:17:00 +0900
 ---
+
 [Jeffrey Richter의 Windows via C/C++](/essay/2008/12/19/windows-via-cpp.html) 예제 코드에는 공통 헤더파일이 있다.  
 이 곳을 살펴보면 유용하게 사용할 수 있을만한 팁들이 많이 있다.  
 그 중 가장 쉽고 편하게 쓸 수 있는 기능 하나를 소개하고자 한다.

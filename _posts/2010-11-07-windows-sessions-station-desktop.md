@@ -5,6 +5,7 @@ image: https://t1.daumcdn.net/cfile/tistory/1250F9104CD6A09434
 title: Windows의 세션, 윈도우 스테이션, 데스크탑에 대해 자세히 알아보기
 date: 2010-11-07 18:23:00 +0900
 ---
+
 윈도우즈의 세션과 윈도우 스테이션 그리고 윈도우 데스크탑은 많은 프로그래머들에게 생소하지만 잘 모르고 있으면 수많은 골치거리를 안겨주는 개념들이다.  
 나는 지금까지 세션에 대해서만 어렴풋이 알고 있고 윈도우 스테이션과 데스크탑에 대해서는 전혀 모르고 지냈었다.  
 이런 단어들은 들려올 때마다 항상 나를 부끄럽게 만들었는데, 며칠전 인터넷에서 [잘 설명된 글](https://brianbondy.com/blog/100/understanding-windows-at-a-deeper-level-sessions-window-stations-and-desktops)을 보고는 내 블로그에 한 번 옮겨 적어 봐야겠다는 생각을 했다.
