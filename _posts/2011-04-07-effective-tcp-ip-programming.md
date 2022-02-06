@@ -3,7 +3,7 @@ layout: post
 categories: essay
 image: https://image.aladin.co.kr/product/42/55/cover500/899539191x_1.gif
 title: 소켓 프로그래밍을 배우기 좋은 책 - Effective TCP/IP Programming
-date: 2011-03-15 06:48:00 +0900
+date: 2011-04-07 23:57:00 +0900
 ---
 
 ![](https://image.aladin.co.kr/product/42/55/cover500/899539191x_1.gif)  
