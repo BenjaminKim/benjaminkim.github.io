@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg
 title: 이재규의 C로 배우는 알고리즘
 date: 2008-03-15 19:07:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=893170139x&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 

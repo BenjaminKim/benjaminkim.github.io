@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/57/79/cover500/8991268072_2.jpg
 title: 실용주의 프로그래머
 date: 2010-05-22 22:08:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/57/79/cover500/8991268072_2.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268072&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 

@@ -5,6 +5,7 @@ image: /assets/img/justforfun.jpg
 title: 내 프로그래머 인생 최고의 책은? 리눅스 그냥 재미로
 date: 2008-08-20 22:38:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/27/46/cover500/8984310468_1.gif)
 
 작년 봄에 도서관에서 우연히 [이 책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274630)을 발견했다.  

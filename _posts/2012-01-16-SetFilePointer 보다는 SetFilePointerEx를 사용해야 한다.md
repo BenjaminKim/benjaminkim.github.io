@@ -4,6 +4,7 @@ categories: essay
 image: /assets/img/jeho.jpg
 title: SetFilePointer 보다는 SetFilePointerEx를 사용해야 한다.
 ---
+
 파일을 열 때 파일 포인터는 0으로 셋팅된다.  
 이후 해당 파일에 [ReadFile](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile)이나 [WriteFile](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-writefile)등의 함수를 통해서 I/O를 하게 되면 파일 포인터가 자동으로 증가하게 된다.    
 물론 Windows는 사용자가 직접 오프셋을 조정할 수 있는 인터페이스도 제공해주는데 [SetFilePointer](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-setfilepointer) 가 바로 그런 함수이다.  

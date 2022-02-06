@@ -5,6 +5,7 @@ image: https://t1.daumcdn.net/cfile/tistory/13513D304C5C3BB16C
 title: Process Monitor에 커스텀 로그를 쓰기
 date: 2010-08-07 00:57:00 +0900
 ---
+
 `Sysinternals`가 만든 여러 유용한 툴 중 [Process Monitor](/essay/2011/01/14/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0-%EC%82%AC%EC%9A%A9%EB%B2%95.html)는 내가 가장 좋아하는 툴이다.  
 `Process Monitor`는 잘 사용하려면 UI도 익숙해져야 하지만 Windows API를 많이 알고 있어야 하기 때문에 개발자가 아닌 QA팀 같은 곳에서는 사용하기 힘들다.  
 하지만 프로세스가 수행하는 모든 동작들을 잡아채서 보여주기 때문에 어떤 응용프로그램을 분석할 때 유용한 많은 정보들을 얻어 낼 수 있다.

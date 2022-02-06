@@ -7,7 +7,7 @@ date: 2011-06-27 07:03:00 +0900
 ---
 
 ![](https://image.aladin.co.kr/product/63/94/cover500/8956743118_1.jpg)  
-출처: [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956743118&ttbkey=ttbcrazytazo1459001&COPYPaper=1)
+*출처: [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956743118&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 STL은 정말 잘 만들어진 라이브러리라고 생각한다. 어쩌면 C++로 만들어진 가장 아름다운 코드가 아닐까.  
 많은 사람들이 STL을 컨테이너를 위한 용도 정도로만 사용하는데 사실 STL의 컨테이너들은 알고리즘과 함수 객체와 함께 조합될 때 더 큰 위력을 발휘하고 바로 이것이 STL을 사용하는 재미가 아닌가 싶다.

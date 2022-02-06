@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/98/43/cover500/8990758807_1.jpg
 title: 레이몬드 첸의 윈도우 개발 282 스토리
 date: 2010-08-01 17:32:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/98/43/cover500/8990758807_1.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758807&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 

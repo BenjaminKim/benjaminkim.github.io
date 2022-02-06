@@ -4,8 +4,8 @@ categories: programming
 image: https://t1.daumcdn.net/cfile/tistory/186279354C66B14586
 title: Windows Api의 에러 번호를 확인하는 가장 간편한 방법
 date: 2010-08-15 00:15:00 +0900
-
 ---
+
 Windows 프로그래머라면 Windows Api의 에러코드에 익숙해야 한다.  
 [자주 쓰이는 에러코드는 숫자만 봐도 그냥 외우고 있어야 한다.](https://devblogs.microsoft.com/oldnewthing/20100127-00/?p=15163)
 하지만 모든 에러 코드를 외울 수는 없는 법.  

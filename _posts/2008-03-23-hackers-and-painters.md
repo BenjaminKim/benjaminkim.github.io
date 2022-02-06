@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/3447/15/cover500/8968480710_1.jpg
 title: 해커와 화가
 date: 2008-03-23 16:09:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/3447/15/cover500/8968480710_1.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34471523)*
 

@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg
 title: 조엘 온 소프트웨어
 date: 2012-02-12 21:50:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989975581&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 

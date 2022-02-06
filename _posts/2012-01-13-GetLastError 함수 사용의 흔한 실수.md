@@ -4,6 +4,7 @@ categories: essay
 image: /assets/img/jeho.jpg
 title: GetLastError 함수 사용의 흔한 실수
 ---
+
 [GetLastError](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)는 윈도 Api를 호출 한 뒤 해당 함수의 Win32 에러 코드를 받아오기 위한 함수이다.  
 이 오류 정보는 쓰레드별로 하나만 저장되기 때문에 함수가 실패한 후 다른 함수를 실행하기 전에 에러 값을 읽어와야 한다.  
 다른 함수들이 호출된 이후에는 에러 값이 덮어 씌워져 버릴 수 있다.

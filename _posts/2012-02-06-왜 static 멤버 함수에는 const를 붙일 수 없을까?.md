@@ -3,6 +3,7 @@ layout: post
 categories: programming
 image: /assets/img/jeho.jpg
 ---
+
 C++에서는 멤버 함수에 const 키워드를 사용할 수 있다.  
 이는 메서드 내에서 멤버 변수들의 값을 바꾸지 않겠다는 약속이다.
 

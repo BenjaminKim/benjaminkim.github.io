@@ -5,6 +5,7 @@ image: /assets/img/DSCN0049.jpg
 title: TCP 서버와 HTTP 서버
 date: 2022-01-14 6:46:00 +0900
 ---
+
 "TCP 서버에요 HTTP 서버에요?"  
 "네...?"  
 "아, 그러니깐 소켓 서버냐고요 HTTP 서버냐고요."

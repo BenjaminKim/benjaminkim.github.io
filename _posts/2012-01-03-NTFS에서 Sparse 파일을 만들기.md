@@ -4,6 +4,7 @@ categories: programming
 image: /assets/img/jeho.jpg
 title: NTFS에서 Sparse 파일을 만들기
 ---
+
 [Sparse 파일](https://docs.microsoft.com/en-us/windows/win32/fileio/sparse-files)을 만드는 것은 Win32 Api로서 제공되지는 않으며 파일 시스템이 인터페이스를 제공한다.  
 콘트롤 코드를 파일 시스템 장치에 직접 보냄으로써 Sparse 파일을 만들어 낼 수 있다.
 

@@ -5,6 +5,7 @@ image: https://image.aladin.co.kr/product/2481/71/cover500/8998139170_1.jpg
 title: 코딩 호러의 이펙티브 프로그래밍
 date: 2013-04-08 02:38:00 +0900
 ---
+
 ![](https://image.aladin.co.kr/product/2481/71/cover500/8998139170_1.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8998139170&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 

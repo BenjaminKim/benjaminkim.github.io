@@ -5,6 +5,7 @@ image: https://t1.daumcdn.net/cfile/tistory/12767D404EF0521716
 title: 리눅스는 쓸모가 없어요 - 앤드류 타넨바움
 date: 2011-12-20 18:24:00 +0900
 ---
+
 ![](https://t1.daumcdn.net/cfile/tistory/12767D404EF0521716)
 
 그 유명한 리누스 토발즈와의 [논쟁](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)에서,  

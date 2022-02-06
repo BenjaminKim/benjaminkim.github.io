@@ -4,6 +4,7 @@ categories: essay
 image: https://t1.daumcdn.net/cfile/tistory/12495F314C57E3660B
 title: 로그 뷰어로써의 Vim - 멀티 하이라이팅 기능
 ---
+
 vim은 좋아하는 에디터이다.  
 Windows에서나 Linux에서나 거의 모든 텍스트 문서는 빔으로 열어본다.  
 빔의 쓰기 기능보다는 검색과 이동 그리고 치환 기능을 주로 사용하는데 이것만으로도 빔은 큰 가치가 있다.
