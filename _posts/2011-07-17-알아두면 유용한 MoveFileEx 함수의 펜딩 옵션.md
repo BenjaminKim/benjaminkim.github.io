@@ -3,7 +3,9 @@ layout: post
 categories: programming
 image: /assets/img/books.jpg
 title: 알아두면 유용한 MoveFileEx 함수의 펜딩 옵션
+date: 2011-07-17 23:56:00 +0900
 ---
+
 [MoveFileEx](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexw) 함수는 파일 이름 변경이나 삭제를 컴퓨터가 재시작할 때까지 지연시킬 수 있는 상당히 유용한 옵션이 있다.  
 사용 중인 DLL을 교체한다거나 언인스톨 시 파일을 삭제해야 하는데 파일이 사용 중이어서 삭제할 수 없는 경우에 유용하게 쓸 수 있다.
 
@@ -34,4 +36,4 @@ title: 알아두면 유용한 MoveFileEx 함수의 펜딩 옵션
 파일 속성에 대한 모든 조작은 이 함수를 통해서 할 수 있다.  
 하지만 워낙 저수준의 함수이기 때문에 사용법이 조금 어렵게 느껴질 수도 있다.  
 아래 글에 해당 함수를 사용하여 이름 변경을 하는 코드에 대한 설명이 있다.  
-[하위 디렉터리의 파일이 변경되었는지 감지하는 법](https://jeho.page/essay/2010/12/20/%ED%95%98%EC%9C%84-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%B4-%EB%B3%80%EA%B2%BD-%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0.html)
+[하위 디렉터리의 파일이 변경되었는지 감지하는 법](/essay/2010/12/20/%ED%95%98%EC%9C%84-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%B4-%EB%B3%80%EA%B2%BD-%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0.html)

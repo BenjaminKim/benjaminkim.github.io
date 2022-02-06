@@ -5,6 +5,7 @@ image: /assets/img/books.jpg
 title: 쉘의 파일 오퍼레이션을 잡아챌 수 있는 ICopyHook 인터페이스
 date: 2012-04-06 14:55:00 +0900
 ---
+
 [ICopyHook](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/bb776049(v=vs.85)?redirectedfrom=MSDN)은 윈도에서 제공하는 COM 인터페이스이다.  
 이 인터페이스를 구현해서 시스템에 등록시키면 쉘을 통한 파일 오퍼레이션이 발생할 때 내가 설치해 놓은 코드가 실행되도록 할 수 있다.
 
@@ -24,7 +25,7 @@ UINT CopyCallback(
 
 파일 오퍼레이션을 잡아챌 수 있다고 해서 이 훅을 사용해 파일 삭제 등을 감시하는 모니터 용도로 사용하려는 아이디어는 좋지 못하다.  
 이 기능은 모든 파일 시스템 오퍼레이션에 훅을 제공하는 것이 아니라 폴더 삭제와 같은 특정한 몇몇 동작에 대해서만 동작하기 때문이다.  
-어떤 파일 오퍼레이션이 발생하는가 궁금한 거라면 [파일 시스템에서 제공하는 파일 변경 알림 기능](https://jeho.page/essay/2010/12/20/%ED%95%98%EC%9C%84-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%B4-%EB%B3%80%EA%B2%BD-%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0.html)을 사용하는 것이 올바른 방법이다.
+어떤 파일 오퍼레이션이 발생하는가 궁금한 거라면 [파일 시스템에서 제공하는 파일 변경 알림 기능](/essay/2010/12/20/%ED%95%98%EC%9C%84-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%B4-%EB%B3%80%EA%B2%BD-%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0.html)을 사용하는 것이 올바른 방법이다.
 
 그럼 이 인터페이스는 도대체 어디에 쓰라고 만든 물건인가.
 
