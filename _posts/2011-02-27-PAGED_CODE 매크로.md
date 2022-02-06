@@ -3,7 +3,9 @@ layout: post
 categories: essay
 image: /assets/img/jeho.jpg
 title: PAGED_CODE 매크로
+date: 2011-02-27 19:09:00 +0900
 ---
+
 [PAGED_CODE](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/paged_code) 는 다음과 같이 생긴 간단한 매크로이다.
 
 ```c++

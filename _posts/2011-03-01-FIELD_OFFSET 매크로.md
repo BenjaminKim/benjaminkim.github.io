@@ -3,6 +3,7 @@ layout: post
 categories: programming
 image: /assets/img/jeho.jpg
 title: FIELD_OFFSET 매크로
+date: 2011-03-01 08:00:00 +0900
 ---
 
 ```c++
