@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/apps.jpg
-title: 개발자 뉴스앱 만들기
+title: 자신만의 Hello World 프로그램을 만들기
 date: 2022-02-07 16:27:00 +0900
 ---
 
