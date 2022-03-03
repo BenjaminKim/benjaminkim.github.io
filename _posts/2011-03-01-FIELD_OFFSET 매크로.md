@@ -109,3 +109,12 @@ int _tmain(int argc, _TCHAR* argv[])
 `CONTAINING_RECORD`는 `container_of`와 같다.
 리눅스를 다루는 사람들은 `offsetof` 매크로를 많이 사용하는 것 같지만 나는 윈도 매크로가 더 익숙해서, 코드를 다른 플랫폼으로 이식할 필요가 없다면 `offsetof` 보다 `FIELD_OFFSET`을 사용하는 것을 더 선호한다.  
 양쪽의 구현은 똑같다.
+<br>
+<br>
+
+---
+
+<br>
+비슷한 글:
+* [_countof 매크로](/essay/2011/03/15/_countof-매크로.html)
+* [PAGED_CODE 매크로](/essay/2011/02/27/PAGED_CODE-매크로.html)
