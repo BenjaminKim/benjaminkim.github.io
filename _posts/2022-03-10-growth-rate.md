@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/jeho.jpg
+image: /assets/img/rootone.jpg
 title: 1년에 15%씩 성장
 date: 2022-03-10 13:59:00 +0900
 ---
