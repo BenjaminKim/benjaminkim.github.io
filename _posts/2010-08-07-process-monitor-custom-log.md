@@ -20,7 +20,7 @@ date: 2010-08-07 00:57:00 +0900
 두가지 툴을 번갈아 쳐다보며 로그를 확인 하기는 어렵다. 순서가 뒤죽박죽이기 때문에.  
 이번에 프로세스 모니터에서 이런 기능을 해결하기 위한 인터페이스가 하나 추가되었다.
 
-이 아이디어는 [디버깅 애플리케이션](https://www.benjaminlog.com/entry/Debugging-Applications)의 저자인 존 로빈스가 제안했는데, 현재 MS 최고의 프로그래머 중 하나인 마크 루시노비치를 자신의 개인 프로그래머라고 농담하는 것이 재밌다.
+이 아이디어는 [디버깅 애플리케이션](/programming/2008/04/06/debugging-applications-for-windows.html)의 저자인 존 로빈스가 제안했는데, 현재 MS 최고의 프로그래머 중 하나인 마크 루시노비치를 자신의 개인 프로그래머라고 농담하는 것이 재밌다.
 
 > What I really wanted was for my trace statements to be part of the Process Monitor viewing so that way it would be trivial mapping the I/O activity to operations in my code.  
 > Fortunately, I have a personal developer at my disposal that is keen to tackle these kinds of challenges.  

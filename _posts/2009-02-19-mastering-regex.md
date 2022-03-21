@@ -46,7 +46,7 @@ date: 2009-02-19 20:08:00 +0900
 
 프로그래밍 코드에서 정규식을 사용해야하는 가장 잦은 부분, 그리고 중요한 부분은 아마도 입력값 검증일 것이다.
 
-[Writing Secure Code](https://www.benjaminlog.com/41)에서 [마이클 하워드](https://docs.microsoft.com/en-us/archive/blogs/michael_howard/)는 입력값 검증의 중요성을 무던히도 강조하는데,
+[Writing Secure Code](https://benjaminlog.tistory.com/entry/writingsecurecode)에서 [마이클 하워드](https://docs.microsoft.com/en-us/archive/blogs/michael_howard/)는 입력값 검증의 중요성을 무던히도 강조하는데,
 그는 항상 모든 입력값을 정규식으로 완벽하게 체크하는 좋은 습관을 보여주었다.
 
 이 책에서 저자는 정규식을 테스트 하기위해 perl 과 egrep을 많이 사용하는데,

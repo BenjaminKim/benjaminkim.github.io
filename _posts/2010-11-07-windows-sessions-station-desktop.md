@@ -16,7 +16,7 @@ date: 2010-11-07 18:23:00 +0900
 이 글에서 프로그래머들이 실제로 개발하는데 있어서 가장 중요한 내용은 비스타부터 변경된 세션0의 분리이다.  
 만일 비스타 이상에서 윈도우 서비스를 만들 때나 커널 오브젝트와 도스 디바이스들을 다룰 때 이에 대해서 잘 모르고 있다면 수 없이 골탕을 먹게 될 것이다.  
 글 말미에 있는 더 읽을 거리 중에서 [Session 0 Isolation](https://techcommunity.microsoft.com/t5/ask-the-performance-team/application-compatibility-session-0-isolation/ba-p/372361)는 이 부분에 대해 좋은 설명을 제공한다.  
-[제프리리쳐의 Windows via C/C++](/essay/2008/12/19/windows-via-cpp.html)이나 [윈도우 인터널](https://www.benjaminlog.com/entry/Windows-Internals-5th-has-been-published)의 오브젝트 매니저 챕터도 반드시 읽어봐야 한다.
+[제프리리쳐의 Windows via C/C++](/essay/2008/12/19/windows-via-cpp.html)이나 [윈도우 인터널](https://benjaminlog.tistory.com/entry/Windows-Internals-5th-has-been-published)의 오브젝트 매니저 챕터도 반드시 읽어봐야 한다.
 
 자 그럼 지금부터 시작.
 
