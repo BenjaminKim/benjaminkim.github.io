@@ -30,3 +30,11 @@ Ruby나 Rails나 둘 다 고인물 같아도 의외로 아주 활발하게 개�
 DHH의 얼굴도 중년이 되었고, 우리가 쓰는 컴퓨터도 많이 바뀌었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpWFrUwAN88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+
+---
+
+<br>
+비슷한 글:
+* [Ruby는 프로그래머를 위한 선물](/essay/2022/02/18/ruby.html)

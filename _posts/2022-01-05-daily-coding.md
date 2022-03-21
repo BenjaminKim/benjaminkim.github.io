@@ -44,3 +44,4 @@ jQuery를 만든 존 레식이 언젠가 [매일매일 코딩하기](https://joh
 <br>
 비슷한 글:
 * [꾸준히 한다는 것](/essay/2021/12/14/steady.html)
+* [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
