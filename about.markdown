@@ -14,4 +14,4 @@ permalink: /about/
 이제는 편안한 마음으로 프로그램을 짭니다.
 
 전업 투자자이기도 합니다.  
-투자자로서의 이야기는 [이 곳](https://brunch.co.kr/@buildingking)에 씁니다.
+투자자로서의 이야기는 [이 곳](https://brunch.co.kr/@buildingking?utm_source=jehopage&utm_medium=blog&utm_campaign=v3)에 씁니다.
