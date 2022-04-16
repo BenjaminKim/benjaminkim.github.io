@@ -28,3 +28,11 @@ Flutter 2.10 부터는 [윈도우도 지원한다고 해서](https://medium.com/
 저 혼자 쓰는 뉴스앱이지만 혹시 필요하신 분이 있다면 [여기](https://play.google.com/store/apps/details?id=blogs.awesome.android.awesome_blogs_flutter&hl=ko)서 받을 수 있습니다.  
 SwiftUI 버전은 [여기](https://apps.apple.com/kr/app/id1557176134)에서.  
 서버 코드는 [여기](https://github.com/BenjaminKim/awesome-blogs)에서.
+<br>
+<br>
+
+---
+
+<br>
+비슷한 글:
+* [어썸블로그, 개발자를 위한 뉴스 어플](/programming/2017/02/21/어썸블로그-개발자를-위한-뉴스-어플.html)
