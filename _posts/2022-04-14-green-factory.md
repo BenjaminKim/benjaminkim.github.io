@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/green_factory.jpg
+image: /assets/img/1784.jpg
 title: 그린팩토리는 우리나라 최고의 오피스
 date: 2022-04-14 14:08:00 +0900
 ---
