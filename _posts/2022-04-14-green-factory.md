@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/1784.jpg
+image: /assets/img/1784.png
 title: 그린팩토리는 우리나라 최고의 오피스
 date: 2022-04-14 14:08:00 +0900
 ---
@@ -36,7 +36,7 @@ date: 2022-04-14 14:08:00 +0900
 
 건물이 지어진지 10년이 지났지만 지금도 우리나라 최고의 오피스일거라 생각합니다.
 
-![](/assets/img/1784.jpg)
+![](/assets/img/1784.png)
 
 그린팩토리 뒤에 짓던 신사옥이 이제 다 완성되었나 봅니다.  
 건물 이름은 [1784](https://www.navercorp.com/naver/1784). 정자동 178-4번지.
