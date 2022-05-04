@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/marriage.png
-title: 내 코드 따위가 뭐라고
+title: 내가 만들었지만 나도 너무 신기해
 date: 2022-05-04 10:46:00 +0900
 ---
 
