@@ -11,8 +11,7 @@ date: 2022-05-14 09:58:00 +0900
 SwiftUI로만 코딩하게 될 날이 얼마 안 남은 것 같습니다.  
 특히나 저 같은 취미 개발자는 지금 당장 시작해도 괜찮습니다.
 
-SwiftUI를 공부하기 위해 가장 도움이 된 것은 이 유튜브였습니다.  
-이제 더 이상 책으로 공부하지 않습니다.
+SwiftUI를 공부하기 위해 가장 도움이 된 것은 이 유튜브였습니다.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pd90OTQiOaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
