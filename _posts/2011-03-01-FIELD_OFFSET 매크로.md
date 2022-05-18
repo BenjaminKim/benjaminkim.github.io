@@ -111,10 +111,6 @@ int _tmain(int argc, _TCHAR* argv[])
 양쪽의 구현은 똑같다.
 <br>
 <br>
-
----
-
-<br>
-비슷한 글:
+*비슷한 글:*
 * [_countof 매크로](/essay/2011/03/15/_countof-매크로.html)
 * [PAGED_CODE 매크로](/essay/2011/02/27/PAGED_CODE-매크로.html)

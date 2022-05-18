@@ -30,10 +30,6 @@ date: 2012-02-12 21:50:00 +0900
 싸움 구경만큼 재밌는 건 없잖아.
 <br>
 <br>
-
----
-
-<br>
-비슷한 글:
+*비슷한 글:*
 * [리눅스 그냥 재미로](/essay/2008/08/20/just-for-fun.html)
 * [More Joel on Software](/essay/2010/01/07/more-joel-on-software.html)

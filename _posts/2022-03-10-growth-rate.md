@@ -39,11 +39,7 @@ date: 2022-03-10 13:59:00 +0900
 그제야 마음이 편해지고 일도 잘 되기 시작했습니다.
 <br>
 <br>
-
----
-
-<br>
-비슷한 글:
+*비슷한 글:*
 * [절대 포기하지 않는 사람](https://brunch.co.kr/@buildingking/47)
 * [개발자의 윗몸일으키기](/essay/2022/02/10/sit-up-for-developers.html)
 * [꾸준히 한다는 것](/essay/2021/12/14/steady.html)

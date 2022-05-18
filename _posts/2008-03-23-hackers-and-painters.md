@@ -38,10 +38,6 @@ Python과 Perl 그리고 Ruby.
 새로운 프로젝트는 이 언어들로 해보고 싶다. 얼마나 즐거울까.
 <br>
 <br>
-
----
-
-<br>
-비슷한 글:
+*비슷한 글:*
 * [리눅스 그냥 재미로](/essay/2008/08/20/just-for-fun.html)
 * [조엘 온 소프트웨어](/essay/2012/02/12/joel-on-software.html)

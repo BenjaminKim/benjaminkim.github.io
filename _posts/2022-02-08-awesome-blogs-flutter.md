@@ -30,9 +30,5 @@ SwiftUI 버전은 [여기](https://apps.apple.com/kr/app/id1557176134)에서.
 서버 코드는 [여기](https://github.com/BenjaminKim/awesome-blogs)에서.
 <br>
 <br>
-
----
-
-<br>
-비슷한 글:
+*비슷한 글:*
 * [어썸블로그, 개발자를 위한 뉴스 어플](/programming/2017/02/21/어썸블로그-개발자를-위한-뉴스-어플.html)
