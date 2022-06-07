@@ -25,4 +25,4 @@ date: 2022-04-09 10:13:00 +0900
 <br>
 <br>
 *비슷한 글:*
-* [자신만의 루틴을 만들기](https://brunch.co.kr/@buildingking/53)
+* [자기만의 루틴을 만들기](https://brunch.co.kr/@buildingking/53)
