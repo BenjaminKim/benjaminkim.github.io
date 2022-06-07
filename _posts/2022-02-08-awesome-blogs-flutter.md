@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/apps.jpg
-title: 당신의 Hello World 프로그램은 무엇인가요?
+title: 자기만의 Hello World 프로그램을 갖기
 date: 2022-02-07 16:27:00 +0900
 ---
 
