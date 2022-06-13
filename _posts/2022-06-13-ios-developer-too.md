@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/finishing-is-hard.png
+image: /assets/img/finishing_is_hard.png
 title: 이제 나도 아이폰 개발자
 date: 2022-06-13 12:57:00 +0900
 ---
