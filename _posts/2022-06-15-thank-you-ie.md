@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: https://www.tech42.co.kr/wp-content/uploads/2022/06/PC-%EC%8B%9C%EB%8C%80-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%9F%AC-1024x670.png
+image: https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png
 title: 고마워 인터넷 익스플로러
 date: 2022-06-15 17:04:00 +0900
 ---
@@ -11,7 +11,8 @@ date: 2022-06-15 17:04:00 +0900
 
 얼른 세상에서 사라졌으면 좋겠다 싶었는데 진짜로 그날이 오나 봅니다.
 
-![](https://www.tech42.co.kr/wp-content/uploads/2022/06/PC-%EC%8B%9C%EB%8C%80-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%9F%AC-1024x670.png)
+![](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png)  
+*출처: https://www.my-internet-explorer.com/ie5*
 
 [기사를 보니](https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/) IE는 1995년 윈도우 95에서 처음 서비스되었다고 합니다.  
 윈도우 95였어? 몰랐네.  
