@@ -11,14 +11,15 @@ date: 2022-06-15 17:04:00 +0900
 
 얼른 세상에서 사라졌으면 좋겠다 싶었는데 진짜로 그날이 오나 봅니다.
 
-![](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png)  
-*출처: https://www.my-internet-explorer.com/ie5*
-
 [기사를 보니](https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/) IE는 1995년 윈도우 95에서 처음 서비스되었다고 합니다.  
 윈도우 95였어? 몰랐네.  
 
 윈도 95랑 98 그리고 윈도 Me를 거쳐 윈도 Xp까지 정말 잘 썼는데.  
 딸깍 딸깍 버튼을 누르며 인터넷을 탐험하던 순간들이 문득 떠오릅니다.  
+
+![](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png)  
+*출처: https://www.my-internet-explorer.com/ie5*
+
 흥미로운 웹사이트를 만나게 되는 건 멋진 일이었습니다.
 
 와레즈란 사이트도 있다는 것을 처음 알게 된 순간은 너무 충격적이어서 지금도 기억이 납니다.  
@@ -37,5 +38,4 @@ date: 2022-06-15 17:04:00 +0900
 사람들에게 무려 27년 간이나 세상을 탐험할 수 있는 서비스를 제공한 거군.  
 미움이 싹 사라지고 고마움만 남습니다.
 
-이제 추억과 함께 마음 한 구석에 간직해야겠습니다.  
-고마워!
+이제 추억으로 마음 한 구석에 간직해야겠습니다.
