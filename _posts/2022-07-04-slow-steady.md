@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/daily_coding.png
-title: 느려도 좋으니 매일 한걸음씩 전진
+title: 느려도 좋으니 매일 한 걸음씩 전진
 date: 2022-07-04 15:14:00 +0900
 ---
 
