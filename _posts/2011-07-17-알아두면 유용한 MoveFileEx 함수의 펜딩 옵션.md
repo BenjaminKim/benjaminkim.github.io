@@ -6,18 +6,19 @@ title: 알아두면 유용한 MoveFileEx 함수의 펜딩 옵션
 date: 2011-07-17 23:56:00 +0900
 ---
 
-[MoveFileEx](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexw) 함수는 파일 이름 변경이나 삭제를 컴퓨터가 재시작할 때까지 지연시킬 수 있는 상당히 유용한 옵션이 있다.  
-사용 중인 DLL을 교체한다거나 언인스톨 시 파일을 삭제해야 하는데 파일이 사용 중이어서 삭제할 수 없는 경우에 유용하게 쓸 수 있다.
+[MoveFileEx](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexw) 함수는 컴퓨터가 재시작 될 때까지 파일 이름 변경이나 삭제를 지연시킬 수 있는 유용한 옵션이 있다.  
+사용 중인 DLL을 교체한다거나 언인스톨 시 파일을 삭제할 때 파일이 사용 중이어서 삭제할 수 없는 경우에 쓸 수 있다.
 
 `MoveFile` 함수는 내부적으로 `CreateFile` 함수를 통해 파일을 오픈하는데 이 때 `DesiredAccess`로 `DELETE`을 사용한다.  
-파일이 잘 열렸다면 `RenameInformation IRP`를 날린 후 핸들을 닫고 성공으로 반환하지만, 이미 다른 위치에서 파일이 열려있었다면 먼저 파일을 연 쪽에서 `FILE_SHARE_DELETE`를 함께 주지 않았었을 경우 파일 열기가 `ERROR_SHARING_VIOLATION` 으로 실패하게 되어 `MoveFile` 함수 또한 실패로 리턴해버리게 되는 것이다.
+파일이 잘 열렸다면 `RenameInformation IRP`를 날린 후 핸들을 닫고 성공으로 반환한다.  
+하지만 다른 위치에서 이미 파일이 열려있었다면 먼저 파일을 연 쪽에서 `FILE_SHARE_DELETE`를 함께 주지 않았었을 경우 파일 열기가 `ERROR_SHARING_VIOLATION` 으로 실패하게 되어 `MoveFile` 함수 또한 실패하는 것이다.
 
 재부팅 시에라도 dll 등을 교체시켜주거나 깨끗하게 삭제하기를 원한다면 `MoveFileEx`함수를 호출 할 때 세 번째 파라미터로 `MOVEFILE_DELAY_UNTIL_REBOOT` 옵션을 주면 된다.  
 이렇게 하면 `MoveFileEx`함수는 레지스트리의 `HKLM\System\CurrentControlSet\Control\Session Manager\PendingFileRenameOperations` 위치에 어떤 오퍼레이션이었는지 정보를 적어 놓기만 하고 리턴한다.  
 시스템이 재부팅 되고 나서 응용프로그램들이 실행되기 전 운영체제에서 레지스트리를 확인해 보고 해당 동작을(이름 변경 혹은 삭제) 수행해 주기 때문에 어떤 파일이던지 삭제가 가능하다.  
 `HKLM` 위치에 써야 하기 때문에 관리자 권한이 필요하다.
 
-이와 관련된 몇 가지 알아두면 좋을 지식들이 있다.
+알아두면 좋을 관련 지식들.
 
 1. 다른 곳에서 파일을 열고 있다고 이름 변경을 못하는 것은 아니다.  
 먼저 파일을 연 쪽에서 어떤 공유 모드로 파일을 열었는지가 중요하다.  
