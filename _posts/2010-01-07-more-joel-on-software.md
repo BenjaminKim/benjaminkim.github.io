@@ -9,7 +9,7 @@ date: 2010-01-07 23:50:00 +0900
 ![](https://image.aladin.co.kr/product/479/81/cover500/8993827060_1.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8993827060&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
-[조엘 온 소프트웨어](/essay/2012/02/12/joel-on-software.html1)의 후속판 책이다.
+[조엘 온 소프트웨어](/essay/2012/02/12/joel-on-software.html)의 후속판 책이다.
 
 아마도 이 책 이름은 [스캇마이어스의 책 제목](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980545037)을 따라 했음이 분명하다.
 책의 주제가 프로그래밍에만 한정된 것은 아니라서 경제학이나 디자인, 사용성 등의 이야기들이 튀어나오면 좀 지루해지기도 하는데 그것은 읽는 사람에 따라서 다를 수 있을 것 같다.
