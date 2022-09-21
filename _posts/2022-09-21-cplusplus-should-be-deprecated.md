@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/cplusplus-deprecated.png
-title: C++은 이제 폐기되어야 한다고?
+title: C++는 이제 폐기되어야 합니다
 date: 2022-09-21 11:26:00 +0900
 ---
 
