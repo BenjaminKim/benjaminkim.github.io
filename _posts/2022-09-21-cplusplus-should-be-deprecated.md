@@ -6,7 +6,8 @@ title: C++은 이제 폐기되어야 한다고?
 date: 2022-09-21 11:26:00 +0900
 ---
 
-![](/assets/img/cplusplus-deprecated.png)
+![](/assets/img/cplusplus-deprecated.png)  
+*[마크 러시노비치의 트윗](https://twitter.com/markrussinovich/status/1571995117233504257)*
 
 [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)의 대장이었고 현재는 MS 애저의 대장인 [마크 러시노비치.](https://en.wikipedia.org/wiki/Mark_Russinovich)  
 코딩의 신.  
@@ -17,6 +18,6 @@ date: 2022-09-21 11:26:00 +0900
 
 그런 그가 이제 C++를 버리고 Rust를 써야한다 말하니 세상이 얼마나 바뀌었는지 새삼 실감이 납니다.
 
-Rust.  
+한 때 C++ 참 열심히 썼었는데 Rust라.  
 한 번 공부해볼까..?  
 하... 생각만 해도 피곤하네요.
