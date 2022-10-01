@@ -40,7 +40,7 @@ date: 2022-09-14 11:56:00 +0900
 <br>
 <br>
 *비슷한 글:*
-* [1인 개발자로 혼자 일하https://brunch.co.kr/@buildingking/68)
+* [1인 개발자로 혼자 일하는 이유](https://brunch.co.kr/@buildingking/68)
 * [왜 하필 소개팅 어플을 만들기로 했어요?](/essay/2021/09/07/왜-하필-소개팅-어플을-만들기로-했어요.html)
 * [나는 얼마짜리 사람인가?](https://brunch.co.kr/@buildingking/62)
 * [속임수를 쓰면 돈을 더 많이 벌 수 있을까?](https://brunch.co.kr/@buildingking/100)
