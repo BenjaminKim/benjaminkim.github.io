@@ -91,3 +91,4 @@ C++로 만들 것인가 C#으로 만들 것인가.
 * [카카오가 혁신이란 걸 한 적이 있나요?](https://brunch.co.kr/@buildingking/76)
 * [카카오는 끝물인데 거길 왜 가냐?](/essay/2022/04/25/kakao-is-over.html)
 * [어차피 같은 회산데 뭘 그래](/essay/2022/04/17/nhn-to-nbp.html)
+* [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
