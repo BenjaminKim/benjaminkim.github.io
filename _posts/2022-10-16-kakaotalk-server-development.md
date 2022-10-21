@@ -106,3 +106,4 @@ Notice.order(created_at: :desc)
 *비슷한 글:*
 * [카카오가 혁신이란 걸 한 적이 있나요?](https://brunch.co.kr/@buildingking/76)
 * [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
+* [완성되지 않은 회사](/essay/2022/05/02/kakao-ten-years.html)
