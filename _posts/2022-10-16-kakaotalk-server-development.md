@@ -101,3 +101,8 @@ Notice.order(created_at: :desc)
 서비스 안된다고 조롱하고 비난하는 사람들.
 
 저는 감사하고 응원하며 사는 쪽이고 싶습니다. 제 주위에도 이런 사람들이 많았으면 좋겠습니다.
+<br>
+<br>
+*비슷한 글:*
+* [카카오가 혁신이란 걸 한 적이 있나요?](https://brunch.co.kr/@buildingking/76)
+* [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
