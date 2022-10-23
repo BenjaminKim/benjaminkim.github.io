@@ -21,7 +21,11 @@
 title: K리그 프로그래머
 email: jehokim@live.com
 author: 김재호
-
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/rootone.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   은퇴한 개발자의 스몰토크
 baseurl: "" # the subpath of your site, e.g. /blog
