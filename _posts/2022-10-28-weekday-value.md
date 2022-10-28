@@ -43,10 +43,11 @@ date: 2022-10-28 12:53:00 +0900
 한가로이 거리를 걸으며 대화를 나누고 시장을 구경했습니다.  
 그러면서 든 생각.  
 일찍 은퇴한 것은 최고의 선택이 아니었을까.  
-시스템에 갇힌 채 살지 않아서 참 다행이다라고.
+시스템에 갇힌 채 살지 않아서 참 다행이라고.
 <br>
 <br>
 *비슷한 글:*
 * [평일은 주말보다 소중합니다](https://brunch.co.kr/@buildingking/29)
 * [남들과 반대로 살기](https://brunch.co.kr/@buildingking/87)
 * [나를 위해 돈을 벌어주는 시스템을 만들기](https://brunch.co.kr/@buildingking/26)
+* [1인 개발자 전성시대](/essay/2022/09/14/successful-developer.html)
