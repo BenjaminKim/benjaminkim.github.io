@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: https://w.namu.la/s/d4b3bfe5134e253128a277c790ef500d84d80f11f986cee90ecc17251f35454ae481360bab40c7dcb08ed887a8c96e6ec2519ead5c7340333ca6d6c6f8b25abddec4be4146c21740c57a626abd627978aa0547f843574f289e350532a33de849
+image: /assets/img/flood2011.jpg
 title: 홍수와 함께 출근을
 date: 2022-08-09 07:37:00 +0900
 ---
@@ -9,6 +9,9 @@ date: 2022-08-09 07:37:00 +0900
 11년 전에도 비슷한 일이 있었습니다.  
 엄청난 비가 내려 우면산 산사태가 났던 날.  
 [2011년 7월 27일.](https://namu.wiki/w/2011%EB%85%84%20%EC%A4%91%EB%B6%80%EA%B6%8C%20%ED%8F%AD%EC%9A%B0%20%EC%82%AC%ED%83%9C)
+
+![](/assets/img/flood2011.jpg)  
+*2011년 우면산 산사태 당시*
 
 그날 아침 저는 신림역에서 네이버 셔틀버스를 타고 회사로 가는 길이었습니다.  
 비가 점점 많이 내리기 시작했습니다.  
