@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/stock.png
-title: IT 주식 투자자
+title: 개발자의 주식 투자법
 date: 2022-11-03 21:38:00 +0900
 ---
 
