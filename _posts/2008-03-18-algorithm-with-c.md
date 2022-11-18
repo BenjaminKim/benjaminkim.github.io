@@ -6,9 +6,6 @@ title: 이재규의 C로 배우는 알고리즘
 date: 2008-03-15 19:07:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=893170139x&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
-
 2004년 8월.  
 제대하고 설레이는 마음으로 학교에 복학했을 때 내가 가진 것이라곤 0점대 방어율의 끝내주는 성적표 밖엔 없었다.
 
@@ -28,7 +25,11 @@ C 언어 책을 몇 권을 읽었는지 모르겠다.
 하지만 책을 덮고 텅빈 에디터 안에서 코드를 작성 해보려고 하면 내 머리 역시 비어버렸다.  
 한 줄도 코드를 쓸 수 없었다.
 
-그 때 나를 구해줬던 것은 바로 이 책이다.  
+그 때 나를 도와줬던 책.  
+
+![](https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg)  
+*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=893170139x&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+
 대학교 1학년 때 이미 이 책이 좋다는 이야기를 듣긴 했었지만 너무 옛날 책이라서 이제 나오는 책들은 당연히 이 책보다 좋을 것이라고 생각을 했다.
 
 링크드리스트 부분을 몇 번을 읽었는지 모르겠다.  
