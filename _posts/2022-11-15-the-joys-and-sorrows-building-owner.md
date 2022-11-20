@@ -15,5 +15,8 @@ date: 2022-11-15 13:50:00 +0900
 
 제 이야기가 재밌게 읽히고 또 누군가에게 도움이 된다면 기쁘겠습니다.
 
+* [건물주의 기쁨과 슬픔, YES24](https://www.yes24.com/product/goods/115403057)
+* [건물주의 기쁨과 슬픔, 알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304994762)
+* [건물주의 기쁨과 슬픔, 리디북스](https://ridibooks.com/books/852001488?_s=search&_q=%EA%B1%B4%EB%AC%BC%EC%A3%BC%EC%9D%98+%EA%B8%B0%EC%81%A8%EA%B3%BC+%EC%8A%AC%ED%94%94&_rdt_sid=search&_rdt_idx=0)
+
 ![건물주의 기쁨과 슬픔 책 표지](/assets/img/building2.jpg)  
-*[건물주의 기쁨과 슬픔, YES24](https://www.yes24.com/product/goods/115403057)*
