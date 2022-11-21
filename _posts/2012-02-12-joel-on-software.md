@@ -6,14 +6,14 @@ title: 조엘 온 소프트웨어
 date: 2012-02-12 21:50:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989975581&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
-
 2006년도에 이 책을 읽은 적이 있다. 인상적이지 않았다.  
 얼마 전에 레이몬드 첸의 블로그에서 링크된 조엘의 [추상화의 함정에 대한 글](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)을 따라가서 읽다가 예전에 이 책을 너무 대충 읽은 것이 아닌가하는 생각이 들어 다시 한번 읽기 시작했다.
 
-책을 몇 페이지 읽은 순간부터 정말 그랬다는 것을 알았다.  
-당시에 나는 조엘의 프로그래밍과 소프트웨어에 관한 철학, 농담 따먹기들을 이해하기에는 너무 햇병아리였다.  
+![](https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg)  
+*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989975581&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+
+책을 몇 페이지 읽은 순간부터 정말 대충 읽었었구나 하는 걸 깨달았다.  
+당시 나는 조엘의 철학, 농담 따먹기들을 이해하기에는 너무 햇병아리였다.  
 이번에 다시 읽을 때는 또 놓치고 지나가는 내용이 있을까봐 아주 주의 깊게 읽었다.  
 언젠가 조엘의 책 4권 중에 조엘이 엄선한 블로그 베스트 29선이 가장 재밌었다고 [말한 적이 있는데](/essay/2010/01/07/more-joel-on-software.html) 이제 그 말을 바꿔야겠다.  
 1등은 두말할 것도 없이 오리지날 조엘 온 소프트웨어이다.
