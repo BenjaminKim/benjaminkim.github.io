@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/rootone.jpg
-title: 커다란 시장보다는 작은 시장
+title: 큰 시장보다는 작은 시장
 date: 2022-11-22 23:20:00 +0900
 ---
 
@@ -29,3 +29,7 @@ date: 2022-11-22 23:20:00 +0900
 작은 시장으로 고개를 돌리면 아직 기회는 많다고 생각합니다.  
 1인 개발자에게는 그런 전략이 좋습니다.  
 괜히 회사에서 하던 방식을 고집할 필요가 없습니다.
+<br>
+<br>
+*비슷한 글:*
+* [구독 프로그램 전성시대](/essay/2022/08/16/subscription-program-heyday.html)
