@@ -6,9 +6,10 @@ title: 내 프로그래머 인생 최고의 책은? 리눅스 그냥 재미로
 date: 2008-08-20 22:38:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/27/46/cover500/8984310468_1.gif)
+작년 봄에 도서관에서 우연히 발견한 [책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274630).
 
-작년 봄에 도서관에서 우연히 [이 책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274630)을 발견했다.  
+![리누스 토발즈의 Just for fun 책 표지](https://image.aladin.co.kr/product/27/46/cover500/8984310468_1.gif)
+  
 아주 낡은 책이었는데 제목에 끌려서 꺼내보게 되었다.  
 신기하게도 리누스 토발즈가 직접 쓴 책이었다. 이런 책이 있었다니.  
 정말 가볍게 읽을 생각으로 빌렸지만 내용은 기대 이상이었다.
