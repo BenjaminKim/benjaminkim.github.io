@@ -6,8 +6,8 @@ title: Windows 디버깅을 알려주는 최고의 책
 date: 2008-04-06 20:13:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/47/86/cover500/8956741797_1.gif)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=478680)*
+![디버깅 애플리케이션 닷넷 윈도우](https://image.aladin.co.kr/product/47/86/cover500/8956741797_1.gif)  
+*[존 로빈스의 디버깅 애플리케이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=478680)*
 
 이 책은 [John Robbins](https://www.wintellectnow.com/Home/Instructor?instructorId=JohnRobbins)의 하나뿐인 명작 시리즈이다.
 

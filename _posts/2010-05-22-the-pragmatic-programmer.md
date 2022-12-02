@@ -8,8 +8,8 @@ date: 2010-05-22 22:08:00 +0900
 
 최근 2주 정도를 이 책을 읽으면서 잠이 들곤 했다. 재밌고 잘 쓰여진 책이다.
 
-![](https://image.aladin.co.kr/product/57/79/cover500/8991268072_2.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268072&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![실용주의 프로그래머](https://image.aladin.co.kr/product/57/79/cover500/8991268072_2.jpg)  
+*[실용주의 프로그래머](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268072&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 이 책의 역자는 [애자일 프로그래밍 블로그](http://agile.egloos.com/)를 운영하고 있으며 다독가로도 유명하다.  
 책에는 역주가 상당히 많은데, 대부분 관련 부분에 대해서 더 많은 정보를 얻을 수 있는 책들을 소개하는 내용이다.    

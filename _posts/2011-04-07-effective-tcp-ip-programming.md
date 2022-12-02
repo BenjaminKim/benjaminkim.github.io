@@ -6,8 +6,8 @@ title: 소켓 프로그래밍을 배우기 좋은 책 - Effective TCP/IP Program
 date: 2011-04-07 23:57:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/42/55/cover500/899539191x_1.gif)  
-*출처: [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000244572&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![Effective TCP/IP Programming 책 표지](https://image.aladin.co.kr/product/42/55/cover500/899539191x_1.gif)  
+*[Effective TCP/IP Programming](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000244572&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 Effective C++ 시리즈의 제목을 배낀 것(?)을 보면 알수 있듯이 스캇 마이어스의 Effective 시리즈와 똑같은 구성을 하고 있으며 C++이 아닌 TCP/IP 프로그래밍에 대한 내용을 다룬다는 것이 차이점이다.  
 Effective 시리즈가 워낙 잘 쓰여진 책이라 다른 Effective 아류작들을 읽으면 실망하곤 했는데, 이 책은 아주 만족스러웠다.  

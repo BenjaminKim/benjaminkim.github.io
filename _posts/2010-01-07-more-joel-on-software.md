@@ -6,8 +6,8 @@ title: More Joel on Software
 date: 2010-01-07 23:50:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/479/81/cover500/8993827060_1.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8993827060&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![More Joel on Software](https://image.aladin.co.kr/product/479/81/cover500/8993827060_1.jpg)  
+*[모어 조엘 온 소프트웨어](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8993827060&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 [조엘 온 소프트웨어](/essay/2012/02/12/joel-on-software.html)의 후속판 책이다.
 

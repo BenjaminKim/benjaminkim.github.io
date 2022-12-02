@@ -9,8 +9,8 @@ date: 2012-02-12 21:50:00 +0900
 2006년도에 이 책을 읽은 적이 있다. 인상적이지 않았다.  
 얼마 전에 레이몬드 첸의 블로그에서 링크된 조엘의 [추상화의 함정에 대한 글](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)을 따라가서 읽다가 예전에 이 책을 너무 대충 읽은 것이 아닌가하는 생각이 들어 다시 한번 읽기 시작했다.
 
-![](https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989975581&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![Joel on Software](https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg)  
+*[조엘 온 소프트웨어](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989975581&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 책을 몇 페이지 읽은 순간부터 정말 대충 읽었었구나 하는 걸 깨달았다.  
 당시 나는 조엘의 철학, 농담 따먹기들을 이해하기에는 너무 햇병아리였다.  

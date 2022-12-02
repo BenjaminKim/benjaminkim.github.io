@@ -6,8 +6,8 @@ title: 윈도우 디바이스 드라이버에 관한 최고의 책
 date: 2010-04-25 23:45:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/44/93/cover500/8956741476_1.gif)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956741476&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![Microsoft Windows Driver Model](https://image.aladin.co.kr/product/44/93/cover500/8956741476_1.gif)  
+*[Microsoft Windows Driver Model](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956741476&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 드라이버 공부를 하기 위해 이런 저런 책들을 찾아봤는데 이 책 만큼 좋은 책은 없는 것 같다.
 

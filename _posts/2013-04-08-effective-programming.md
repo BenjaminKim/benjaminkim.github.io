@@ -6,8 +6,8 @@ title: 코딩 호러의 이펙티브 프로그래밍
 date: 2013-04-08 02:38:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/2481/71/cover500/8998139170_1.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8998139170&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![이펙티브 프로그래밍](https://image.aladin.co.kr/product/2481/71/cover500/8998139170_1.jpg)  
+*[코딩 호러의 이펙티브 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8998139170&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 내가 가장 좋아했던 프로그래밍 블로그는 단연 레이몬드 첸의 [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) 이었는데, 최근에 윈도우즈와 동떨어져 사는 생활을 해서 그런지 1등 블로그가 바뀌어 버렸다.  
 바로 스택 오버플로를 만들었던 제프 앳우드의 [코딩 호러라는 블로그](https://blog.codinghorror.com/).  

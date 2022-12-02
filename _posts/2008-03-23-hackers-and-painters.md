@@ -6,8 +6,8 @@ title: 해커와 화가
 date: 2008-03-23 16:09:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/3447/15/cover500/8968480710_1.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34471523)*
+![해커와 화가 책 표지](https://image.aladin.co.kr/product/3447/15/cover500/8968480710_1.jpg)  
+*[해커와 화가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34471523)*
 
 어떤 사람들은 폴 그레이엄이 건방지거나 혹은 그가 주장하는 바가 틀렸다고 말하면서도 하나 같이 그의 글은 재밌다고 한다.  
 -에릭 싱크, 조엘, 그리고 이 책의 역자인 임백준까지

@@ -6,8 +6,8 @@ title: 레이몬드 첸의 윈도우 개발 282 스토리
 date: 2010-08-01 17:32:00 +0900
 ---
 
-![](https://image.aladin.co.kr/product/98/43/cover500/8990758807_1.jpg)  
-*출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758807&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
+![레이몬드 첸의 윈도우 개발 282 스토리 책 표지](https://image.aladin.co.kr/product/98/43/cover500/8990758807_1.jpg)  
+*[레이몬드 첸의 윈도우 개발 282 스토리](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758807&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 Windows 프로그래머라면 꼭 구독해야 할 블로그 하나를 꼽으라면 단연 레이몬드 첸의 [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) 일 것이다.
 
