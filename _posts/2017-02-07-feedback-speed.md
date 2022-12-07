@@ -12,9 +12,9 @@ date: 2017-02-07 22:38:00 +0900
 별 5개를 받는 것이 참 어려운 일입니다.  
 그런데 의사소통 부분은 어떻게 약 40여명의 게스트들에게 단 하나도 빠짐없이 별 다섯개를 받을 수 있었을까.
 
-![](https://t1.daumcdn.net/cfile/tistory/2543CA385899CA712F)
+![에어비앤비 평점](https://t1.daumcdn.net/cfile/tistory/2543CA385899CA712F)
 
-![](https://t1.daumcdn.net/cfile/tistory/221AED425899CBAE07)
+![에어비앤비 프로필](https://t1.daumcdn.net/cfile/tistory/221AED425899CBAE07)
 
 게스트들의 리뷰들을 읽어 보며 문의에 빠르게 답하는 제 `응답속도`가 그 답이었다는 것을 알게되었습니다.
 

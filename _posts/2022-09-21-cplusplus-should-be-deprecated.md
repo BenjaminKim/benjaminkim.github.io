@@ -6,7 +6,7 @@ title: C++는 이제 폐기되어야 합니다
 date: 2022-09-21 11:26:00 +0900
 ---
 
-![](/assets/img/cplusplus-deprecated.png)  
+![마크 러시노비치의 트윗](/assets/img/cplusplus-deprecated.png)  
 *[마크 러시노비치의 트윗](https://twitter.com/markrussinovich/status/1571995117233504257)*
 
 [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)의 대장이었고 현재는 MS 애저의 대장인 [마크 러시노비치.](https://en.wikipedia.org/wiki/Mark_Russinovich)  

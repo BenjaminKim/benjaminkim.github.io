@@ -20,7 +20,7 @@ WWDC 2021에서 나온 SDK.
 
 iOS 15는 지금 얼마나 쓰이고 있을까요?
 
-![](/assets/img/ios-usage.png)  
+![2022년 5월 말 iPhone 버전별 점유율](/assets/img/ios-usage.png)  
 *2022년 5월 말 iPhone 버전별 점유율*
 
 커피한잔의 사용자로 봐도 그렇고 애플에서 제공해주는 데이터를 봐도 약 90퍼센트의 사용자가 iOS 15를 사용하고 있습니다.  

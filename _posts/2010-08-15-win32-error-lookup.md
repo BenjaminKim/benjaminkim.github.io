@@ -14,7 +14,7 @@ Windows 프로그래머라면 Windows Api의 에러코드에 익숙해야 한다
 
 많은 사람들이 비주얼 스튜디오의 Error Lookup 도구를 사용하는 걸 보고 이 방법을 모르는 사람들이 많다는 걸 알게 되었다.
 
-![](https://t1.daumcdn.net/cfile/tistory/186279354C66B14586)
+![net helpmsg](https://t1.daumcdn.net/cfile/tistory/186279354C66B14586)
 
 이보다 더 편할 방법이 있을까?
 

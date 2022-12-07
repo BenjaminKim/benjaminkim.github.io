@@ -33,7 +33,7 @@ date: 2022-03-26 20:44:00 +0900
 내가 가진 능력은 성실함과 내 일을 사랑하는 마음.  
 저처럼 [1년에 365일 코딩하며](/essay/2022/01/05/daily-coding.html) 세상을 즐기고 사는 개발자는 이 세상에 얼마 없습니다.
 
-![](/assets/img/daily_coding.png)  
+![매일 코딩](/assets/img/daily_coding.png)  
 
 성실함만으로도 특별해질 수 있구나.
 

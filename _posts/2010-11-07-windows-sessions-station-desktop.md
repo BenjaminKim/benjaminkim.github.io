@@ -100,10 +100,10 @@ date: 2010-11-07 18:23:00 +0900
 서비스들은 상승된 권한에서 수행되고 따라서 사용자 프로그램은 제어할 수 없는 것들에도 접근할 수 있다.  
 뒤에 나올 “어떻게 윈도우즈의 보안을 우회하는가" 섹션 부분에서 여기에 관한 더 많은 내용을 다룬다.
 
-![](https://t1.daumcdn.net/cfile/tistory/12277E124CD6A0873C)  
+![Xp Sessions](https://t1.daumcdn.net/cfile/tistory/12277E124CD6A0873C)  
 *비스타 이전 OS에서 3명의 유저가 로그온 한 경우*
 
-![](https://t1.daumcdn.net/cfile/tistory/1250F9104CD6A09434)  
+![Vista Sessions](https://t1.daumcdn.net/cfile/tistory/1250F9104CD6A09434)  
 *비스타 이후부터 3명의 유저가 로그온 한 경우*
 
 차이점은 비스타부터는 첫번째 로그온한 유저가 서비스와 별개의 독립적인 세션을 갖게 된다는 것이다.

@@ -9,15 +9,15 @@ date: 2022-02-10 14:22:00 +0900
 윗몸일으키기는 고통스럽습니다.  
 오늘 오랜만에 운동이나 할까 하고 윗몸일으키기를 하는 데 문득 무하마드 알리의 말이 떠오릅니다.
 
-![](/assets/img/ali/ali1.png)
+![무하마드 알리 윗몸일으키기](/assets/img/ali/ali1.png)
 
-![](/assets/img/ali/ali2.png)
+![무하마드 알리 윗몸일으키기](/assets/img/ali/ali2.png)
 
-![](/assets/img/ali/ali3.png)
+![무하마드 알리 윗몸일으키기](/assets/img/ali/ali3.png)
 
-![](/assets/img/ali/ali4.png)
+![무하마드 알리 윗몸일으키기](/assets/img/ali/ali4.png)
 
-![](/assets/img/ali/ali5.png)
+![무하마드 알리 윗몸일으키기](/assets/img/ali/ali5.png)
 
 고통스러울 때부터 숫자를 센다라..  
 저도 한 번 따라 해 보다가 비명이 튀어나왔습니다.

@@ -9,7 +9,7 @@ date: 2022-02-07 16:27:00 +0900
 안드로이드 어플을 하나 만들어봤습니다.  
 [Flutter](https://flutter.dev/)로 앱을 만드는 건 어떤 느낌인가 궁금해서.
 
-![](/assets/img/apps.jpg)  
+![어썸블로그](/assets/img/apps.jpg)  
 *어썸블로그 - 국내 개발자 블로그를 한 눈에*
 
 자신만의 Hello world 프로그램을 가지고 있으면 좋다고 생각합니다.  

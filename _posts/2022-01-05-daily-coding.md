@@ -10,7 +10,7 @@ jQuery를 만든 존 레식이 언젠가 [매일매일 코딩하기](https://joh
 
 존 레식은 무려 [3년 동안이나](https://github.com/jeresig?tab=overview&from=2014-12-01&to=2014-12-31) 매일 코딩하기를 해냈네요.
 
-![](/assets/img/john_resig.png)  
+![존 레식 Github](/assets/img/john_resig.png)  
 *존 레식 GitHub, 2014년*
 
 와 나도 한 번 해보고 싶다.  
@@ -29,7 +29,7 @@ jQuery를 만든 존 레식이 언젠가 [매일매일 코딩하기](https://joh
 코로나 때문에 바깥에 나가지 못하고 집에만 있게 되면서 루틴 같은 것이 만들어진 것입니다.
 
 2021년. 하루를 빼먹었지만 이 정도면 성공적이라고 할 수 있을 것 같습니다.  
-![](/assets/img/daily_coding.png)  
+![매일 코딩](/assets/img/daily_coding.png)  
 *가족 여행 갔던 날 하루를 빼먹음... ㅠㅠ*
 
 올해도 매일매일 코딩하고 싶습니다.

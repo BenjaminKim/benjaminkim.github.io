@@ -10,7 +10,7 @@ date: 2022-10-28 12:53:00 +0900
 1인 개발자의 특권으로 평일에만 놀러 다니곤 합니다.  
 평일에 여행을 하면 어딜 가든 한산합니다.
 
-![](/assets/img/cafe.jpg)  
+![낙안읍성 앞의 카페](/assets/img/cafe.jpg)  
 *낙안읍성 앞의 한 카페*
 
 이렇게 경치 좋은 카페 아무 자리나 앉을 수 있다니... 너무 좋다.  
@@ -37,7 +37,7 @@ date: 2022-10-28 12:53:00 +0900
 [낙안읍성 어딘가 드러누워 하늘을 바라보며](https://brunch.co.kr/@buildingking/29) 생각했습니다.  
 일찍 은퇴하고 시간과 공간에 제약 받지 않는 삶을 살아야지.
 
-![](https://t1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/8eGH/image/f74_L65jpjARWtWpl-fmeE_z6qU.jpg)  
+![낙안읍성에서](https://t1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/8eGH/image/f74_L65jpjARWtWpl-fmeE_z6qU.jpg)  
 *낙안읍성 어딘가 드러누워 하늘 바라보며, 2017년 4월*
 
 5년이 흘러 다시 찾았습니다. 이번에는 어머니와 함께.  

@@ -17,7 +17,7 @@ date: 2022-06-15 17:04:00 +0900
 윈도 95랑 98 그리고 윈도 Me를 거쳐 윈도 Xp까지 정말 잘 썼는데.  
 딸깍 딸깍 버튼을 누르며 인터넷을 탐험하던 순간들이 문득 떠오릅니다.  
 
-![](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png)  
+![인터넷 익스플로러](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png)  
 *출처: https://www.my-internet-explorer.com/ie5*
 
 흥미로운 웹사이트를 만나게 되는 건 멋진 일이었습니다.

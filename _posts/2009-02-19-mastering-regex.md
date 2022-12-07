@@ -6,7 +6,7 @@ title: 정규 표현식에 익숙해지기
 date: 2009-02-19 20:08:00 +0900
 ---
 
-![](https://www.hanbit.co.kr/data/books/B6347501827_l.jpg)  
+![정규 표현식 완전 해부와 실습](https://www.hanbit.co.kr/data/books/B6347501827_l.jpg)  
 *정규 표현식 완전 해부와 실습 - 서환수 역*
 
 최근 한 달여 동안 침대에서 이 책을 읽으며 잠이들곤 했다.  

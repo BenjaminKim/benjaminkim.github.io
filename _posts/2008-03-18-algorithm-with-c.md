@@ -27,7 +27,7 @@ C 언어 책을 몇 권을 읽었는지 모르겠다.
 
 그 때 나를 도와줬던 책.  
 
-![](https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg)  
+![C로 배우는 알고리즘](https://image.aladin.co.kr/product/17/68/cover500/893170139x_2.jpg)  
 *출처: [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=893170139x&ttbkey=ttbcrazytazo1459001&COPYPaper=1)*
 
 대학교 1학년 때 이미 이 책이 좋다는 이야기를 듣긴 했었지만 너무 옛날 책이라서 이제 나오는 책들은 당연히 이 책보다 좋을 것이라고 생각을 했다.

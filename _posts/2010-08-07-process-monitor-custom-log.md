@@ -73,7 +73,7 @@ int main( int argc, char * argv[] )
 커널 드라이버에서 사용하고 싶다면 [ZwDeviceIoControlFile](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/ntifs/nf-ntifs-zwdeviceiocontrolfile) 함수를 통해서 직접 Wrapper를 작성해야 한다.  
 존도 이제는 늙어서 커널 코드는 만들어주기가 귀찮은가보다.
 
-![](https://t1.daumcdn.net/cfile/tistory/13513D304C5C3BB16C)
+![프로세스 모니터](https://t1.daumcdn.net/cfile/tistory/13513D304C5C3BB16C)
 
 이런 식으로 애플리케이션이나 드라이버에서 프로세스 모니터에게 직접 디버그 메세지를 보낼수가 있다.  
 프로세스 모니터가 이벤트와 로깅의 순서를 동기화 해주는 것은 보너스이다.

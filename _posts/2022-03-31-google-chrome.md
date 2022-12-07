@@ -38,7 +38,7 @@ OS라고? 코드를 받아 밤새도록 컴파일 해서 버추얼 박스에서 
 심지어는 리눅스, 안드로이드 앱들도 설치해서 실행할 수 있습니다.  
 어쩌면 윈도우보다 더 많은 앱을 가지고 있는 거 아닐까?
 
-![](/assets/img/browser-market-share.png)
+![브라우저 시장 점유율](/assets/img/browser-market-share.png)
 
 [크롬 100](https://developer.chrome.com/blog/new-in-chrome-100/)이 릴리즈 되었습니다.  
 처음 충격을 받았던 날로 부터 13년이 지났습니다.  

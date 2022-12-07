@@ -29,5 +29,5 @@ K리그 프로그래머로서의 이야기도 한 번 해봐야 하는 거 아�
 
 새로운 세계로 입문해버렸습니다.
 
-![](/assets/img/dante.png)  
+![직장인이 경제적 자유를 얻기까지](/assets/img/dante.png)  
 [*유튜브 링크 - 직장인이 경제적 자유를 얻기까지*](https://www.youtube.com/watch?v=V68UjWYIw1o)

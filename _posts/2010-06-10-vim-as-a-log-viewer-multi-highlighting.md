@@ -19,7 +19,7 @@ Windows에서나 Linux에서나 거의 모든 텍스트 문서는 빔으로 열�
 단어 위에 대고 `*`만 눌러도 각각 단어별로 다른 색깔이 하이라이팅 되게 할 수는 없을까?  
 빔 위키를 한참 뒤져서 [Mark 라는 마음에 꼭 드는 플러그인](https://www.vim.org/scripts/script.php?script_id=1238)을 찾았다.
 
-![](https://t1.daumcdn.net/cfile/tistory/12495F314C57E3660B)  
+![vim 멀티 하이라이팅](https://t1.daumcdn.net/cfile/tistory/12495F314C57E3660B)  
 *단어 마다 각각의 색깔로 알록달록. 그래 바로 이거야!*
 
 `Mark`는 단어뿐 아니라 패턴을 하이라이팅 시킬 수 있으며, 비주얼 모드로 선택한 단어들 역시 하이라이팅 시킬 수 있다.  

@@ -99,4 +99,4 @@ int main()
 }
 ```
 
-![](https://t1.daumcdn.net/cfile/tistory/1272672E4C57E35C05)
+![Visual Studio Output](https://t1.daumcdn.net/cfile/tistory/1272672E4C57E35C05)
