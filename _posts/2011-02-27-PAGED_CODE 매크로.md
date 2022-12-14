@@ -65,5 +65,6 @@ date: 2011-02-27 19:09:00 +0900
 <br>
 <br>
 *비슷한 글:*
-* [_countof 매크로](/essay/2011/03/15/_countof-매크로.html)
+* [윈도우 디바이스 드라이버 프로그래밍 기초](/programming/2011/05/23/윈도우에서-디바이스-드라이버를-만들-때-알아야-할-기초적인-내용들.html)
 * [FIELD_OFFSET 매크로](/programming/2011/03/01/FIELD_OFFSET-매크로.html)
+* [_countof 매크로](/essay/2011/03/15/_countof-매크로.html)
