@@ -72,5 +72,7 @@ pattern 부분에 아무 것도 적지 않은 것을 주목해서 봐야한다.
 이 기능들을 얼마나 잘 사용하느냐는 정규표현식의 능숙도에 달려있다.  
 원하거나 원하지 않은 라인을 쳐내기 위해 정규식으로 매칭 시키는 기술은 따로 연습해야 한다.  
 [정규 표현식 완전 해부와 실습](/essay/2009/02/19/mastering-regex.html)을 추천한다.
-
-관련글: [로그 뷰어로써의 Vim - 멀티 하이라이팅](/essay/2010/06/10/vim-as-a-log-viewer-multi-highlighting.html)
+<br>
+<br>
+*관련 글:*  
+* [로그 뷰어로써의 Vim - 멀티 하이라이팅](/essay/2010/06/10/vim-as-a-log-viewer-multi-highlighting.html)
