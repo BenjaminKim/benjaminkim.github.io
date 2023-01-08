@@ -41,6 +41,7 @@ date: 2022-09-14 11:56:00 +0900
 <br>
 *비슷한 글:*
 * [1인 개발자로 혼자 일하는 이유](https://brunch.co.kr/@buildingking/68)
+* [1인 개발자로 사는 이야기](/essay/2023/01/07/jocoding-youtube.html)
 * [구독 프로그램 전성시대](/essay/2022/08/16/subscription-program-heyday.html)
 * [왜 하필 소개팅 어플을 만들기로 했어요?](/essay/2021/09/07/왜-하필-소개팅-어플을-만들기로-했어요.html)
 * [나는 얼마짜리 사람인가?](https://brunch.co.kr/@buildingking/62)
