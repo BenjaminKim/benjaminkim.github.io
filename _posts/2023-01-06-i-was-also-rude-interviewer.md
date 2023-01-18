@@ -53,4 +53,5 @@ date: 2023-01-06 12:50:00 +0900
 <br>
 *비슷한 글:*
 * [10년은 일할 수 있겠죠?](/essay/2021/08/11/10년은-일할-수-있겠죠.html)
-* [왜 비동기 프로그래밍을 하나요?](/essay/2023/01/05/why-async.html)
+* [기술 면접에서 떨어진 썰](/essay/2023/01/05/why-async.html)
+* [면접을 볼 때 중요한 태도는 솔직함](/essay/2023/01/18/important-thing-interviewing.html)
