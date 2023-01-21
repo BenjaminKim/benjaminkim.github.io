@@ -45,3 +45,5 @@ date: 2022-12-16 20:29:00 +0900
 <br>
 *비슷한 글:*
 * [딥러닝과 블록체인](/essay/2022/09/05/deep-learning-and-blockchain.html)
+* [ChatGPT는 새로운 스택오버플로우](/essay/2023/01/21/chatgpt-is-new-stackoverflow.html)
+* [인공지능과 함께 코딩을](/essay/2022/07/31/dances-with-copilot.html)

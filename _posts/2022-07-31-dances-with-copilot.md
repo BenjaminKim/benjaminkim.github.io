@@ -21,3 +21,9 @@ github의 [copilot](https://github.com/features/copilot)과 함께 한지 한 �
 이 정도 돈으로 매일 곁에서 함께 코딩할 친구를 둔다 생각하니 기분이 좋습니다.
 
 코딩에도 AI 보조를 들이게 될 날이 이렇게 빨리 올 줄은 정말 몰랐습니다.
+<br>
+<br>
+*비슷한 글:*
+* [딥러닝과 블록체인](/essay/2022/09/05/deep-learning-and-blockchain.html)
+* [ChatGPT는 새로운 스택오버플로우](/essay/2023/01/21/chatgpt-is-new-stackoverflow.html)
+* [인공지능 세상은 재미없을 줄 알았어](/essay/2022/12/16/ai-world-is-fun.html)

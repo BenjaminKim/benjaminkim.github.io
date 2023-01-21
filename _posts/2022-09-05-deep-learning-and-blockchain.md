@@ -42,4 +42,9 @@ date: 2022-09-05 12:48:00 +0900
 그래, 오히려 좋아.  
 똑똑한 사람들이 다 저쪽으로 뛰어가니 이 쪽에 오히려 틈새가 생기는 걸.  
 그리고 조용히 한 걸음씩 걸어갑니다.
-
+<br>
+<br>
+*비슷한 글:*
+* [인공지능 세상은 재미없을 줄 알았어](/essay/2022/12/16/ai-world-is-fun.html)
+* [인공지능과 함께 코딩을](/essay/2022/07/31/dances-with-copilot.html)
+* [ChatGPT는 새로운 스택오버플로우](/essay/2023/01/21/chatgpt-is-new-stackoverflow.html)
