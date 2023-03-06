@@ -53,4 +53,12 @@ DWORD WINAPI SetFilePointer(
 이제 하고 싶었던 말을 정리하면,
 * `SetFilePointer` 함수를 사용한 곳을 보게 되면 위 내용을 유심히 살펴보는 것도 재미있다. 그리고 코드가 틀렸다면 바르게 고치자.
 * 위 표에 나온대로 고치려면 어렵다. 걍 [SetFilePointerEx](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-setfilepointerex) 쓰면 된다.
-* [GetFileSize](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfilesize) 함수도 역시 비슷한 문제가 있다. [GetFileSizeEx](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfilesizeex)만 사용해라
+* [GetFileSize](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfilesize) 함수도 역시 비슷한 문제가 있다. [GetFileSizeEx](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfilesizeex)만 사용해라.
+
+<br>
+<br>
+*비슷한 글:*
+* [메모리를 해제하기 전에 왜 널 체크를 하는걸까?](/essay/2011/05/29/메모리를-해제하기-전에-왜-널-체크를-하는걸까.html)
+* [알아두면 유용한 MoveFileEx 함수의 펜딩 옵션](/programming/2011/07/17/알아두면-유용한-MoveFileEx-함수의-펜딩-옵션.html)
+* [GetLastError 함수 사용의 흔한 실수](/essay/2012/01/13/GetLastError-함수-사용의-흔한-실수.html)
+* [메인 쓰레드가 종료되면 프로세스도 종료되는 것 아닌가요?](/essay/2012/03/26/메인-쓰레드가-종료되면-프로세스도-종료되는-것-아닌가요.html)

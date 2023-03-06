@@ -27,3 +27,8 @@ date: 2022-07-02 07:30:00 +0900
 [MoveFileEx](/programming/2011/07/17/알아두면-유용한-MoveFileEx-함수의-펜딩-옵션.html)를 통해 Updater_old.exe 같은 식으로 파일 이름을 바꿔두고 새로운 Updader.exe를 다운로드하여서 실행시켰던 걸로 기억합니다.
 
 이제 이 딴짓 안 해도 되는 세상에 살아서 좋습니다.
+<br>
+<br>
+*비슷한 글:*
+* [알아두면 유용한 MoveFileEx 함수의 펜딩 옵션](/programming/2011/07/17/알아두면-유용한-MoveFileEx-함수의-펜딩-옵션.html)
+* [레지스트리의 volatile 옵션](/programming/2011/09/27/레지스트리의-volatile-옵션.html)
