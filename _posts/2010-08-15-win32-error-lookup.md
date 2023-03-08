@@ -20,3 +20,7 @@ Windows 프로그래머라면 Windows Api의 에러코드에 익숙해야 한다
 
 여담이지만, 응용 프로그램 레벨에서는 Win32 에러를 받게 되지만 커널 모드에서 디바이스 드라이버를 만드는 사람들은 `NTSTATUS` 에러값과 더 친숙해야 한다.  
 [이 페이지](https://www.osr.com/blog/2020/04/23/ntstatus-to-win32-error-code-mappings/)에 커널 코드에서 리턴 되는 `NTSTATUS` 에러 코드가 어떤 Win32 에러 코드로 매핑되는지 나와있다.
+<br>
+<br>
+*비슷한 글:*
+* [GetLastError 함수 사용의 흔한 실수](/essay/2012/01/13/GetLastError-함수-사용의-흔한-실수.html)

@@ -64,3 +64,8 @@ else
 대부분의 함수들은 그 성공 여부를 리턴값으로 가르쳐준다.  
 리턴 값으로 성공과 실패 여부를 호출자에게 전달해주기로 했다면 뭐하러 또 SetLastError(ERROR_SUCCESS) 와 같은 추가적인 코드를 호출하겠는가.  
 하지만 어떤 함수들은 굳이 SetLastError(ERROR_SUCCESS)를 호출해주기도 하는데, 이것에 대한 이야기는 [다음 포스트](/essay/2012/01/16/SetFilePointer-보다는-SetFilePointerEx를-사용해야-한다.html)에서 해보려고 한다.
+<br>
+<br>
+*비슷한 글:*
+* [하위 디렉터리의 파일이 변경 되었는지 감지하기](/essay/2010/12/20/하위-디렉터리의-파일이-변경-되었는지-감지하기.html)
+* [레지스트리의 volatile 옵션](/programming/2011/09/27/레지스트리의-volatile-옵션.html)

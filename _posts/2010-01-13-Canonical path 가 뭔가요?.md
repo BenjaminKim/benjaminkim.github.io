@@ -79,3 +79,7 @@ C:\directory\file.txt
 ```powershell
 C:\directory\..\directory\file.txt
 ```
+<br>
+<br>
+*비슷한 글:*
+* [알아두면 유용한 MoveFileEx 함수의 펜딩 옵션](/programming/2011/07/17/알아두면-유용한-MoveFileEx-함수의-펜딩-옵션.html)
