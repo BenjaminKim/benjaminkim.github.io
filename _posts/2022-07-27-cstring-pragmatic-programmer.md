@@ -42,4 +42,4 @@ Windows 에서도 MFC가 아닌 프로그램에서는 CString 하나 때문에 �
 <br>
 <br>
 *비슷한 글:*
-* [추억의 CString](/essay/2022/07/27/cstring-pragmatic-programmer.html)
+* [CString의 비밀](/programming/2012/04/12/CString의-비밀.html)
