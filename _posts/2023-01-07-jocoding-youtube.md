@@ -24,3 +24,4 @@ date: 2023-01-07 21:11:00 +0900
 * [1인 개발자 전성시대](/essay/2022/09/14/successful-developer.html)
 * [김단테 유튜브 출연](/essay/2022/11/23/kimdante-youtube.html)
 * [건물주의 기쁨과 슬픔](/essay/2022/11/15/the-joys-and-sorrows-building-owner.html)
+* [1인 개발자로 혼자 일하는 이유](https://brunch.co.kr/@buildingking/68)
