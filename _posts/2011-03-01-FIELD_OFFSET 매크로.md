@@ -103,7 +103,7 @@ int _tmain(int argc, _TCHAR* argv[])
 이 방식은 실수하기가 쉽다.
 
 `FIELD_OFFSET`은 또한 `CONTAINING_RECORD` 매크로를 만들기 위해서도 쓰인다.
-`CONTAINING_RECORD`는 재미있고 중요한 매크로이지만 [다른 블로그](http://www.pyrasis.com/blog/entry/PracticalContainingRecordMacro)에 이미 설명이 되어 있기 때문에 따로 쓰지 않겠다.
+`CONTAINING_RECORD`는 재미있고 중요한 매크로이지만 [다른 블로그](https://pyrasis.com/blog/entry/PracticalContainingRecordMacro)에 이미 설명이 되어 있기 때문에 따로 쓰지 않겠다.
 
 `FIELD_OFFSET`의 ANSI C 버전은 `offsetof`이며 `stddef.h`에 정의되어 있다.  
 `CONTAINING_RECORD`는 `container_of`와 같다.
