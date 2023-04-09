@@ -38,3 +38,5 @@ SwiftUI를 공부하기 위해 가장 도움이 된 것은 이 유튜브였습�
 * [코딩은 어렵다](/essay/2021/09/05/코딩은-어렵다.html)
 * [처음은 다 개떡 같은 코드로 시작하는 거죠](/essay/2022/01/25/shit-code.html)
 * [이제 나도 아이폰 개발자](/essay/2022/06/13/ios-developer-too.html)
+* [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
+* [지금 SwiftUI 3.0으로 앱을 만들어도 되나요?](/essay/2022/06/17/ios-15-min-support.html)
