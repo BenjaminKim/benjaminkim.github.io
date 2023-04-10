@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/rootone.jpg
+image: /assets/img/purchase-rate.png
 title: 정직함은 특별한 가치
 date: 2023-01-14 19:50:00 +0900
 ---

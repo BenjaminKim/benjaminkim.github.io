@@ -111,7 +111,7 @@ int _tmain(int argc, _TCHAR* argv[])
 양쪽의 구현은 똑같다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [윈도우 디바이스 드라이버 프로그래밍 기초](/programming/2011/05/23/윈도우에서-디바이스-드라이버를-만들-때-알아야-할-기초적인-내용들.html)
 * [_countof 매크로](/essay/2011/03/15/_countof-매크로.html)
 * [PAGED_CODE 매크로](/essay/2011/02/27/PAGED_CODE-매크로.html)

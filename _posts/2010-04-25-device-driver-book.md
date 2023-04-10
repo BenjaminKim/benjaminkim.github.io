@@ -51,7 +51,7 @@ ReactOS는 10년 넘게 개발되면서 아직도 버전이 0.3인데, 얼른 �
 * [Canceling IRPs](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/canceling-irps)
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [윈도우 디바이스 드라이버 프로그래밍 기초](/programming/2011/05/23/윈도우에서-디바이스-드라이버를-만들-때-알아야-할-기초적인-내용들.html)
 * [디바이스 드라이버를 단일 실행파일로 배포하는 방법](/programming/2010/12/04/디바이스-드라이버를-단일-실행파일로-배포하는-방법.html)
 * [유저모드에서 파일시스템 드라이버를 만들기](/essay/2010/10/17/유저모드에서-파일시스템-드라이버를-만들기.html)
