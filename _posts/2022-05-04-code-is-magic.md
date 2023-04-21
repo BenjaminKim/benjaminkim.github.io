@@ -36,3 +36,4 @@ date: 2022-05-04 10:46:00 +0900
 * [나는 얼마짜리 사람인가?](https://brunch.co.kr/@buildingking/62)
 * [속임수를 쓰면 돈을 더 많이 벌 수 있을까?](https://brunch.co.kr/@buildingking/100)
 * [커피한잔에서 결혼하시면 저에게 밥이나 한 끼 사주세요!](https://withcoffee.app/notices/30)
+* [가장 기쁜 이메일](/essay/2023/04/21/most-delightful-emails.html)
