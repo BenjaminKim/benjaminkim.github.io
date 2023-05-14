@@ -32,6 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: BenjaminKim
 linkedin_username: jehokim
+twitter_username: BenjaminKim_
 
 lang: "ko"
 timezone: Asia/Seoul
