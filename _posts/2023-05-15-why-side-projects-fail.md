@@ -54,3 +54,4 @@ date: 2023-05-15 10:12:00 +0900
 * [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
 * [당근마켓은 새로운 부동산 직거래 플랫폼](https://brunch.co.kr/@buildingking/85)
 * [미친 회사 크래프톤](https://brunch.co.kr/@buildingking/83)
+* [까짓 거, 망하면 얼마나 망한다고](https://jeho.page/essay/2023/02/16/mess-up.html)
