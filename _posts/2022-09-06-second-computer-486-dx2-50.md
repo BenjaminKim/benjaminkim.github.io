@@ -47,4 +47,5 @@ CPU는 486DX2-50
 <br>
 *비슷한 글:*
 * [내 첫 컴퓨터](/essay/2021/08/23/첫-컴퓨터의-추억.html)
+* [내 세 번째 컴퓨터](/essay/2023/05/28/my-third-computer.html)
 * [넥슨 컴퓨터 박물관에 가는 날](https://brunch.co.kr/@buildingking/107)
