@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/pangyo-market.png
+image: /assets/img/795ft.jpg
 title: 내 세 번째 컴퓨터
-date: 2023-05-27 20:23:00 +0900
+date: 2023-05-28 12:21:00 +0900
 ---
 
 세 번째 컴퓨터는 1999년 4월에 샀습니다.
