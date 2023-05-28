@@ -27,7 +27,7 @@ CD롬은 티악이 좋을까 LG전자가 좋을까?
 
 결국 샀습니다.  
 CPU는 펜티엄2 350MHz.  
-메인보드는 ABIT BH6, 그래픽카드는 ATI Rage 시리즈.  
+메인보드는 [ABIT BH6](https://soggi.org/motherboards/abit/BH6.htm), 그래픽카드는 ATI Rage 시리즈.  
 420MB 하드 디스크.  
 램은 잘 기억 안 나지만 아마 128MB.  
 그리고 모니터는 LG 플래트론 795FT.
