@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/795ft.jpg
-title: 내 세 번째 컴퓨터
+title: 내 세 번째 컴퓨터 (펜티엄2 350)
 date: 2023-05-28 12:21:00 +0900
 ---
 
