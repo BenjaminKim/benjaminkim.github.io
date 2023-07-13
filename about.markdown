@@ -18,7 +18,11 @@ permalink: /about/
 
 <br>
 
-### 유튜브에서 나눈 이야기들 ![](/assets/img/youtube.png)  
+### 유튜브에서 나눈 이야기들 ![유튜브 로고](/assets/img/youtube.png)  
 
 * [1인 개발자의 삶 - 조코딩](https://www.youtube.com/watch?v=L6TNhTNHRIA)
 * [건물주의 기쁨과 슬픔 - 김단테](https://www.youtube.com/watch?v=V68UjWYIw1o)
+
+<br>
+
+### [RSS로 구독하기](/feed.xml) [![RSS logo](/assets/img/rss.png)](/feed.xml)  
