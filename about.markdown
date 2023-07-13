@@ -25,4 +25,7 @@ permalink: /about/
 
 <br>
 
-### [RSS로 구독하기](/feed.xml) [![RSS logo](/assets/img/rss.png)](/feed.xml)  
+<h3>
+<a href="/feed.xml">RSS로 구독하기</a> <a href="/feed.xml"><img style="padding-bottom: 6px;" src="/assets/img/rss.png"></a>
+</h3>
+  
