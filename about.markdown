@@ -18,7 +18,7 @@ permalink: /about/
 
 <br>
 
-### 유튜브에서 나눈 이야기들 ![유튜브 로고](/assets/img/youtube.png)  
+<h3><img style="padding-bottom: 5px; padding-right: 3px;" src="/assets/img/youtube.png"> 유튜브에서 나눈 이야기들</h3> 
 
 * [1인 개발자의 삶 - 조코딩](https://www.youtube.com/watch?v=L6TNhTNHRIA)
 * [건물주의 기쁨과 슬픔 - 김단테](https://www.youtube.com/watch?v=V68UjWYIw1o)
@@ -26,6 +26,6 @@ permalink: /about/
 <br>
 
 <h3>
-<a href="/feed.xml">RSS로 구독하기</a> <a href="/feed.xml"><img style="padding-bottom: 6px;" src="/assets/img/rss.png"></a>
+<img style="padding-bottom: 6px; padding-right: 5px;" src="/assets/img/rss.png"> <a href="/feed.xml">RSS로 구독하기</a> <a href="/feed.xml"></a>
 </h3>
   
