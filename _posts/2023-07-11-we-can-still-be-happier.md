@@ -50,6 +50,7 @@ date: 2023-07-11 11:42:00 +0900
 
 <br>
 *함께 읽으면 좋은 글:*
+* [인생의 목표](https://brunch.co.kr/@buildingking/103)
 * [살면서 언제가 제일 좋았어?](https://brunch.co.kr/@buildingking/130)
 * [먹는 거에 돈 아끼지 말거라](https://brunch.co.kr/@buildingking/112)
 * [행복을 위한 킥보드](https://brunch.co.kr/@buildingking/60)
