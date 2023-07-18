@@ -10,7 +10,7 @@ date: 2022-02-07 16:27:00 +0900
 [Flutter](https://flutter.dev/)로 앱을 만드는 건 어떤 느낌인가 궁금해서.
 
 ![어썸블로그](/assets/img/apps.jpg)  
-*어썸블로그 - 국내 개발자 블로그를 한 눈에*
+*어썸블로그 - 국내 개발자 블로그를 한눈에*
 
 자신만의 Hello world 프로그램을 가지고 있으면 좋다고 생각합니다.  
 어떤 사람에게는 todo 어플, 어떤 사람에게는 일기 어플.
@@ -21,8 +21,8 @@ date: 2022-02-07 16:27:00 +0900
 패키징과 스토어 배포 그리고 인앱 결제까지.  
 이 정도 해보면 새로운 플랫폼의 맛 정도는 볼 수 있기에.
 
-Flutter 2.10 부터는 [윈도우도 지원한다고 해서](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed) 윈도우에서도 빌드해보니 실제로 잘 동작했습니다.  
-신기하다. 이제 왠만한 프로그램들은 Flutter로 만들어도 되겠는걸?
+Flutter 2.10 부터는 [윈도우도 지원한다고 해서](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed) 윈도우에서도 빌드해 보니 실제로 잘 동작했습니다.  
+신기하다. 이제 웬만한 프로그램들은 Flutter로 만들어도 되겠는걸?
 
 국내 개발자들의 블로그 글들을 모아서 보여주는 어플입니다.  
 저 혼자 쓰는 뉴스앱이지만 혹시 필요하신 분이 있다면 [여기](https://play.google.com/store/apps/details?id=blogs.awesome.android.awesome_blogs_flutter&hl=ko)서 받을 수 있습니다.  
