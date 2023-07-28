@@ -31,7 +31,7 @@ enum 케이스 뿐만 아니라 함수 이름까지도 한글로 짓기도 합�
 ![토스의 세종대왕 프로젝트](/assets/img/coding-in-korean.jpg)  
 *토스의 한글로 코딩하기*
 
-[틀딱을 망치로 부숴버리는 토스의 이런 정책](https://tosspayments-dev.oopy.io/chapters/frontend/posts/hangul-coding-convention)이 정말 마음에 듭니다.  
+[고정관념을 망치로 부숴버리는 토스의 이런 정책](https://tosspayments-dev.oopy.io/chapters/frontend/posts/hangul-coding-convention)이 정말 마음에 듭니다.  
 어릴 때의 제가 봤다면 반했을 것이 분명합니다.
 
 <br>
