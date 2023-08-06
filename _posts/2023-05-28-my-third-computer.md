@@ -57,5 +57,6 @@ CPU는 펜티엄2 350MHz.
 <br>
 <br>
 *함께 읽으면 좋은 글:*
-* [내 두 번째 컴퓨터 486DX2-50](/essay/2022/09/06/second-computer-486-dx2-50.html)
 * [내 첫 번째 컴퓨터](/essay/2021/08/23/첫-컴퓨터의-추억.html)
+* [내 두 번째 컴퓨터 486DX2-50](/essay/2022/09/06/second-computer-486-dx2-50.html)
+* [내 네 번째 컴퓨터](/essay/2023/08/06/my-fourth-computer.html)
