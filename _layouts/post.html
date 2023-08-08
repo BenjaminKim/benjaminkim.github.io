@@ -30,17 +30,38 @@ layout: default
         {{ content }}
     </div>
 
-    <div class="col-lg-8 col-md-10 mx-auto">
-        <hr />
-        <script src="https://utteranc.es/client.js"
-            repo="BenjaminKim/benjaminkim.github.io"
-            issue-term="pathname"
-            label="Comment"
-            theme="github-light"
+<!--    <div class="col-lg-8 col-md-10 mx-auto">-->
+<!--        <hr />-->
+
+<div class="col-lg-8 col-md-10 mx-auto">
+    <hr/>
+    <br/>
+    <script src="https://giscus.app/client.js"
+            data-repo="BenjaminKim/benjaminkim.github.io"
+            data-repo-id="MDEwOlJlcG9zaXRvcnkzOTI1MDc5NDc="
+            data-category="Comments"
+            data-category-id="DIC_kwDOF2UyK84CYbcp"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="preferred_color_scheme"
+            data-lang="ko"
+            data-loading="lazy"
             crossorigin="anonymous"
             async>
     </script>
-    </div>
+</div>
+<!--        <script src="https://utteranc.es/client.js"-->
+<!--            repo="BenjaminKim/benjaminkim.github.io"-->
+<!--            issue-term="pathname"-->
+<!--            label="Comment"-->
+<!--            theme="github-light"-->
+<!--            crossorigin="anonymous"-->
+<!--            async>-->
+<!--    </script>-->
+<!--    </div>-->
 
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
