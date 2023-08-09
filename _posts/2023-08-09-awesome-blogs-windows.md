@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/awesome-blogs-windows.png
-title: 윈도우 스토어 앱을 첫 경험
+title: 윈도우 스토어 앱 첫 경험
 date: 2023-08-09 13:05:00 +0900
 ---
 
