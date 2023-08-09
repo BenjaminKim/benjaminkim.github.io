@@ -21,8 +21,7 @@ date: 2023-08-09 13:05:00 +0900
 매년이 아니라 영구적으로.
 
 플러터로 만들었지만 윈도우에서 동작도 잘 됐고,  
-패키징에서 고생할 줄 알았는데 생각보다 너무 쉬웠습니다.  
-플러터의 [msix](https://pub.dev/packages/msix)를 이용했습니다.
+패키징에서 고생할 줄 알았는데 생각보다 [너무 쉬웠습니다.]((https://pub.dev/packages/msix)
 
 반면에 윈도우 스토어에 앱을 업로드하는 과정은 영 별로였습니다.  
 구글과 애플이 너무 잘해놔서 그런가?  
@@ -55,3 +54,4 @@ UI/UX가 어찌나 조잡하게 느껴지든지.
 *함께 읽으면 좋은 글:*
 * [자기만의 Hello World 프로그램을 갖기](/essay/2022/02/07/awesome-blogs-flutter.html)
 * [Windows 유니버셜 앱 개발 경험담](/essay/2014/12/05/windows-runtime.html)
+* [.net maui 로 앱을 만들어볼까 했다가](/essay/2022/08/19/maui.html)
