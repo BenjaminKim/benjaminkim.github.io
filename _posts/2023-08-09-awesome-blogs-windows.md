@@ -2,8 +2,8 @@
 layout: post
 categories: essay
 image: /assets/img/awesome-blogs-windows.png
-title: 윈도우 스토어 앱을 만들어 봤습니다
-date: 2023-08-09 12:36:00 +0900
+title: 윈도우 스토어 앱을 첫 경험
+date: 2023-08-09 13:05:00 +0900
 ---
 
 아주 오랜만에 윈도우 앱을 만들어봤습니다.  
