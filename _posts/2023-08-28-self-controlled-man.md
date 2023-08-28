@@ -3,7 +3,7 @@ layout: post
 categories: essay
 image: /assets/img/kakao-parasol.jpg
 title: 스스로를 통제할 수 있는 남자
-date: 2023-08-25 17:07:00 +0900
+date: 2023-08-28 17:07:00 +0900
 ---
 
 브라이언이 언젠가 [담배에 대해서 이야기](https://news.mt.co.kr/mtview.php?no=2011101714343203791)한 적이 있습니다.  
