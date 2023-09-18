@@ -44,5 +44,5 @@ date: 2022-06-13 12:57:00 +0900
 * [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
 * [지금 SwiftUI 3.0으로 앱을 만들어도 되나요?](/essay/2022/06/17/ios-15-min-support.html)
 * [아이폰과 안드로이드](/essay/2022/02/12/ios-android.html)
-* [그때 아이폰을 삻 걸 그랬어](/essay/2021/09/26/그때-아이폰을-살-걸-그랬어.html)
+* [그때 아이폰을 살 걸 그랬어](/essay/2021/09/26/그때-아이폰을-살-걸-그랬어.html)
 * [오늘 밤엔 WWDC 2022](/essay/2022/06/06/wwdc-2022.html)
