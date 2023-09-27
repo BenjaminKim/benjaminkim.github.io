@@ -58,4 +58,4 @@ Preview 가 이렇게 빠릿빠릿하게 잘 동작하는 건 처음 봐.
 <br>
 <br>
 *함께 읽으면 좋은 글:*
-* [SwiftUI 너무 좋아](https://jeho.page/essay/2022/06/08/swiftui.html)
+* [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
