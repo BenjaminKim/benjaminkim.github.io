@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/musk.png
-title: 받은 것보다 많이 돌려주기
+title: 사회에서 받은 것보다 많이 돌려주기
 date: 2023-09-29 16:47:00 +0900
 ---
 
