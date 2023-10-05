@@ -3,7 +3,7 @@ layout: post
 categories: essay
 image: /assets/img/eo-comment.png
 title: 전단지 돌리는 게 뭐 어때서
-date: 2023-10-06 08:00:00 +0900
+date: 2023-10-06 08:54:00 +0900
 ---
 
 전단지를 돌리는 게 우습다는 사람들이 있습니다.  
