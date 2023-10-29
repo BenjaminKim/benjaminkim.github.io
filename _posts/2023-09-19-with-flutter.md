@@ -59,3 +59,5 @@ Preview 가 이렇게 빠릿빠릿하게 잘 동작하는 건 처음 봐.
 <br>
 *함께 읽으면 좋은 글:*
 * [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
+* [어썸블로그 북마크 기능 추가 (feat. 파이어베이스 첫 경험)](/essay/2023/10/25/firebase.html)
+* [윈도우 스토어 앱 첫 경험](/essay/2023/08/09/awesome-blogs-windows.html)
