@@ -46,4 +46,5 @@ date: 2022-01-18 07:48:00 +0900
 <br>
 <br>
 *비슷한 글:*
+* [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
 * [첫 컴퓨터의 추억](/essay/2021/08/23/첫-컴퓨터의-추억.html)
