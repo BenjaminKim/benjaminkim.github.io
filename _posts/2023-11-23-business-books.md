@@ -46,3 +46,4 @@ date: 2023-11-23 12:35:00 +0900
 * [기억에 남는 개발 책들](/essay/2023/11/07/books.html)
 * [처음은 다 개떡 같은 코드로 시작하는 거죠](/essay/2022/01/25/shit-code.html)
 * [아이디어맨](/essay/2011/10/05/idea-man.html)
+* [미친 회사 크래프톤](https://brunch.co.kr/@buildingking/83)
