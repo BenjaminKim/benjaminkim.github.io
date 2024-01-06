@@ -34,3 +34,4 @@ DHH의 얼굴도 중년이 되었고, 우리가 쓰는 컴퓨터도 많이 바�
 <br>
 *비슷한 글:*
 * [Ruby는 프로그래머를 위한 선물](/essay/2022/02/18/ruby.html)
+* [루비가 느리다고?](/essay/2023/01/04/dont-say-ruby-is-slow.html)
