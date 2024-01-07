@@ -20,7 +20,7 @@ date: 2023-01-07 21:11:00 +0900
 제 스토리가 여러분들에게도 재미있고 유익하다면 너무 기쁠 것 같습니다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [1인 개발자 전성시대](/essay/2022/09/14/successful-developer.html)
 * [김단테 유튜브 출연](/essay/2022/11/23/kimdante-youtube.html)
 * [건물주의 기쁨과 슬픔](/essay/2022/11/15/the-joys-and-sorrows-building-owner.html)

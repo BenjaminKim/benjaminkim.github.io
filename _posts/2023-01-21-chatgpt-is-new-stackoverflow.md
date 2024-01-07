@@ -31,7 +31,7 @@ date: 2023-01-21 20:07:00 +0900
 그러려면 궁금할 때 구글부터 켜는 행동을 의식적으로 자제해야겠어.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [인공지능 세상은 재미없을 줄 알았어](/essay/2022/12/16/ai-world-is-fun.html)
 * [인공지능과 함께 코딩을](/essay/2022/07/31/dances-with-copilot.html)
 * [딥러닝과 블록체인](/essay/2022/09/05/deep-learning-and-blockchain.html)

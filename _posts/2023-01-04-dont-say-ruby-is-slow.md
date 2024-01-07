@@ -31,7 +31,7 @@ HTTP도 쓰지 않았습니다. 프로토콜을 직접 만들어서 클라이언
 참나, 괜히 고생만 뒤지게 했군.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [Ruby는 프로그래머를 위한 선물](/essay/2022/02/18/ruby.html)
 * [Ruby on Rails 7](/essay/2021/12/17/ruby-on-rails-7.html)
 * [TCP 서버와 HTTP 서버](/essay/2022/01/14/tcp-http-server.html)

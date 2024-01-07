@@ -33,6 +33,6 @@ K리그 프로그래머로서의 이야기도 한 번 해봐야 하는 거 아�
 [*유튜브 링크 - 직장인이 경제적 자유를 얻기까지*](https://www.youtube.com/watch?v=V68UjWYIw1o)
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [맙소사, 내가 책을 쓸 줄이야](/essay/2022/11/15/the-joys-and-sorrows-building-owner.html)
 

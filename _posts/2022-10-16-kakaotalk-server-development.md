@@ -103,7 +103,7 @@ Notice.order(created_at: :desc)
 저는 감사하고 응원하며 사는 쪽이고 싶습니다. 제 주위에도 이런 사람들이 많았으면 좋겠습니다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [카카오가 혁신이란 걸 한 적이 있나요?](https://brunch.co.kr/@buildingking/76)
 * [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
 * [완성되지 않은 회사](/essay/2022/05/02/kakao-ten-years.html)

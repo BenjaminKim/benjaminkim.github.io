@@ -22,5 +22,5 @@ Windows 프로그래머라면 Windows Api의 에러코드에 익숙해야 한다
 [이 페이지](https://www.osr.com/blog/2020/04/23/ntstatus-to-win32-error-code-mappings/)에 커널 코드에서 리턴 되는 `NTSTATUS` 에러 코드가 어떤 Win32 에러 코드로 매핑되는지 나와있다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [GetLastError 함수 사용의 흔한 실수](/essay/2012/01/13/GetLastError-함수-사용의-흔한-실수.html)

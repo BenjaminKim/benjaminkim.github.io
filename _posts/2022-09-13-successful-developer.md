@@ -39,7 +39,7 @@ date: 2022-09-14 11:56:00 +0900
 눈으로 직접 보여주는 것만큼 강력한 것은 없으니까.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [1인 개발자로 혼자 일하는 이유](https://brunch.co.kr/@buildingking/68)
 * [1인 개발자로 사는 이야기](/essay/2023/01/07/jocoding-youtube.html)
 * [구독 프로그램 전성시대](/essay/2022/08/16/subscription-program-heyday.html)

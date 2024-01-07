@@ -79,5 +79,5 @@ int main( int argc, char * argv[] )
 프로세스 모니터가 이벤트와 로깅의 순서를 동기화 해주는 것은 보너스이다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [프로세스 모니터 사용법](/essay/2011/01/14/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0-%EC%82%AC%EC%9A%A9%EB%B2%95.html)

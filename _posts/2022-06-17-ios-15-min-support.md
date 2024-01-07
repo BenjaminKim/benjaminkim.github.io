@@ -48,7 +48,7 @@ iOS 15는 지금 얼마나 쓰이고 있을까요?
 때때로 우리는 해보지도 않고 걱정을 너무 많이 합니다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [이제 나도 아이폰 개발자](/essay/2022/06/13/ios-developer-too.html)
 * [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
 * [아이폰과 안드로이드](/essay/2022/02/12/ios-android.html)

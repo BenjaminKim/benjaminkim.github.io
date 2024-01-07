@@ -49,7 +49,7 @@ date: 2022-10-28 12:53:00 +0900
 시스템에 갇혀 살지 않아서 참 좋다고.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [평일은 주말보다 소중합니다](https://brunch.co.kr/@buildingking/29)
 * [남들과 반대로 살기](https://brunch.co.kr/@buildingking/87)
 * [나를 위해 돈을 벌어주는 시스템을 만들기](https://brunch.co.kr/@buildingking/26)

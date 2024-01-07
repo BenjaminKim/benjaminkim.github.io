@@ -57,7 +57,7 @@ date: 2023-01-14 19:50:00 +0900
 저는 정말로 기쁩니다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [속임수를 쓰면 돈을 더 많이 벌 수 있을까?](https://brunch.co.kr/@buildingking/100)
 * [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
 * [1인 개발자 전성시대](/essay/2022/09/14/successful-developer.html)

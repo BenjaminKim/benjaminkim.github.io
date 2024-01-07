@@ -102,5 +102,5 @@ int main()
 ![Visual Studio Output](https://t1.daumcdn.net/cfile/tistory/1272672E4C57E35C05)
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [Windows Api의 에러 번호를 확인하는 가장 간편한 방법](/programming/2010/08/15/win32-error-lookup.html)

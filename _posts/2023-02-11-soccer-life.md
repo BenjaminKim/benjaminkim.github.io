@@ -32,7 +32,7 @@ date: 2023-02-11 14:40:00 +0900
 60살이 되면 저 팀에 들어가서 함께 하고싶습니다.⚽
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [운동은 행복을 위한 가장 좋은 투자](https://brunch.co.kr/@buildingking/149)
 * [골프와 테니스 다음은 여자 축구?](https://brunch.co.kr/@buildingking/140)
 * [살면서 가장 힘들었던 날](https://brunch.co.kr/@buildingking/132)

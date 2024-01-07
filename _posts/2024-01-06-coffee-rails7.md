@@ -32,7 +32,7 @@ ChatGPT가 구명조끼도 던져주고.. 옆에서 계속 도와줬습니다.
 호텔 식탁에 앉아 하룻밤을 꼴딱 새버린 오늘도 기억에 오래 남을 것 같습니다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [Ruby는 프로그래머를 위한 선물](/essay/2022/02/18/ruby.html)
 * [루비가 느리다고?](/essay/2023/01/04/dont-say-ruby-is-slow.html)
 * [Ruby on Rails 7](/essay/2021/12/17/ruby-on-rails-7.html)

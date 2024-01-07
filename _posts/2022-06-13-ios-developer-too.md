@@ -39,7 +39,7 @@ date: 2022-06-13 12:57:00 +0900
 와, 기분 정말 좋다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [이제 나도 아이폰 개발자](/essay/2022/06/13/ios-developer-too.html)
 * [SwiftUI 너무 좋아](/essay/2022/06/08/swiftui.html)
 * [지금 SwiftUI 3.0으로 앱을 만들어도 되나요?](/essay/2022/06/17/ios-15-min-support.html)

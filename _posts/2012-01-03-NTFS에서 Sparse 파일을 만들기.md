@@ -50,6 +50,6 @@ FAT 파일 시스템도 Sparse파일을 지원하지 않는데, 그러므로 NTF
 Sparse 파일에서 실제로 디스크에 저장된 용량을 알고 싶을 때는 [GetCompressedFileSize](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getcompressedfilesizea) 함수를 사용하면 된다.
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [파일 조작 테스트를 위한 최고의 프로그램](/programming/2010/12/27/파일-조작-테스트를-위한-최고의-프로그램.html)
 * [디렉터리의 읽기 전용 속성](/essay/2011/02/20/디렉터리의-읽기-전용-속성.html)

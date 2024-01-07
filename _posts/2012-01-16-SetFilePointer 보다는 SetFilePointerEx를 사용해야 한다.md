@@ -57,7 +57,7 @@ DWORD WINAPI SetFilePointer(
 
 <br>
 <br>
-*비슷한 글:*
+*함께 읽으면 좋은 글:*
 * [메모리를 해제하기 전에 왜 널 체크를 하는걸까?](/essay/2011/05/29/메모리를-해제하기-전에-왜-널-체크를-하는걸까.html)
 * [알아두면 유용한 MoveFileEx 함수의 펜딩 옵션](/programming/2011/07/17/알아두면-유용한-MoveFileEx-함수의-펜딩-옵션.html)
 * [GetLastError 함수 사용의 흔한 실수](/essay/2012/01/13/GetLastError-함수-사용의-흔한-실수.html)
