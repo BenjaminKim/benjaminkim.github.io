@@ -63,5 +63,6 @@ date: 2022-02-10 14:22:00 +0900
 <br>
 <br>
 *함께 읽으면 좋은 글:*
+* [타협을 잘 하는 개발자](/essay/2024/01/17/developer-compromise.html)
 * [절대 포기하지 않는 사람](https://brunch.co.kr/@buildingking/47)
 * [포기하지 않으면 마법이 일어납니다](https://jeho.page/essay/2021/11/23/%ED%8F%AC%EA%B8%B0%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4-%EB%A7%88%EB%B2%95%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A9%EB%8B%88%EB%8B%A4.html)
