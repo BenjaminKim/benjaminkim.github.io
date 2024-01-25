@@ -36,4 +36,4 @@ date: 2023-08-01 11:35:00 +0900
 *함께 읽으면 좋은 글:*
 * [사무실의 고요함이 너무 좋아](/essay/2023/03/30/silence-in-the-office.html)
 * [논다고 좋은 게 아니야](/essay/2023/01/25/fire-is-not-that-good.html)
-* [이렇게 살다가 죽어도 좋겠어](/essay/2022/04/09/an-ordinary-day.html)
+* [평범한 하루](/essay/2022/04/09/an-ordinary-day.html)

@@ -44,4 +44,4 @@ date: 2023-07-01 13:54:00 +0900
 <br>
 *함께 읽으면 좋은 글:*
 * [가장 행복했던 출근길](/essay/2022/09/02/the-happiest-way-to-work.html)
-* [이렇게 살다가 죽어도 좋겠어](/essay/2022/04/09/an-ordinary-day.html)
+* [평범한 하루](/essay/2022/04/09/an-ordinary-day.html)

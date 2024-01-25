@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/rootone.jpg
-title: 이렇게 살다가 죽어도 좋겠어
+title: 평범한 하루
 date: 2022-04-09 10:13:00 +0900
 ---
 
