@@ -122,6 +122,7 @@ void copy(std::wstring& strResult)
 <br>
 
 *함께 읽으면 좋은 글:*
+* [typedef 이해하기](/programming/2011/01/04/typedef-이해하기.html)
 * [TR1을 이용한 C++에서의 정규식 사용](/programming/2009/06/30/tr1-regex.html)
 * [비주얼 스튜디오에서 pragma message 로 실수 방지 하기](/programming/2010/01/13/pragma-message.html)
 * [C++ STL을 익히기 위해 좋은 책](/essay/2008/03/15/stl.html)
