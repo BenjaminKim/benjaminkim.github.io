@@ -47,7 +47,8 @@ date: 2024-01-12 10:17:00 +0900
 
 그래서 다른 어떤 것보다도 각별히 생각해야 하는 것.
 
-![눈이 오는 날, 가족 사진](/assets/img/snow_family.jpg)
+![눈이 오는 날, 가족 사진](/assets/img/snow_family.jpg)  
+*사진 작가 [@moden.](https://www.instagram.com/moden_____/)*
 
 [가족이나 친구를 포기](https://youtu.be/jARKSXogEE0?si=z8pwhd86_GclJX_9&t=175)하지 않는..  
 회사라는 것에 인생을 갈아 넣는 창업이 아니어서 좋습니다.
