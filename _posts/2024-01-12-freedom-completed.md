@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/snow-family.jpg
+image: /assets/img/snow_family.jpg
 title: 완전한 자유
 date: 2024-01-12 10:17:00 +0900
 ---
