@@ -11,6 +11,8 @@ date: 2024-02-01 14:29:00 +0900
 ```c#
 string phrase = "The quick brown fox jumps over the lazy dog.";
 string[] words = phrase.Split(' ');
+
+// ["The", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog."]
 ```
 
 우와, 끝내준다.  
