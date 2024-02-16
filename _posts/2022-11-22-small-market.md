@@ -34,3 +34,4 @@ date: 2022-11-22 23:20:00 +0900
 *함께 읽으면 좋은 글:*
 * [구독 프로그램 전성시대](/essay/2022/08/16/subscription-program-heyday.html)
 * [1인 개발자 전성시대](/essay/2022/09/14/successful-developer.html)
+* [너무 작은 틈새시장](/essay/2024/02/16/too-small-niche.html)
