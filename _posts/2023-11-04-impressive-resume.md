@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/h-square-s.png
+image: /assets/img/gates.png
 title: 가장 인상적이었던 이력서
 date: 2023-11-04 21:07:00 +0900
 ---
@@ -32,5 +32,6 @@ date: 2023-11-04 21:07:00 +0900
 <br>
 <br>
 *함께 읽으면 좋은 글:*
+* [이력서 다크 패턴](/essay/2024/03/19/resume-github-blog.html)
 * [모바일 네이티브와 PC 네이티브](/essay/2022/01/18/mobile-native.html)
 * [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
