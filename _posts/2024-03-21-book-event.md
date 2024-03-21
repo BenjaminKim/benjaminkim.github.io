@@ -27,7 +27,7 @@ date: 2024-03-21 10:56:00 +0900
 필수는 아닙니다만 재밌게 읽으셨다면 온라인 공간 어딘가 독자평을 올려주시면 기쁜 마음으로 읽으러 가겠습니다.
 
 이 구글폼에서 신청해주시면 됩니다.  
-### [책 신청하기](https://docs.google.com/forms/d/e/1FAIpQLScbicO2-VXE2hDYbaRo-CoXb003KkmpG8FwJScn_xNPCGMD7A/viewform)
+### [책 신청하기 (마감되었어요)](https://docs.google.com/forms/d/e/1FAIpQLScbicO2-VXE2hDYbaRo-CoXb003KkmpG8FwJScn_xNPCGMD7A/viewform)
 100명이 넘으면 폼이 닫힙니다.
 <br>
 <br>
