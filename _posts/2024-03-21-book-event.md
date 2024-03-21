@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/gates.png
+image: /assets/img/building_book.png
 title: 책을 선물해드립니다 (건물주의 기쁨과 슬픔)
 date: 2024-03-21 10:56:00 +0900
 ---
