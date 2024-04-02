@@ -21,7 +21,9 @@ date: 2023-08-25 14:24:00 +0900
 
 언젠가 이 이야기를 유튜브에서 했습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V68UjWYIw1o?si=4kzzOvyij343K0c9&amp;start=931" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/V68UjWYIw1o?si=4kzzOvyij343K0c9&amp;start=931" allowfullscreen></iframe>
+</div>
 
 생각을 바꾸기는 참 힘들었습니다.
 

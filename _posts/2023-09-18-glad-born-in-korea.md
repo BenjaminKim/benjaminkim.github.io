@@ -49,8 +49,10 @@ date: 2023-09-18 15:16:00 +0900
 한국에 태어나고 이 사회에 속한 것을 인연으로 받아들입니다.  
 제가 사회에서 받은 것들보다 더 많이 돌려줄 수 있다면 행복할 것 같습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e44yoIJDwpY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/e44yoIJDwpY" allowfullscreen></iframe>
+</div>
+
 이원복 선생님도 그런 마음으로 꾸준히 작업하시나 봅니다.  
 건강하시고.. 먼나라 이웃나라 아프리카 편도 기대합니다.
 <br>

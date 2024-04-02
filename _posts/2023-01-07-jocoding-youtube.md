@@ -19,8 +19,8 @@ date: 2023-01-07 21:11:00 +0900
 
 제 스토리가 여러분들에게도 재미있고 유익하다면 너무 기쁠 것 같습니다.
 
-<div class="iframe-container" style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
- <iframe src="https://www.youtube.com/embed/L6TNhTNHRIA?si=6QHTsJLGOKwhQhr0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-container">
+ <iframe src="https://www.youtube.com/embed/L6TNhTNHRIA?si=6QHTsJLGOKwhQhr0" allowfullscreen></iframe>
 </div>
 <br>
 *함께 읽으면 좋은 글:*

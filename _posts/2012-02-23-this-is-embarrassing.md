@@ -14,7 +14,7 @@ date: 2012-02-23 07:01:00 +0900
 
 비야네의 예기치 못한 방송사고(?)에 긴장해서 지켜보다가 그의 대처에 폭소하여 쓰러질 뻔했다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OB-bdWKwXsU?start=2680"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture" allowfullscreen>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/OB-bdWKwXsU?start=2680" allowfullscreen>
 </iframe>
+</div>

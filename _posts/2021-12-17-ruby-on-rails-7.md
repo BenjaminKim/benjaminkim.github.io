@@ -29,8 +29,8 @@ Ruby나 Rails나 둘 다 고인물 같아도 의외로 아주 활발하게 개�
 2021년의 버전이 나왔네요. DHH가 직접 Rails 7을 사용해서.  
 DHH의 얼굴도 중년이 되었고, 우리가 쓰는 컴퓨터도 많이 바뀌었습니다.
 
-<div class="iframe-container" style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
- <iframe src="https://www.youtube.com/embed/mpWFrUwAN88" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-container">
+ <iframe src="https://www.youtube.com/embed/mpWFrUwAN88" allowfullscreen></iframe>
 </div>
 <br>
 <br>

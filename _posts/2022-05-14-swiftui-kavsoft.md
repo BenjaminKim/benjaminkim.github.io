@@ -13,7 +13,9 @@ SwiftUI로만 코딩하게 될 날이 얼마 안 남은 것 같습니다.
 
 SwiftUI를 공부하기 위해 가장 도움이 된 것은 이 유튜브였습니다.
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pd90OTQiOaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/Pd90OTQiOaA" allowfullscreen></iframe>
+</div>
 <br>
 아무런 말도 없이 그저 코드만 짭니다.  
 가만히 보고 있으면 신기합니다.  
