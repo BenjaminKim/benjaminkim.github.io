@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/grammar_in_use.png
+image: /assets/img/jeho.jpg
 title: 온라인 커피챗
 date: 2024-04-04 14:07:00 +0900
 ---
