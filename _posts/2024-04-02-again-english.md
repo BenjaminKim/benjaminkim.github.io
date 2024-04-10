@@ -64,3 +64,4 @@ AI가 나중엔 다 해줄 거라는 나약한 생각도 자꾸 들지만...
 *함께 읽으면 좋은 글:*
 * [에어비앤비를 처음 시작했던 이야기](https://brunch.co.kr/@buildingking/43)
 * [새벽 4시에 에어비앤비 게스트를 맞으러 달려 나간 썰](https://brunch.co.kr/@buildingking/7)
+* [번역서의 고마움](/essay/2024/04/11/thanks-to-translators.html)
