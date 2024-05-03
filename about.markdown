@@ -18,9 +18,9 @@ permalink: /about/
 
 <br>
 
-<h3><img style="padding-bottom: 5px; padding-right: 3px;" src="/assets/img/youtube.png"> 유튜브에서 나눈 이야기들</h3> 
-
+<h3><img style="padding-bottom: 5px; padding-right: 3px;" src="/assets/img/youtube.png"> 유튜브에서 나눈 이야기들</h3>
 * [1인 개발자의 삶 - 조코딩](https://www.youtube.com/watch?v=L6TNhTNHRIA)
+* [1인 개발, 당신이 알아야 할 것들 - 조코딩](https://www.youtube.com/watch?v=Z2VXtzFYd1w)
 * [건물주의 기쁨과 슬픔 - 김단테](https://www.youtube.com/watch?v=V68UjWYIw1o)
 
 <h3>

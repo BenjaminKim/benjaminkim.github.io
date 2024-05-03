@@ -62,7 +62,7 @@ P.S. 사진에 있는 2015년 데스크톱은 여전히 쓰이고 있습니다.
 <br>
 <br>
 *함께 읽으면 좋은 글:*
+* [커피한잔 서버 장애 썰](/essay/2024/05/03/coffee-server.html)
 * [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
 * [서버 비용을 아끼던 사람들](/essay/2024/03/07/people-saving-cost.html)
-* [TCP 서버와 HTTP 서버](/essay/2022/01/14/tcp-http-server.html)
 * [제가 서버랑 클라이언트랑 다 할게요](/essay/2021/09/14/제가-서버랑-클라이언트랑-다-할게요.html)

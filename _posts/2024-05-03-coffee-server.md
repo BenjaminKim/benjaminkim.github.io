@@ -131,3 +131,5 @@ KT에서는 엔지니어가 가서 고쳐주겠다고 하는데... 내일에나 
 <br>
 *함께 읽으면 좋은 글:*
 * [집에서 서버를 운영하는 게 가능한가요?](/essay/2024/04/29/home-server.html)
+* [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
+* [서버 비용을 아끼던 사람들](/essay/2024/03/07/people-saving-cost.html)
