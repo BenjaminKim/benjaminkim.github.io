@@ -127,6 +127,9 @@ KT에서는 엔지니어가 가서 고쳐주겠다고 하는데... 내일에나 
 <div class="iframe-container">
     <iframe src="https://www.youtube.com/embed/Z2VXtzFYd1w" allowfullscreen></iframe>
 </div>
+
+P.S. 유튜브에서 입은 [리바이스 청자켓은 1995년에 비싼 돈을 주고 사서 후회하던 자켓](https://brunch.co.kr/@buildingking/58)입니다.  
+30년 동안 안 입고 집에 모셔두고 살았는데... 이제야 돈 값을 한 것 같습니다.(웃음)
 <br>
 <br>
 *함께 읽으면 좋은 글:*
