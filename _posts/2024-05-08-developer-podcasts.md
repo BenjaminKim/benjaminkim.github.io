@@ -16,7 +16,7 @@ date: 2024-05-08 15:09:00 +0900
 [옛날 기술들을 듣다보면](https://retrotech.outsider.dev/episodes/1a) 코딩을 처음 배우던 시절로 푹 빠져들곤 합니다.  
 
 어제는 [조코딩의 팟캐스트](https://www.youtube.com/@jocoding/podcasts)도 오픈을 했습니다.  
-유튜브 앱만이 아니라 애플 팟캐스트와 스포티파이를 통해서도 들을 수 있게 됐습니다.
+유튜브 앱만이 아니라 [애플 팟캐스트](https://podcasts.apple.com/kr/podcast/%EC%A1%B0%EC%BD%94%EB%94%A9%EC%9D%98-%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8/id1744878277)와 [스포티파이](https://open.spotify.com/show/4r6UnZ2ouSUKJRXbXOTtc8)를 통해서도 들을 수 있게 됐습니다.
 
 ![조코딩 팟캐스트](/assets/img/jocoding_podcast.png)  
 *저도 출연해서 [1인 개발 이야기](https://www.youtube.com/watch?v=Z2VXtzFYd1w)로 한 꼭지를 다뤘습니다.*
