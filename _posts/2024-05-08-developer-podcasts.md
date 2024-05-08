@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/wet_coffee_server.png
+image: /assets/img/jocoding_podcast.png
 title: 개발자 팟캐스트
 date: 2024-05-08 15:09:00 +0900
 ---
@@ -16,12 +16,15 @@ date: 2024-05-08 15:09:00 +0900
 [옛날 기술들을 듣다보면](https://retrotech.outsider.dev/episodes/1a) 코딩을 처음 배우던 시절로 푹 빠져들곤 합니다.  
 
 어제는 [조코딩의 팟캐스트](https://www.youtube.com/@jocoding/podcasts)도 오픈을 했습니다.  
-유튜브 앱만이 아니라 애플 팟캐스트와 스포티파이를 통해서도 들을 수 있게 됐습니다.  
-저도 출연해서 [1인 개발 이야기](https://www.youtube.com/watch?v=Z2VXtzFYd1w)로 한 꼭지를 다뤘습니다.  
-앞으로 재밌는 경험을 가진 분들이 많이 모셔서 이야기를 들어볼 수 있게 되길 바랍니다.
+유튜브 앱만이 아니라 애플 팟캐스트와 스포티파이를 통해서도 들을 수 있게 됐습니다.
 
-어쩌면 우리나라 개발자 팟캐스트가 너무 부족한 건 아닐까?  
-여기에도 기회가 있는 건 아닐까?  
+![조코딩 팟캐스트](/assets/img/jocoding_podcast.png)  
+*저도 출연해서 [1인 개발 이야기](https://www.youtube.com/watch?v=Z2VXtzFYd1w)로 한 꼭지를 다뤘습니다.*
+
+앞으로 재밌는 경험을 가진 분들을 많이 모셔서 이야기를 들어볼 수 있게 되길 바랍니다.
+
+팟캐스트를 쭉 살펴보다가 우리나라 개발자 팟캐스트가 너무 부족한 건 아닐까 생각이 들었습니다.  
+어쩌면 여기에도 기회가 있는 건 아닐까?  
 유익한 개발자 팟캐스트가 많이 생겼으면 좋겠습니다.
 <br>
 <br>
