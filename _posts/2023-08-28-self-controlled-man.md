@@ -50,3 +50,4 @@ date: 2023-08-28 17:07:00 +0900
 <br>
 *함께 읽으면 좋은 글:*
 * [절대 포기하지 않는 사람](https://brunch.co.kr/@buildingking/47)
+* [금주 1주년](/essay/2024/05/26/quit-drinking.html)
