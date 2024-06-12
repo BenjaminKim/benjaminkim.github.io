@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/rootone.jpg
-title: 제 앱 좀 만들어 주세요
+title: 앱 개발 의뢰 시장 (제 앱 좀 만들어 주세요)
 date: 2024-06-12 11:03:00 +0900
 ---
 
