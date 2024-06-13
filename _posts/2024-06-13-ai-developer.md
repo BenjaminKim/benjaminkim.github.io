@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/rootone.jpg
-title: AI 코딩으로 쉽게 돈 버는 세상
+title: AI 코딩으로 모두가 쉽게 돈 버는 세상?
 date: 2024-06-13 09:04:00 +0900
 ---
 
