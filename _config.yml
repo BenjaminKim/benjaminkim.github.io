@@ -33,6 +33,8 @@ url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http
 github_username: BenjaminKim
 linkedin_username: jehokim
 twitter_username: BenjaminKim_
+threads_username: '@jehokim'
+rss: 'RSS'
 
 lang: "ko"
 timezone: Asia/Seoul
