@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/kakao_fire_2012.png
+image: /assets/img/kakao/kakao_fire_2012.png
 title: 오랜만에 카카오 아지트
 date: 2024-07-25 15:10:00 +0900
 ---
