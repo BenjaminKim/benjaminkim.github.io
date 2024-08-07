@@ -63,5 +63,6 @@ date: 2024-08-08 03:14:00 +0900
 
 <br>
 *함께 읽으면 좋은 글:*
-* [절대 포기하지 않는 사람](https://brunch.co.kr/@buildingking/47)
+* [카카오톡 서버 개발의 추억](/essay/2022/10/16/kakaotalk-server-development.html)
 * [사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
+* [절대 포기하지 않는 사람](https://brunch.co.kr/@buildingking/47)
