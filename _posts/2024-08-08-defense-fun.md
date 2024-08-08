@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/kakao/kakao_fire_2012.png
-title: 레거시 처리 개발자
+title: 수비수 개발자
 date: 2024-08-08 03:14:00 +0900
 ---
 
