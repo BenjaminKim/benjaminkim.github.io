@@ -22,11 +22,3 @@ permalink: /about/
 * [1인 개발자의 삶 - 조코딩](https://www.youtube.com/watch?v=L6TNhTNHRIA)
 * [1인 개발, 당신이 알아야 할 것들 - 조코딩](https://www.youtube.com/watch?v=Z2VXtzFYd1w)
 * [건물주의 기쁨과 슬픔 - 김단테](https://www.youtube.com/watch?v=V68UjWYIw1o)
-
-<h3>
-<img style="padding-bottom: 6px; padding-right: 5px;" src="/assets/img/rss.png"> <a href="/feed.xml">RSS로 구독하기</a> <a href="/feed.xml"></a>
-</h3>
-
-<h3>
-<img style="padding: 0 0px 15px 0; width: 32px; height: 32px;" src="/assets/img/coffee_cup.png"> <a href="/essay/2024/01/05/coffee-with-coffee-developer.html">K리그 프로그래머와 커피챗 하기</a>
-</h3>
