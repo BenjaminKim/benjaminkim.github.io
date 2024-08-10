@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
 
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -19,19 +19,39 @@ layout: default
             {%- endif -%}
             {%- if page.author -%}
             • {% for author in page.author %}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
             {% endfor %}
-            {%- endif -%}</p>
+            {%- endif -%}
+        </p>
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
     </div>
 
-<div class="col-lg-8 col-md-10 mx-auto">
-    <hr/>
+    <div class="container">
+        <div class="content-wrapper">
+            <button id="share-button" class="share-button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+                    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+                    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+                </svg>
+                <div class="button-text">공유</div>
+            </button>
+
+            <a href="/feed.xml" class="rss-button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icon">
+                    <path d="M12.8 16C12.8 8.978 7.022 3.2 0 3.2V0c8.777 0 16 7.223 16 16h-3.2zM2.194 11.61c1.21 0 2.195.985 2.195 2.196 0 1.21-.99 2.194-2.2 2.194C.98 16 0 15.017 0 13.806c0-1.21.983-2.195 2.194-2.195zM10.606 16h-3.11c0-4.113-3.383-7.497-7.496-7.497v-3.11c5.818 0 10.606 4.79 10.606 10.607z"/>
+                    <div class="button-text">구독</div>
+                </svg>
+
+                <symbol id="rss" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M12.8 16C12.8 8.978 7.022 3.2 0 3.2V0c8.777 0 16 7.223 16 16h-3.2zM2.194 11.61c1.21 0 2.195.985 2.195 2.196 0 1.21-.99 2.194-2.2 2.194C.98 16 0 15.017 0 13.806c0-1.21.983-2.195 2.194-2.195zM10.606 16h-3.11c0-4.113-3.383-7.497-7.496-7.497v-3.11c5.818 0 10.606 4.79 10.606 10.607z"/></symbol>
+            </a>
+        </div>
+    </div>
+
     <br/>
     <script src="https://giscus.app/client.js"
             data-repo="BenjaminKim/benjaminkim.github.io"
@@ -49,6 +69,8 @@ layout: default
             crossorigin="anonymous"
             async>
     </script>
-</div>
+    </div>
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<script src="{{ '/assets/js/share.js' | relative_url }}"></script>

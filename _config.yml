@@ -29,7 +29,7 @@ defaults:
 description: >- # this means to ignore newlines until "baseurl:"
   커피한잔 개발자의 스몰토크
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jeho.page" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jeho.page"
 github_username: BenjaminKim
 linkedin_username: jehokim
 twitter_username: BenjaminKim_
