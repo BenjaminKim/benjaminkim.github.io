@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    function trackButtonClick(buttonId, eventName) {
+    function trackButtonClick(buttonId, eventLabel) {
         const button = document.getElementById(buttonId);
 
         if (button) {
@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 const pageUrl = window.location.href;
                 const pageTitle = document.title;
 
-                gtag('event', eventName, {
+                gtag('event', 'share', {
+                    'event_category': 'Button',
+                    'event_label': eventLabel,
                     'value': 1,
                     'page_title': pageTitle,
                     'page_url': pageUrl
@@ -16,9 +18,9 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    trackButtonClick('share-button', 'share_button_click');
-    trackButtonClick('rss-button', 'rss_button_click');
-    trackButtonClick('awesome-rss-button', 'awesome_button_click');
-    trackButtonClick('coffee-app', 'coffee_button_click');
-    trackButtonClick('jeho-email', 'email_button_click');
+    trackButtonClick('share-button', 'Share Button');
+    trackButtonClick('rss-button', 'Rss Button');
+    trackButtonClick('awesome-rss-button', 'Awesome Rss Button');
+    trackButtonClick('jeho-email', 'Jeho Email Button');
+    trackButtonClick('coffee-app', 'CoffeeApp Button');
 });
