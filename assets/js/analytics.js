@@ -1,16 +1,13 @@
 document.addEventListener('DOMContentLoaded', function () {
-    function trackButtonClick(buttonId, eventLabel) {
+    function trackButtonClick(buttonId, eventName) {
         const button = document.getElementById(buttonId);
 
         if (button) {
             button.addEventListener('click', function () {
-                const pageUrl = window.location.href; // 현재 페이지 URL
-                const pageTitle = document.title; // 현재 페이지 제목
+                const pageUrl = window.location.href;
+                const pageTitle = document.title;
 
-                // Google Analytics 이벤트 전송
-                gtag('event', 'click', {
-                    'event_category': 'Button',
-                    'event_label': eventLabel,
+                gtag('event', eventName, {
                     'value': 1,
                     'page_title': pageTitle,
                     'page_url': pageUrl
@@ -20,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // 각 버튼에 대해 함수 호출
-    trackButtonClick('share-button', 'Share Button');
-    trackButtonClick('rss-button', 'Rss Button');
-    trackButtonClick('awesome-rss-button', 'Awesome Rss Button');
+    trackButtonClick('share-button', 'share_button_click');
+    trackButtonClick('rss-button', 'rss_button_click');
+    trackButtonClick('awesome-rss-button', 'awesome_button_click');
 });
