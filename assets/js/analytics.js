@@ -16,8 +16,9 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    // 각 버튼에 대해 함수 호출
     trackButtonClick('share-button', 'share_button_click');
     trackButtonClick('rss-button', 'rss_button_click');
     trackButtonClick('awesome-rss-button', 'awesome_button_click');
+    trackButtonClick('coffee-app', 'coffee_button_click');
+    trackButtonClick('jeho-email', 'email_button_click');
 });
