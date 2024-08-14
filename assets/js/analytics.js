@@ -18,9 +18,9 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    trackButtonClick('share-button', 'Share Button');
-    trackButtonClick('rss-button', 'Rss Button');
-    trackButtonClick('awesome-rss-button', 'Awesome Rss Button');
-    trackButtonClick('jeho-email', 'Jeho Email Button');
-    trackButtonClick('coffee-app', 'CoffeeApp Button');
+    trackButtonClick('share-button', 'share_button');
+    trackButtonClick('rss-button', 'rss_button');
+    trackButtonClick('awesome-rss-button', 'awesome_button');
+    trackButtonClick('jeho-email', 'jeho_email_button');
+    trackButtonClick('coffee-app', 'coffee_app_button');
 });
