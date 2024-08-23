@@ -20,6 +20,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     trackButtonClick('share-button', 'share_button');
     trackButtonClick('rss-button', 'rss_button');
+    trackButtonClick('footer-rss', 'footer_rss');
+    trackButtonClick('footer-linkedin', 'footer_linkedin');
+    trackButtonClick('footer-threads', 'footer_threads');
+    trackButtonClick('footer-twitter', 'footer_twitter');
+    trackButtonClick('footer-github', 'footer_github');
     trackButtonClick('awesome-rss-button', 'awesome_button');
     trackButtonClick('jeho-email', 'jeho_email_button');
     trackButtonClick('coffee-app', 'coffee_app_button');

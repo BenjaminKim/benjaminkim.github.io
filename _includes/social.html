@@ -1,19 +1,68 @@
 <ul class="social-media-list">
-  {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
-  {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ site.facebook_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ site.instagram_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.threads_username -%}<li><a href="https://threads.net/{{ site.threads_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ site.threads_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
-  <li><a href="https://withcoffee.app?utm_source=jeho_page_bottom_icon&utm_medium=blog">
-    <svg class="svg-icon" width="180pt" height="180pt" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-      <rect width="180" height="180" fill="white"/>
-      <g transform="translate(0,180) scale(0.1,-0.1)" fill="gray" stroke="none">
-        <path d="M0 900 l0 -900 900 0 900 0 0 900 0 900 -900 0 -900 0 0 -900z m620 546 c0 -2 -8 -10 -17 -17 -16 -13 -17 -12 -4 4 13 16 21 21 21 13z m-43 -103 c-3 -10 -5 -4 -5 12 0 17 2 24 5 18 2 -7 2 -21 0 -30z m6 -244 c19 -30 0 -65 -45 -85 -59 -26 -108 -71 -108 -99 0 -76 179 -145 380 -145 201 0 380 69 380 145 0 28 -49 73 -108 99 -46 21 -61 50 -42 85 7 14 21 21 40 21 40 0 128 -40 171 -77 30 -27 39 -30 74 -24 115 20 215 -59 215 -168 0 -91 -34 -130 -185 -212 -93 -51 -115 -68 -144 -110 -82 -121 -219 -182 -406 -181 -237 1 -391 108 -471 327 -28 76 -49 213 -40 261 20 103 246 231 289 163z"/>
-        <path d="M1330 898 c-1 -18 -7 -66 -14 -105 -7 -40 -10 -73 -7 -73 20 2 118 71 130 91 29 51 -15 119 -76 119 -30 0 -33 -2 -33 -32z"/>
-      </g>
-    </svg>
-    <span id="coffee-app" class="username">커피한잔 소개팅</span></a></li>
+    {%- if site.rss -%}
+    <li><a href="{{ 'feed.xml' | relative_url }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+        </svg>
+        <span id="footer-rss">{{ site.rss | escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.linkedin_username -%}
+    <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+        </svg>
+        <span id="footer-linkedin" class="username">{{ site.linkedin_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.facebook_username -%}
+    <li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use>
+        </svg>
+        <span class="username">{{ site.facebook_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.instagram_username -%}
+    <li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use>
+        </svg>
+        <span class="username">{{ site.instagram_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.threads_username -%}
+    <li><a href="https://threads.net/{{ site.threads_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use>
+        </svg>
+        <span id="footer-threads" class="username">{{ site.threads_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.youtube_username -%}
+    <li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use>
+        </svg>
+        <span class="username">{{ site.youtube_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.twitter_username -%}
+    <li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
+        </svg>
+        <span id="footer-twitter" class="username">{{ site.twitter_username| escape }}</span></a></li>
+    {%- endif -%}
+    {%- if site.github_username -%}
+    <li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+        </svg>
+        <span id="footer-github" class="username">{{ site.github_username| escape }}</span></a></li>
+    {%- endif -%}
+    <li><a href="https://withcoffee.app?utm_source=jeho_page_bottom_icon&utm_medium=blog">
+        <svg class="svg-icon" width="180pt" height="180pt" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet">
+            <rect width="180" height="180" fill="white"/>
+            <g transform="translate(0,180) scale(0.1,-0.1)" fill="gray" stroke="none">
+                <path d="M0 900 l0 -900 900 0 900 0 0 900 0 900 -900 0 -900 0 0 -900z m620 546 c0 -2 -8 -10 -17 -17 -16 -13 -17 -12 -4 4 13 16 21 21 21 13z m-43 -103 c-3 -10 -5 -4 -5 12 0 17 2 24 5 18 2 -7 2 -21 0 -30z m6 -244 c19 -30 0 -65 -45 -85 -59 -26 -108 -71 -108 -99 0 -76 179 -145 380 -145 201 0 380 69 380 145 0 28 -49 73 -108 99 -46 21 -61 50 -42 85 7 14 21 21 40 21 40 0 128 -40 171 -77 30 -27 39 -30 74 -24 115 20 215 -59 215 -168 0 -91 -34 -130 -185 -212 -93 -51 -115 -68 -144 -110 -82 -121 -219 -182 -406 -181 -237 1 -391 108 -471 327 -28 76 -49 213 -40 261 20 103 246 231 289 163z"/>
+                <path d="M1330 898 c-1 -18 -7 -66 -14 -105 -7 -40 -10 -73 -7 -73 20 2 118 71 130 91 29 51 -15 119 -76 119 -30 0 -33 -2 -33 -32z"/>
+            </g>
+        </svg>
+        <span id="coffee-app" class="username">커피한잔 소개팅</span></a></li>
 </ul>
