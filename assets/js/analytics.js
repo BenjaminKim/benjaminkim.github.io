@@ -27,9 +27,10 @@ document.addEventListener('DOMContentLoaded', function () {
     trackButtonClick('footer-github', 'footer_github');
     trackButtonClick('awesome-rss-button', 'awesome_button');
     trackButtonClick('jeho-email', 'jeho_email_button');
-    trackButtonClick('coffee-app', 'coffee_app_button');
-    trackButtonClick('building-blog', 'building_blog');
-    trackButtonClick('jocoding-v1', 'jocoding-v1');
-    trackButtonClick('jocoding-v2', 'jocoding-v2');
-    trackButtonClick('kimdante', 'kimdante');
+    trackButtonClick('footer-coffee-app', 'footer_coffee_app');
+    trackButtonClick('about-coffee-app', 'about_coffee_app');
+    trackButtonClick('about-building-blog', 'about_building_blog');
+    trackButtonClick('about-jocoding-v1', 'about_jocoding_v1');
+    trackButtonClick('about-jocoding-v2', 'about_jocoding_v2');
+    trackButtonClick('about-kimdante', 'about_kimdante');
 });
