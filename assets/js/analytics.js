@@ -28,4 +28,8 @@ document.addEventListener('DOMContentLoaded', function () {
     trackButtonClick('awesome-rss-button', 'awesome_button');
     trackButtonClick('jeho-email', 'jeho_email_button');
     trackButtonClick('coffee-app', 'coffee_app_button');
+    trackButtonClick('building-blog', 'building_blog');
+    trackButtonClick('jocoding-v1', 'jocoding-v1');
+    trackButtonClick('jocoding-v2', 'jocoding-v2');
+    trackButtonClick('kimdante', 'kimdante');
 });

@@ -13,12 +13,11 @@ permalink: /about/
 마치 은퇴한 축구 선수가 조기 축구에 나가서 [축구를 계속 즐기듯이.](/essay/2021/10/20/K리그-프로그래머.html)  
 이제는 편안한 마음으로 프로그램을 짭니다.
 
-전업 투자자이기도 합니다.  
-투자자로서의 이야기는 [이 곳](https://brunch.co.kr/@buildingking?utm_source=jehopage&utm_medium=blog&utm_campaign=v3)에 씁니다.
+개발 분야가 아닌 이야기는 <a id="building-blog" href="https://brunch.co.kr/@buildingking?utm_source=jehopage&utm_medium=blog&utm_campaign=v3">건물주의 기쁨과 슬픔</a>에 씁니다.
 
 <br>
 
 <h3><img style="padding-bottom: 5px; padding-right: 3px;" src="/assets/img/youtube.png"> 유튜브에서 나눈 이야기들</h3>
-* [1인 개발자의 삶 - 조코딩](https://www.youtube.com/watch?v=L6TNhTNHRIA)
-* [1인 개발, 당신이 알아야 할 것들 - 조코딩](https://www.youtube.com/watch?v=Z2VXtzFYd1w)
-* [건물주의 기쁨과 슬픔 - 김단테](https://www.youtube.com/watch?v=V68UjWYIw1o)
+* <a id="jocoding-v1" href="https://www.youtube.com/watch?v=L6TNhTNHRIA">1인 개발자의 삶 - 조코딩</a>
+* <a id="jocoding-v2" href="https://www.youtube.com/watch?v=Z2VXtzFYd1w">1인 개발, 당신이 알아야 할 것들 - 조코딩</a>
+* <a id="kimdante" href="https://www.youtube.com/watch?v=V68UjWYIw1o">건물주의 기쁨과 슬픔 - 김단테</a>
