@@ -6,7 +6,7 @@ title: 인공지능과 함께 코딩을
 date: 2022-07-31 20:51:00 +0900
 ---
 
-github의 [copilot](https://github.com/features/copilot)과 함께 한지 한 달째.
+GitHub의 [copilot](https://github.com/features/copilot)과 함께 한지 한 달째.
 
 코드를 짜다 말고 가만히 copilot의 제안을 기다려주는 것이 버릇이 되어가고 있습니다.  
 이게 좋은 버릇일까?  
