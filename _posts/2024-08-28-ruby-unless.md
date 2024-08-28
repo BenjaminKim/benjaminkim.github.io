@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/daily_coding.png
+image: /assets/img/unless_assert.png
 title: Ruby의 unless 쉽게 읽기
 date: 2024-08-28 11:30:00 +0900
 ---
@@ -51,6 +51,10 @@ raise AccessDenied unless file.owner == current_user && permission != :readonly
 
 오늘도 이런 `unless` 코드를 쓰다가 조언해 준 동생 생각이 났습니다.  
 알려줘서 고맙다.😁
+
+P.S. 하지만... 알려줬던 동생은 이젠 전혀 기억도 못하는 것 같습니다.
+
+![얼간의 동생과의 카톡 대화](/assets/img/unless_assert.png)
 
 <br>
 *함께 읽으면 좋은 글:*
