@@ -13,7 +13,7 @@ permalink: /about/
 마치 은퇴한 축구 선수가 조기 축구에 나가서 [축구를 계속 즐기듯이.](/essay/2021/10/20/K리그-프로그래머.html)  
 이제는 편안한 마음으로 프로그램을 짭니다.
 
-개발 분야가 아닌 이야기는 <a id="building-blog" href="https://brunch.co.kr/@buildingking?utm_source=jehopage&utm_medium=blog&utm_campaign=v3">건물주의 기쁨과 슬픔</a>에 씁니다.
+개발 분야가 아닌 이야기는 <a id="about-building-blog" href="https://brunch.co.kr/@buildingking?utm_source=jehopage&utm_medium=blog&utm_campaign=v3">건물주의 기쁨과 슬픔</a>에 씁니다.
 
 <br>
 
