@@ -46,3 +46,4 @@ date: 2023-09-29 16:47:00 +0900
 <br>
 *함께 읽으면 좋은 글:*
 * [커피한잔은 언섹시 비즈니스](https://jeho.page/essay/2023/09/27/unsexy-business.html)
+* [개인 사업자와 법인 사업자](/essay/2024/10/18/business-registration.html)
