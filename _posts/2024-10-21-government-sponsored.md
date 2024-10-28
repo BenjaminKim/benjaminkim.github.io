@@ -6,9 +6,9 @@ title: 정부의 창업 지원 (비대면 바우처)
 date: 2024-10-21 12:31:00 +0900
 ---
 
-지난 글에 이런 의견이 있었습니다.
+[지난 글](/essay/2024/10/18/business-registration.html)에 이런 의견이 있었습니다.
 
-![](/assets/img/gorvenment_sponsored.png)  
+![링크드인 댓글](/assets/img/gorvenment_sponsored.png)  
 
 굉장히 좋은 포인트입니다.
 
@@ -59,7 +59,7 @@ date: 2024-10-21 12:31:00 +0900
 얼마나 큰 돈이 엮어 있으면 여기서 파생 비즈니스들이 다 생기냐.  
 어떤 부정들이 있었을지 아래 배너를 보면 상상해 볼 수 있습니다.
 
-![](/assets/img/voucher.png)  
+![비대면바우처플랫폼 부정행위](/assets/img/voucher.png)
 
 저는 그럼 지원금을 어디에 썼을까요?  
 2021년만 해도 쓸만한 곳들이 몇 개 있었습니다.  
