@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/godfather.gif
-title: 대체 불가능한 직원
+title: 나는 대체 불가능한 직원일까?
 date: 2024-10-29 01:59:00 +0900
 ---
 
