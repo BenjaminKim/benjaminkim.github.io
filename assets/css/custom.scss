@@ -1,5 +1,20 @@
 ---
 ---
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+}
+
+.post-content {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+}
+
 .iframe-container {
   position: relative;
   overflow: hidden;
