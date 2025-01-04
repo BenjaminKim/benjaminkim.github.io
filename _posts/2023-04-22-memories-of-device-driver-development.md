@@ -72,7 +72,7 @@ date: 2023-04-22 08:47:00 +0900
 며칠 전 윈도우를 쓰다가 오랜만에 만난 블루스크린. 이제 그린스크린인가?  
 옛 생각이 났습니다.
 
-![](/assets/img/green-screen.png)  
+![Windows blud screen](/assets/img/green-screen.png)  
 *덤프가 쓰이고 있는 중. 이게 뭐라고 반갑냐.*
 
 이제는 다 추억으로 남았습니다.  
@@ -81,6 +81,6 @@ date: 2023-04-22 08:47:00 +0900
 <br>
 <br>
 *함께 읽으면 좋은 글:*
-* [언제쯤이면 편해질 수 있을까요?](/essay/2022/08/29/feel-comfortable.html)
+* [그 버그 언제까지 고칠 수 있니?](/essay/2025/01/04/2025-how-long-do-you-think-fix-it.html)
 * [FIELD_OFFSET 매크로](/programming/2011/03/01/FIELD_OFFSET-매크로.html)
 * [윈도우 디바이스 드라이버 프로그래밍 기초](/programming/2011/05/23/윈도우에서-디바이스-드라이버를-만들-때-알아야-할-기초적인-내용들.html)
