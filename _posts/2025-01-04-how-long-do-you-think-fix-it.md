@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/green-screen.png
-title: 그 버그 언제까지 고칠 수 있니?
+title: 그 버그, 언제까지 고칠 수 있겠니?
 date: 2025-01-04 23:55:00 +0900
 ---
 

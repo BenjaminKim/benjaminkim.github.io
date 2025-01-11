@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/rootone.jpg
-title: 업그레이드가 무서운 날이 올 줄이야
+title: 최신 버전 집착러
 date: 2025-01-06 17:15:00 +0900
 ---
 
