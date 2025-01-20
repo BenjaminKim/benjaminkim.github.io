@@ -3,7 +3,7 @@ layout: post
 categories: essay
 image: /assets/img/h-square.jpg
 title: 팀장님의 칭찬
-date: 2025-01-20 17:38:00 +0900
+date: 2025-01-20 17:54:00 +0900
 ---
 
 오랜만에 예전 팀 사람들과 점심을 함께했습니다.  
