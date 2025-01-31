@@ -46,10 +46,6 @@ plugins:
 google_analytics: G-GWXLJNJY30
 port: 3000
 
-navigation:
-  - title: 방명록
-    url: /guestbook/
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
