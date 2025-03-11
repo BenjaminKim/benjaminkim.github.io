@@ -19,7 +19,7 @@ date: 2025-03-11 08:17:00 +0900
 바로 널 체크 코드를 추가했습니다.
 
 ```c
-if (pData != NULL)
+if (pData == NULL)
   return;
 ```
 
