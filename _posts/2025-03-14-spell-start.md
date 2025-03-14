@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/jeho.jpg
+image: /assets/img/spell_start.png
 title: 초등학교 1학년을 위한 받아쓰기 어플
 date: 2025-03-14 13:22:00 +0900
 ---
@@ -19,7 +19,7 @@ date: 2025-03-14 13:22:00 +0900
 온 가족이 함께 만들었습니다.  
 아내는 디자인을, 나는 코딩을, 딸은 목소리를.
 
-![](/assets/img/spell_start.png)
+![받아쓰기 어플 모습](/assets/img/spell_start.png)
 
 아직 개선할 부분들이 많지만 다른 사람들도 함께 쓸 수 있도록 공개해봅니다.  
 완전히 무료이고, 아이들을 홀려서 클릭을 유발하는 지저분한 광고도 넣지 않을 계획입니다. 키즈앱에 이런 광고들이 특히 많더라고요.
