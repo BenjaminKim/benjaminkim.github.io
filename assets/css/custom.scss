@@ -150,3 +150,15 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+
+ul.social-media-list {
+  li {
+    a {
+      display: inline-flex;
+      align-items: center;
+      span {
+        margin-left: 2px;
+      }
+    }
+  }
+}
