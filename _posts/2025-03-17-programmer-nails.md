@@ -3,7 +3,7 @@ layout: post
 categories: essay
 image: /assets/img/jeho.jpg
 title: 프로그래머의 손톱
-date: 2025-03-14 13:22:00 +0900
+date: 2025-03-17 12:29:00 +0900
 ---
 
 신입 사원 때 회사의 CTO 이자 수석 프로그래머였던 분이 말씀하셨습니다.  
