@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/rootone.jpg
+image: /assets/img/first_tower.jpg
 title: 루틴이 있었던 시절
-date: 2025-04-08 17:03:00 +0900
+date: 2025-04-08 16:03:00 +0900
 ---
 
 네이버는 만 1년을 다녔습니다. 짧은 기간이긴 합니다만 한 번도 지각을 하지 않았습니다.  
