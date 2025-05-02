@@ -59,7 +59,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (6.0.1)
+    public_suffix (6.0.2)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -94,4 +94,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.6.6
+   2.6.8
