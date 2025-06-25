@@ -19,24 +19,3 @@ permalink: /about/
 * <a id="about-jocoding-v1" href="https://www.youtube.com/watch?v=L6TNhTNHRIA">1인 개발자의 삶 - 조코딩</a>
 * <a id="about-jocoding-v2" href="https://www.youtube.com/watch?v=Z2VXtzFYd1w">1인 개발, 당신이 알아야 할 것들 - 조코딩</a>
 * <a id="about-kimdante" href="https://www.youtube.com/watch?v=V68UjWYIw1o">건물주의 기쁨과 슬픔 - 김단테</a>
-
-<h2>방명록</h2>
-블로그에 방문하신 흔적을 남겨주세요.  
-저에게 듣고 싶은 이야기, 궁금한 점, 제안과 응원 모두 환영합니다.
-
-<script src="https://giscus.app/client.js"
-        data-repo="BenjaminKim/benjaminkim.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzOTI1MDc5NDc="
-        data-category="Comments"
-        data-category-id="DIC_kwDOF2UyK84CYbcp"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="ko"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
