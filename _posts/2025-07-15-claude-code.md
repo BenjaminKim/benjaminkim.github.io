@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/p_claude_code.png
-title: 클로드 코드 한 달 사용 후기
+title: 클로드 코드 Max 한 달 사용 후기
 date: 2025-07-15 01:05:00 +0900
 ---
 
@@ -50,4 +50,6 @@ Max 를 결제하면 좋은 점도 있습니다.
 
 <br>
 *함께 읽으면 좋은 글:*
-* [여행 좀 많이 다녀볼 걸](https://brunch.co.kr/@buildingking/121)
+* [인공지능과 함께 코딩을](/essay/2022/07/31/dances-with-copilot.html)
+* [인공지능 세상은 재미없을 줄 알았어](/essay/2022/12/16/ai-world-is-fun.html)
+* [앱 개척시대](/essay/2025/06/05/at-the-app-development-race.html)
