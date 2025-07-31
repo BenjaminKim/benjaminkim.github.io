@@ -30,6 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
     trackButtonClick('footer-coffee-app', 'footer_coffee_app');
     trackButtonClick('footer-awesome-blogs-app', 'footer_awesome_blogs_app');
     trackButtonClick('footer-spellstart-app', 'footer_spellstart_app');
+    trackButtonClick('footer-mykoreamap-app', 'footer_mykoreamap_app');
     trackButtonClick('about-coffee-app', 'about_coffee_app');
     trackButtonClick('about-building-blog', 'about_building_blog');
     trackButtonClick('about-jocoding-v1', 'about_jocoding_v1');
