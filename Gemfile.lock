@@ -75,7 +75,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
-  ruby
+  arm64-darwin-24
   x86_64-darwin-20
   x86_64-darwin-21
   x86_64-linux
@@ -90,8 +90,7 @@ DEPENDENCIES
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.1)
   webrick
 
 BUNDLED WITH
-   2.6.9
+   2.7.1
