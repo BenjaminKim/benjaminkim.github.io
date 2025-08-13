@@ -1,21 +1,25 @@
 ---
 ---
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif, "Noto Emoji";
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif, "Noto Emoji";
+  font-weight: 500;
+}
+
+.post-link {
   font-weight: 400;
 }
 
 .post-content {
-  font-family: 'Noto Sans KR', sans-serif;
-  font-weight: 300;
+  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif, "Noto Emoji";
+  font-weight: 400;
   line-height: 1.7;
 
   strong {
-    font-weight: 500;
+    font-weight: 600;
   }
 }
 
