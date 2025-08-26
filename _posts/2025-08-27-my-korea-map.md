@@ -14,7 +14,7 @@ date: 2025-08-27 00:59:00 +0900
 제 기술 스택을 정돈해 보고 싶은 마음이 있었어요.
 
 루비 온 레일즈, Vue.js, React  
-플러터, React Native, Universal Windows Platform 
+SwiftUI, 플러터, React Native, Universal Windows Platform 
 
 계속 이렇게 공부만 하면서 왔다 갔다 해야 하나?  
 좀 잘 정리해서 내 주력 스택을 확정시킬 순 없을까?
