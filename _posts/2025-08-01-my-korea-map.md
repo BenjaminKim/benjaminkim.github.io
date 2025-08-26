@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/p_claude_code.png
+image: /assets/img/mykoreamap.jpg
 title: 내가 가본 우리나라 - 지도 색칠 놀이
 date: 2025-08-01 16:06:00 +0900
 ---
