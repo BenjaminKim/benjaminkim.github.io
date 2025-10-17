@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167701374.jpg
-title: 회사에서 독립하기 전에 읽어보면 좋은 책
+title: 회사에서 독립하기 전에 읽어보면 좋은 책 (글쓰기로 독립하는 법)
 date: 2025-10-17 11:27:00 +0900
 ---
 
