@@ -34,7 +34,7 @@ UI/UX가 어찌나 조잡하게 느껴지든지.
 ![윈도우 스토어에 올라간 어썸블로그 앱](/assets/img/awesome-blogs-windows.png)  
 *별 5개는 제가 줬습니다. 하하*
 
-리스트뷰와 탭뷰 하나 있는 아주 [단순한 앱](https://apps.microsoft.com/store/detail/%EC%96%B4%EC%8D%B8%EB%B8%94%EB%A1%9C%EA%B7%B8/9NSRPVLL4CG9)이지만...  
+리스트뷰와 탭뷰 하나 있는 아주 [단순한 앱](https://apps.microsoft.com/detail/9nsrpvll4cg9?hl=en-US&gl=KR)이지만...  
 일단 스토어에 올려봤다는 걸로 만족합니다.
 
 윈도우 앱은 다시는 만들일이 없을 거라 생각했습니다.  

@@ -58,7 +58,7 @@ aws 전체 장애가 나서 쿠팡 같은 [주요 서비스들이 다 안 되던
 긴 이야기가 될 거라... [다음 글](/essay/2024/05/03/coffee-server.html)에서 적어보겠습니다.
 
 P.S. 사진에 있는 2015년 데스크톱은 여전히 쓰이고 있습니다.  
-[어썸블로그](https://github.com/BenjaminKim/awesome-blogs) 서버가 저 컴퓨터에서 돌아가고 있습니다.
+[어썸블로그](https://awesomeblogs.jeho.page/home) 서버가 저 컴퓨터에서 돌아가고 있습니다.
 <br>
 <br>
 *함께 읽으면 좋은 글:*

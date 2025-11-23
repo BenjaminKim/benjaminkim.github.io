@@ -25,10 +25,11 @@ Flutter 2.10 부터는 [윈도우도 지원한다고 해서](https://medium.com/
 신기하다. 이제 웬만한 프로그램들은 Flutter로 만들어도 되겠는걸?
 
 국내 개발자들의 블로그 글들을 모아서 보여주는 어플입니다.  
-저 혼자 쓰는 뉴스앱이지만 혹시 필요하신 분이 있다면 [여기](https://play.google.com/store/apps/details?id=blogs.awesome.android.awesome_blogs_flutter&hl=ko)서 받을 수 있습니다.  
-SwiftUI 버전은 [여기](https://apps.apple.com/kr/app/id1557176134)에서.  
-서버 코드는 [여기](https://github.com/BenjaminKim/awesome-blogs)에서.
-<br>
+저 혼자 쓰는 뉴스앱이지만 혹시 필요하신 분이 있다면 아래 링크들에서 받아볼 수 있습니다.
+* [안드로이드용 어썸블로그](https://play.google.com/store/apps/details?id=blogs.awesome.android.awesome_blogs_flutter&hl=ko)  
+* [아이폰용 어썸블로그](https://apps.apple.com/kr/app/id1557176134)
+* [윈도우즈용 어썸블로그](https://apps.microsoft.com/detail/9nsrpvll4cg9?hl=en-US&gl=KR)
+
 <br>
 *함께 읽으면 좋은 글:*
 * [어썸블로그, 개발자를 위한 뉴스 어플](/programming/2017/02/21/어썸블로그-개발자를-위한-뉴스-어플.html)
