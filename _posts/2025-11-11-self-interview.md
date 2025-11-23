@@ -106,5 +106,5 @@ VC와 1인 개발자는 fit 이 잘 맞지가 않습니다.
 <br>
 <br>
 *함께 읽으면 좋은 글:*
-* [나는 얼마짜리 사람인가](https://brunch.co.kr/@buildingking/622)
-* [진짜 1인 개발자 전성시대](/essay/2025/08/11/solo-developer2.html)
+* [나는 얼마짜리 사람인가](https://brunch.co.kr/@buildingking/62)
+* [진짜 1인 개발자 전성시대](/essay/2025/08/11/solo-developer.html)
