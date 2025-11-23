@@ -6,7 +6,7 @@ title: 꾸준한 블로깅
 date: 2024-07-08 01:28:00 +0900
 ---
 
-[개발자 블로그를 큐레이션 한지](https://github.com/BenjaminKim/awesome-blogs/blob/master/config/feeds.yml) 8년째.
+[개발자 블로그를 큐레이션 한지](https://awesomeblogs.jeho.page/home) 8년째.
 
 5년 이상 꾸준하게 글을 쓰는 사람이 거의 없습니다.  
 반짝거리는 신인이 등장했다가도 몇 년 글을 쓰다가 사라져버립니다.  
