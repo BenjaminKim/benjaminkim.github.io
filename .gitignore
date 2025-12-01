@@ -8,3 +8,5 @@
 .jekyll-metadata
 _site
 .idea/
+.claude
+.playwright-mcp
