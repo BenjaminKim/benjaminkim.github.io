@@ -33,7 +33,7 @@ permalink: /about/
           직장인을 위한 진지한 소개팅 앱.
           사진을 올리지 않는 블라인드 소개팅 서비스입니다.
         </p>
-        <a href="https://withcoffee.app" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-black font-medium hover:underline">
+        <a href="https://withcoffee.app" target="_blank" class="inline-flex items-center font-medium hover:underline">
           자세히 보기 →
         </a>
       </div>
@@ -48,7 +48,7 @@ permalink: /about/
           내가 가본 대한민국 지역을 색칠하고
           친구들과 공유할 수 있는 여행 지도 서비스입니다.
         </p>
-        <a href="https://mykoreamap.com" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-black font-medium hover:underline">
+        <a href="https://mykoreamap.com" target="_blank" class="inline-flex items-center font-medium hover:underline">
           자세히 보기 →
         </a>
       </div>
@@ -63,7 +63,7 @@ permalink: /about/
           6~8세 어린이를 위한 영어 받아쓰기 학습 앱.
           딸과 아내와 함께 만든 이미지와 소리 기반의 받아쓰기 연습 어플입니다.
         </p>
-        <a href="https://spellstart.com/ko" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-black font-medium hover:underline">
+        <a href="https://spellstart.com/ko" target="_blank" class="inline-flex items-center font-medium hover:underline">
           자세히 보기 →
         </a>
       </div>
@@ -78,7 +78,7 @@ permalink: /about/
           한국 개발 블로그 큐레이션 서비스.
           개발자들의 최신 글을 한곳에서 편하게 볼 수 있습니다.
         </p>
-        <a href="https://awesome-blogs.petabytes.org/home" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-black font-medium hover:underline">
+        <a href="https://awesome-blogs.petabytes.org/home" target="_blank" class="inline-flex items-center font-medium hover:underline">
           자세히 보기 →
         </a>
       </div>
@@ -93,8 +93,8 @@ permalink: /about/
           인앱 결제 부가세 계산을 도와주는 서비스입니다.
           개발자들이 세금 계산에 쓰는 시간을 줄여드립니다.
         </p>
-        <a href="https://tax.jeho.page" class="inline-flex items-center font-medium hover:underline">
-          바로가기 →
+        <a href="https://tax.jeho.page" target="_blank" class="inline-flex items-center font-medium hover:underline">
+          자세히 보기 →
         </a>
       </div>
     </div>
