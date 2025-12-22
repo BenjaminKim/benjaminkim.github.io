@@ -37,3 +37,4 @@ date: 2025-06-13 11:43:00 +0900
 <br>
 *함께 읽으면 좋은 글:*
 * [21년만에 다시 찾은 가족](https://brunch.co.kr/@buildingking/196)
+* [할머니와 함께 할머니의 고향 여행하기 - 해남](https://brunch.co.kr/@buildingking/199)

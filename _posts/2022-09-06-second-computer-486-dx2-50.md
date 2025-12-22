@@ -46,6 +46,7 @@ CPU는 486DX2-50
 <br>
 <br>
 *함께 읽으면 좋은 글:*
+* [21년만에 다시 찾은 가족](https://brunch.co.kr/@buildingking/196)
 * [내 첫 컴퓨터](/essay/2021/08/23/첫-컴퓨터의-추억.html)
 * [내 세 번째 컴퓨터](/essay/2023/05/28/my-third-computer.html)
 * [내 네 번째 컴퓨터](/essay/2023/08/06/my-fourth-computer.html)
