@@ -51,4 +51,5 @@ date: 2024-03-14 11:12:00 +0900
 <br>
 *함께 읽으면 좋은 글:*
 * [시동이 잘 안 걸려요](/essay/2022/04/26/late-boot.html)
+* [나홀로 집에서 1인 개발?](/essay/2025/12/13/home-alone.html)
 * [1인 개발자의 슬픔](/essay/2022/04/05/one-developer-sorrow.html)
