@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/talk-server-fuck-you.jpg
+image: /assets/img/talk-server-fuck-you.png
 title: 코드 리뷰만큼은 내가 한다
 date: 2025-12-24 14:27:00 +0900
 ---
@@ -14,7 +14,7 @@ date: 2025-12-24 14:27:00 +0900
 온갖 궂은 일을 도맡아 하던 이 친구는 어느 날 우리를 배신하고 다른 팀으로 떠나버렸습니다.  
 아직도 그 날의 충격이 기억나네요.(웃음)
 
-![카톡 서버팀](/assets/img/talk-server-fuck-you.jpg)  
+![카톡 서버팀](/assets/img/talk-server-fuck-you.png)  
 *에이스 동료를 다른 팀으로 떠나보내던 날. (이제 다들 거물이 되어 사진은 모자이크 처리 했습니다)*
 
 잘 먹고 잘 살아라! 하면서 사진 속 뻑큐로 이 친구를 떠나보냈지만...  
