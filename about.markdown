@@ -78,7 +78,7 @@ permalink: /about/
           한국 개발 블로그 큐레이션 서비스.
           개발자들의 최신 글을 한곳에서 편하게 볼 수 있습니다.
         </p>
-        <a href="https://awesome-blogs.petabytes.org/home" target="_blank" class="inline-flex items-center font-medium hover:underline">
+        <a href="https://awesomeblogs.jeho.page/home" target="_blank" class="inline-flex items-center font-medium hover:underline">
           자세히 보기 →
         </a>
       </div>
