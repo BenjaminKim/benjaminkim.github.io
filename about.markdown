@@ -111,6 +111,21 @@ permalink: /about/
           자세히 보기 →
         </a>
       </div>
+
+      <!-- 무한의 덧셈 -->
+      <div class="group bg-white rounded-2xl p-8 border-2 border-infinite-addition shadow-lg hover:shadow-2xl transition-all hover:scale-105">
+        <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
+          <img src="/assets/img/apps/infinite_addition.png" alt="무한의 덧셈" class="w-full h-full object-cover">
+        </div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3">무한의 덧셈</h3>
+        <p class="text-gray-600 mb-4">
+          끝없는 덧셈 게임. 많이 더할수록 로켓이 우주 멀리 날아갑니다.
+          7~9세 아이들을 위한 재미있는 세로셈 연습.
+        </p>
+        <a href="https://add.jeho.page/ko" target="_blank" class="inline-flex items-center text-infinite-addition font-bold underline">
+          자세히 보기 →
+        </a>
+      </div>
     </div>
   </div>
 </section>
