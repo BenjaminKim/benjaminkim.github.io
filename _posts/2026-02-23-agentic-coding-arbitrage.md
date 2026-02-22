@@ -15,7 +15,7 @@ date: 2026-02-23 08:39:00 +0900
 HTML만 알면 홈페이지 하나 만들어주고 돈 벌던 시기.  
 앱스토어가 처음 생겼던 2009년~2010년.
 
-![](/assets/img/claude_code_hackerthon.png)
+![클로드 코드 해커톤 수상작들](/assets/img/claude_code_hackerthon.png)
 
 [클로드 코드 해커톤 수상작](https://news.hada.io/topic?id=26871)을 보면서 대단하다는 생각이 들었습니다.
 하지만 이런 수상자들이 주위에 넘쳐나고 있냐 생각해 보면 그렇지는 않습니다.
