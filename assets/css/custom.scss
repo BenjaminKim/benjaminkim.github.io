@@ -1,7 +1,7 @@
 ---
 ---
 body {
-  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-family: "Noto Serif KR", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,12 +9,22 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
+.site-nav,
+.site-footer {
+  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace,
+               "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+}
+
 .post-link {
   font-weight: 400;
 }
 
 .post-content {
-  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-family: "Noto Serif KR", serif;
   font-weight: 400;
   line-height: 1.7;
 
