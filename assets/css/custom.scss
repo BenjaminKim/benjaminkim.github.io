@@ -1,37 +1,18 @@
 ---
 ---
-@font-face {
-  font-family: "ChosunIlboMyungjo";
-  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff") format("woff");
-  font-weight: normal;
-  font-display: swap;
-}
 
-@font-face {
-  font-family: "JoseonBoldMyongjo";
-  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunKm.woff") format("woff");
-  font-weight: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "JoseonBoldGothic";
-  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunKg.woff") format("woff");
-  font-weight: normal;
-  font-display: swap;
-}
+$gothic: "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
 
 body {
-  font-family: "ChosunIlboMyungjo", "Noto Serif KR", serif;
+  font-family: $gothic;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
   font-weight: 500;
 }
 
-.site-title {
-  font-family: "JoseonBoldGothic", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+.site-title,
+.post-title {
   font-weight: normal;
 }
 
@@ -39,30 +20,18 @@ h1, h2, h3, h4, h5, h6 {
 .site-footer,
 .share-button,
 .rss-button {
-  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-family: $gothic;
 }
 
 code {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace,
-               "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
-}
-
-.post-title {
-  font-family: "JoseonBoldGothic", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
-  font-weight: normal;
-}
-
-.post-list {
-  font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-family: "Nanum Gothic Coding", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
 .post-content {
-  font-family: "ChosunIlboMyungjo", "Noto Serif KR", serif;
   font-weight: 400;
   line-height: 1.7;
 
   strong, b {
-    font-family: "JoseonBoldMyongjo", "ChosunIlboMyungjo", "Noto Serif KR", serif;
     font-weight: normal;
   }
 }
