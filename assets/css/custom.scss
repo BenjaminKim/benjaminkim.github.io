@@ -183,3 +183,37 @@ ul.social-media-list {
     }
   }
 }
+
+.section-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3rem 0;
+  color: rgba(0, 0, 0, 0.35);
+
+  &::before,
+  &::after {
+    content: "";
+    flex: 0 1 80px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.18);
+  }
+
+  .ornament {
+    margin: 0 1.25rem;
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+}
+
+.dark-mode {
+  .section-divider {
+    color: rgba(255, 255, 255, 0.4);
+
+    &::before,
+    &::after {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+  }
+}
+
