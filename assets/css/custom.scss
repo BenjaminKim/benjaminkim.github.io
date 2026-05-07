@@ -188,20 +188,20 @@ ul.social-media-list {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 3rem 0;
+  margin: 2.5rem 0;
   color: rgba(0, 0, 0, 0.35);
 
   &::before,
   &::after {
     content: "";
-    flex: 0 1 80px;
+    flex: 0 1 60px;
     height: 1px;
     background-color: rgba(0, 0, 0, 0.18);
   }
 
   .ornament {
-    margin: 0 1.25rem;
-    font-size: 1.1rem;
+    margin: 0 1.0rem;
+    font-size: 0.9rem;
     line-height: 1;
   }
 }
