@@ -53,12 +53,12 @@ permalink: /about/
         </a>
       </div>
 
-      <!-- 색칠 지도 -->
+      <!-- 마이코리아맵 -->
       <div class="group bg-white rounded-2xl p-8 border-2 border-mykoreamap shadow-lg hover:shadow-2xl transition-all hover:scale-105">
         <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
-          <img src="/assets/img/apps/mykoreamap.webp" alt="색칠 지도 - 내가 가본 우리나라" class="w-full h-full object-cover">
+          <img src="/assets/img/apps/mykoreamap.webp" alt="마이코리아맵 - 내가 가본 우리나라" class="w-full h-full object-cover">
         </div>
-        <h3 class="text-2xl font-bold text-gray-900 mb-3">색칠 지도</h3>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3">마이코리아맵</h3>
         <p class="text-gray-600 mb-4">
           내가 가본 대한민국 지역을 색칠하고
           친구들과 공유할 수 있는 여행 지도 서비스입니다.
