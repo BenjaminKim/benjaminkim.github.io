@@ -28,10 +28,12 @@ document.addEventListener('DOMContentLoaded', function () {
     trackButtonClick('awesome-rss-button', 'awesome_button');
     trackButtonClick('jeho-email', 'jeho_email_button');
     trackButtonClick('footer-coffee-app', 'footer_coffee_app');
+    trackButtonClick('footer-activeholders-app', 'footer_activeholders_app');
     trackButtonClick('footer-awesome-blogs-app', 'footer_awesome_blogs_app');
     trackButtonClick('footer-spellstart-app', 'footer_spellstart_app');
     trackButtonClick('footer-mykoreamap-app', 'footer_mykoreamap_app');
     trackButtonClick('about-coffee-app', 'about_coffee_app');
+    trackButtonClick('about-activeholders-app', 'about_activeholders_app');
     trackButtonClick('about-building-blog', 'about_building_blog');
     trackButtonClick('about-jocoding-v1', 'about_jocoding_v1');
     trackButtonClick('about-jocoding-v2', 'about_jocoding_v2');

@@ -30,10 +30,25 @@ permalink: /about/
         </div>
         <h3 class="text-2xl font-bold text-gray-900 mb-3">커피한잔</h3>
         <p class="text-gray-600 mb-4">
-          직장인을 위한 진지한 소개팅 앱.
+          직장인을 위한 진지한 소개팅 앱.<br>
           사진을 올리지 않는 블라인드 소개팅 서비스입니다.
         </p>
-        <a href="https://withcoffee.app" target="_blank" class="inline-flex items-center text-coffee font-bold underline">
+        <a href="https://withcoffee.app?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-coffee font-bold underline">
+          자세히 보기 →
+        </a>
+      </div>
+
+      <!-- 액티브홀더스 -->
+      <div class="group bg-white rounded-2xl p-8 border-2 border-activeholders shadow-lg hover:shadow-2xl transition-all hover:scale-105">
+        <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
+          <img src="/assets/img/apps/activeholders.svg" alt="액티브홀더스" class="w-full h-full object-cover">
+        </div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3">액티브홀더스</h3>
+        <p class="text-gray-600 mb-4">
+          행동주의 주식 투자 정보 서비스<br>
+          국장 투자자들의 보물창고가 되려 합니다
+        </p>
+        <a id="about-activeholders-app" href="https://activeholders.com?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-activeholders font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -48,7 +63,7 @@ permalink: /about/
           내가 가본 대한민국 지역을 색칠하고
           친구들과 공유할 수 있는 여행 지도 서비스입니다.
         </p>
-        <a href="https://mykoreamap.com" target="_blank" class="inline-flex items-center text-mykoreamap font-bold underline">
+        <a href="https://mykoreamap.com?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-mykoreamap font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -63,7 +78,7 @@ permalink: /about/
           6~8세 어린이를 위한 영어 받아쓰기 학습 앱.
           딸과 아내와 함께 만든 이미지와 소리 기반의 받아쓰기 연습 어플입니다.
         </p>
-        <a href="https://spellstart.com/ko" target="_blank" class="inline-flex items-center text-spellstart font-bold underline">
+        <a href="https://spellstart.com/ko?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-spellstart font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -77,7 +92,7 @@ permalink: /about/
         <p class="text-gray-600 mb-4">
           이미지에 모자이크, 형광펜, 카운터, 화살표 등을 간편하게 그릴 수 있는 마크업 앱입니다.
         </p>
-        <a href="https://apps.apple.com/kr/app/moza-editor/id6757701471" target="_blank" class="inline-flex items-center text-moza font-bold underline">
+        <a href="https://apps.apple.com/kr/app/moza-editor/id6757701471?ct=jehopage_blog" target="_blank" class="inline-flex items-center text-moza font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -92,7 +107,7 @@ permalink: /about/
           한국 개발 블로그 큐레이션 서비스.
           개발자들의 최신 글을 한곳에서 편하게 볼 수 있습니다.
         </p>
-        <a href="https://awesomeblogs.jeho.page/home" target="_blank" class="inline-flex items-center text-awesomeblogs font-bold underline">
+        <a href="https://awesomeblogs.jeho.page/home?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-awesomeblogs font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -107,7 +122,7 @@ permalink: /about/
           인앱 결제 부가세 계산을 도와주는 서비스입니다.
           개발자들이 세금 계산에 쓰는 시간을 줄여드립니다.
         </p>
-        <a href="https://tax.jeho.page" target="_blank" class="inline-flex items-center text-apptax font-bold underline">
+        <a href="https://tax.jeho.page?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-apptax font-bold underline">
           자세히 보기 →
         </a>
       </div>
@@ -122,7 +137,7 @@ permalink: /about/
           끝없는 덧셈 게임. 많이 더할수록 로켓이 우주 멀리 날아갑니다.
           7~9세 아이들을 위한 재미있는 세로셈 연습.
         </p>
-        <a href="https://add.jeho.page/ko" target="_blank" class="inline-flex items-center text-infinite-addition font-bold underline">
+        <a href="https://add.jeho.page/ko?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" class="inline-flex items-center text-infinite-addition font-bold underline">
           자세히 보기 →
         </a>
       </div>
