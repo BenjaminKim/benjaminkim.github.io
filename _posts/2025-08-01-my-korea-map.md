@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/mykoreamap.jpg
-title: 내가 가본 우리나라 - 지도 색칠 놀이
+title: 마이코리아맵 - 다녀온 지역 지도 색칠 놀이
 date: 2025-08-01 16:06:00 +0900
 ---
 
@@ -19,7 +19,7 @@ date: 2025-08-01 16:06:00 +0900
 
 평생 서울에서만 살던 제가, 이곳 저곳 다녀보면서 여행한 장소들을 기록하고 싶다는 생각을 했는데, 이번에 웹사이트로 한 번 만들어봤습니다.
 
-이름은 **[내가 가본 우리나라](https://mykoreamap.com)**
+이름은 **[마이코리아맵](https://mykoreamap.com)**
 
 다녀온 곳을 색칠하는 단순한 사이트지만... 색칠하는 재미가 있습니다.
 커뮤니티에 공개했더니 순식간에 1,500 명이 넘는 분들이 가입해 주셔서 놀랐습니다.
@@ -30,7 +30,7 @@ date: 2025-08-01 16:06:00 +0900
 [여기](https://mykoreamap.com)에서 해볼 수 있습니다. 제가 그동안 다녀온 곳들도 공개해 봅니다.
 
 ![김재호님의 내가 가본 우리나라](/assets/img/mykoreamap.jpg)  
-*[내가 가본 우리나라](https://mykoreamap.com/maps/s/6c1ps9qtc)*
+*[마이코리아맵](https://mykoreamap.com/maps/s/6c1ps9qtc)*
 
 <br>
 *함께 읽으면 좋은 글:*

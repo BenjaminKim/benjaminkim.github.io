@@ -2,11 +2,11 @@
 layout: post
 categories: essay
 image: /assets/img/mykoreamap.jpg
-title: 내가 가본 우리나라 앱 개발 뒷 이야기
+title: 마이코리아맵 앱 개발 뒷 이야기
 date: 2025-08-27 00:59:00 +0900
 ---
 
-며칠 전 공개했던 [내가 가본 우리나라](/essay/2025/08/01/my-korea-map.html) 웹사이트를 앱으로도 만들어봤습니다.  
+며칠 전 공개했던 [마이코리아맵](/essay/2025/08/01/my-korea-map.html) 웹사이트를 앱으로도 만들어봤습니다.  
 [안드로이드](https://play.google.com/store/apps/details?id=com.my.koreamap&hl=ko), [아이폰](https://apps.apple.com/kr/app/id6749817480) 그리고 맥 앱까지. (맥은 아직 심사 중이에요)
 
 간단한 아이디어였고 제가 쓰고 싶은 마음에 만들기도 했지만,  
