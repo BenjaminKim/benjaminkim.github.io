@@ -10,3 +10,4 @@ _site
 .idea/
 .claude
 .playwright-mcp
+tmp/

@@ -30,3 +30,9 @@ gem 'base64'
 gem 'bigdecimal'
 gem 'webrick'
 gem 'logger'
+
+group :test do
+  gem 'rake'
+  gem 'minitest'
+  gem 'html-proofer', '~> 5.0'
+end
