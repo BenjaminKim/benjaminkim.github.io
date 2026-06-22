@@ -1,0 +1,63 @@
+- id: withcoffee
+  type: MobileApplication
+  name: 커피한잔
+  url: https://withcoffee.app
+  description: 직장인을 위한 진지한 소개팅 앱. 사진을 올리지 않는 블라인드 소개팅 서비스입니다.
+  application_category: LifestyleApplication
+  operating_system: iOS, Android
+  image: /assets/img/apps/coffee.webp
+- id: activeholders
+  type: WebApplication
+  name: 액티브홀더스
+  url: https://activeholders.com
+  description: 행동주의 주식 투자 정보 서비스. 국장 투자자들의 보물창고가 되려 합니다.
+  application_category: FinanceApplication
+  operating_system: Web
+  image: /assets/img/apps/activeholders.svg
+- id: mykoreamap
+  type: WebApplication
+  name: 마이코리아맵
+  url: https://mykoreamap.com
+  description: 내가 가본 대한민국 지역을 색칠하고 친구들과 공유할 수 있는 여행 지도 서비스입니다.
+  application_category: TravelApplication
+  operating_system: Web
+  image: /assets/img/apps/mykoreamap.webp
+- id: spellstart
+  type: MobileApplication
+  name: 초등 받아쓰기
+  url: https://spellstart.com/ko
+  description: 6~8세 어린이를 위한 영어 받아쓰기 학습 앱입니다.
+  application_category: EducationalApplication
+  operating_system: iOS, Android
+  image: /assets/img/apps/spellstart.webp
+- id: moza
+  type: MobileApplication
+  name: 모자 에디터
+  url: https://apps.apple.com/kr/app/moza-editor/id6757701471
+  description: 이미지에 모자이크, 형광펜, 카운터, 화살표 등을 간편하게 그릴 수 있는 마크업 앱입니다.
+  application_category: GraphicsApplication
+  operating_system: iOS
+  image: /assets/img/apps/moza.webp
+- id: awesomeblogs
+  type: WebApplication
+  name: 어썸블로그
+  url: https://awesomeblogs.jeho.page/home
+  description: 한국 개발 블로그 큐레이션 서비스. 개발자들의 최신 글을 한곳에서 편하게 볼 수 있습니다.
+  application_category: NewsApplication
+  operating_system: Web
+  image: /assets/img/apps/awesomeblogs.webp
+- id: inapp-tax
+  type: WebApplication
+  name: 인앱택스
+  url: https://tax.jeho.page
+  description: 인앱 결제 부가세 계산을 도와주는 서비스입니다.
+  application_category: FinanceApplication
+  operating_system: Web
+- id: infinite-addition
+  type: WebApplication
+  name: 무한의 덧셈
+  url: https://add.jeho.page/ko
+  description: 7~9세 아이들을 위한 끝없는 덧셈 게임입니다.
+  application_category: GameApplication
+  operating_system: Web
+  image: /assets/img/apps/infinite_addition.png

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: 블로그 주인 소개
+description: 커피한잔과 여러 서비스를 만들고 운영하는 1인 개발자 김재호의 소개입니다.
 permalink: /about/
+seo:
+  type: ProfilePage
 ---
 
 직장인 소개팅 <a id="about-coffee-app" href="https://withcoffee.app?utm_source=jehopage&utm_medium=blog&utm_campaign=v3">커피한잔</a>을 만들고 있는 개발자입니다.
