@@ -20,7 +20,10 @@
 
 title: K리그 프로그래머
 email: jeho@kakao.com
-author: 김재호
+author:
+  name: 김재호
+  url: https://jeho.page/about/
+  type: Person
 defaults:
   - scope:
       path: ""
@@ -34,6 +37,12 @@ url: "https://jeho.page"
 linkedin_username: jehokim
 #twitter_username: BenjaminKim_
 threads_username: jehokim
+social:
+  links:
+    - https://github.com/benjaminkim
+    - https://www.linkedin.com/in/jehokim
+    - https://www.threads.net/@jehokim
+    - https://brunch.co.kr/@buildingking
 rss: 'RSS'
 
 lang: "ko"
@@ -65,5 +74,3 @@ port: 3000
   # - vendor/cache/
   # - vendor/gems/
   # - vendor/ruby/
-
-

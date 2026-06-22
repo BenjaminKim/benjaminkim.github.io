@@ -9,8 +9,9 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
+            {%- assign author_name = site.author.name | default: site.author -%}
+            {%- if author_name -%}
+              {{ author_name | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
