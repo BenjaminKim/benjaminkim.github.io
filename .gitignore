@@ -11,3 +11,4 @@ _site
 .claude
 .playwright-mcp
 tmp/
+.codex
