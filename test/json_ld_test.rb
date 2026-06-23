@@ -6,7 +6,10 @@ class JsonLdTest < Minitest::Test
 
   def test_all_json_ld_blocks_are_valid_json
     each_html_file do |path|
-      json_ld_blocks(path).each_with_index do |block, index|
+      blocks = json_ld_blocks(path)
+      assert_equal 1, blocks.size, "#{path} should contain exactly one JSON-LD block"
+
+      blocks.each_with_index do |block, index|
         JSON.parse(block)
       rescue JSON::ParserError => e
         flunk "#{path} JSON-LD block #{index + 1} is invalid: #{e.message}"
