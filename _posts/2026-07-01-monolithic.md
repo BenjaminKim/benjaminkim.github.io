@@ -35,8 +35,9 @@ rails api 모드라는 게 나왔을 때는 기뻤습니다.
 
 그냥 옛날에도 이렇게 할걸.  
 고집 부리다가 고생만 뒤지게 했군.
-<br>
-<br>
+
+{% include end-divider.html %}
+
 *함께 읽으면 좋은 글:*
 * [뭐? 루비가 느리다고?](/essay/2023/01/04/dont-say-ruby-is-slow.html)
 * [Ruby는 프로그래머를 위한 선물](/essay/2022/02/18/ruby.html)
