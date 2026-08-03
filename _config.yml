@@ -24,6 +24,16 @@ author:
   name: 김재호
   url: https://jeho.page/about/
   type: Person
+  image:
+    path: /assets/img/rootone.jpg
+    width: 2048
+    height: 1365
+    alt: 개발자 김재호의 작업실 사진
+site_image:
+  path: /assets/img/home-og.jpg
+  width: 1200
+  height: 630
+  alt: K리그 프로그래머의 스몰토크 텍스트 썸네일
 defaults:
   - scope:
       path: ""

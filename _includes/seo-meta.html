@@ -3,6 +3,10 @@
 {%- assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace -%}
 {%- assign page_image_path = page.image.path | default: page.image -%}
 {%- assign page_image = page_image_path | absolute_url -%}
+{%- assign page_image_width = page.image.width | default: page.image_width -%}
+{%- assign page_image_height = page.image.height | default: page.image_height -%}
+{%- assign page_image_type = page.image.type | default: page.image_type -%}
+{%- assign page_image_alt = page.image.alt | default: page.image_alt -%}
 {%- assign canonical_url = page.url | absolute_url -%}
 {%- assign page_locale = page.locale | default: site.locale | default: site.lang | default: "ko" -%}
 {%- assign modified_date = page.seo.date_modified | default: page.modified_date | default: page.lastmod | default: page.date -%}
@@ -20,15 +24,28 @@
 <meta name="author" content="{{ author_name | escape }}" />
 {%- endif %}
 <meta property="og:locale" content="{{ page_locale | escape }}" />
-{%- if page_description %}
+{%- if page_description and page_description != empty %}
 <meta name="description" content="{{ page_description | escape }}" />
 <meta property="og:description" content="{{ page_description | escape }}" />
+<meta name="twitter:description" content="{{ page_description | escape }}" />
 {%- endif %}
 <link rel="canonical" href="{{ canonical_url }}" />
 <meta property="og:url" content="{{ canonical_url }}" />
 <meta property="og:site_name" content="{{ site.title | escape }}" />
 {%- if page_image_path %}
 <meta property="og:image" content="{{ page_image }}" />
+{%- if page_image_width %}
+<meta property="og:image:width" content="{{ page_image_width | escape }}" />
+{%- endif %}
+{%- if page_image_height %}
+<meta property="og:image:height" content="{{ page_image_height | escape }}" />
+{%- endif %}
+{%- if page_image_type %}
+<meta property="og:image:type" content="{{ page_image_type | escape }}" />
+{%- endif %}
+{%- if page_image_alt %}
+<meta property="og:image:alt" content="{{ page_image_alt | escape }}" />
+{%- endif %}
 {%- endif %}
 {%- if page.date %}
 <meta property="og:type" content="article" />
@@ -40,6 +57,9 @@
 {%- if page_image_path %}
 <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
 <meta name="twitter:image" content="{{ page_image }}" />
+{%- if page_image_alt %}
+<meta name="twitter:image:alt" content="{{ page_image_alt | escape }}" />
+{%- endif %}
 {%- else %}
 <meta name="twitter:card" content="summary" />
 {%- endif %}

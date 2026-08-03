@@ -2,7 +2,16 @@
 {%- assign page_url = page.url | absolute_url -%}
 {%- assign author_name = site.author.name | default: site.author -%}
 {%- assign author_url = site.author.url | default: "/about/" | absolute_url -%}
-{%- assign site_image = "/assets/img/rootone.jpg" | absolute_url -%}
+{%- assign site_image_path = site.site_image.path | default: site.site_image | default: "/assets/img/rootone.jpg" -%}
+{%- assign site_image = site_image_path | absolute_url -%}
+{%- assign site_image_width = site.site_image.width | default: 2048 -%}
+{%- assign site_image_height = site.site_image.height | default: 1365 -%}
+{%- assign site_image_alt = site.site_image.alt | default: site.title -%}
+{%- assign author_image_path = site.author.image.path | default: site.author.image | default: "/assets/img/rootone.jpg" -%}
+{%- assign author_image = author_image_path | absolute_url -%}
+{%- assign author_image_width = site.author.image.width | default: 2048 -%}
+{%- assign author_image_height = site.author.image.height | default: 1365 -%}
+{%- assign author_image_alt = site.author.image.alt | default: author_name -%}
 {%- assign page_image_path = page.image.path | default: page.image | default: "/assets/img/rootone.jpg" -%}
 {%- assign page_image = page_image_path | absolute_url -%}
 {%- assign page_title = page.title | default: site.title -%}
@@ -42,9 +51,9 @@
         "@type": "ImageObject",
         "@id": {{ home_url | append: "#website-image" | jsonify }},
         "url": {{ site_image | jsonify }},
-        "caption": {{ site.title | jsonify }},
-        "width": 2048,
-        "height": 1365
+        "caption": {{ site_image_alt | jsonify }},
+        "width": {{ site_image_width | jsonify }},
+        "height": {{ site_image_height | jsonify }}
       }
     },
     {
@@ -59,10 +68,10 @@
       "image": {
         "@type": "ImageObject",
         "@id": {{ home_url | append: "#person-image" | jsonify }},
-        "url": {{ site_image | jsonify }},
-        "caption": {{ author_name | jsonify }},
-        "width": 2048,
-        "height": 1365
+        "url": {{ author_image | jsonify }},
+        "caption": {{ author_image_alt | jsonify }},
+        "width": {{ author_image_width | jsonify }},
+        "height": {{ author_image_height | jsonify }}
       },
       "sameAs": [
         {%- for link in site.social.links -%}
@@ -79,7 +88,10 @@
       },
       "name": {{ page_title | jsonify }},
       "description": {{ page_description | jsonify }},
-      "inLanguage": {{ site.lang | jsonify }}{% unless is_home %},
+      "inLanguage": {{ site.lang | jsonify }}{% if is_home %},
+      "primaryImageOfPage": {
+        "@id": {{ home_url | append: "#website-image" | jsonify }}
+      }{% endif %}{% unless is_home %},
       "breadcrumb": {
         "@id": {{ page_url | append: "#breadcrumb" | jsonify }}
       }{% endunless %}{% if is_about %},
@@ -104,6 +116,9 @@
       "inLanguage": {{ site.lang | jsonify }},
       "publisher": {
         "@id": {{ home_url | append: "#person" | jsonify }}
+      },
+      "image": {
+        "@id": {{ home_url | append: "#website-image" | jsonify }}
       }
     }{% endif %}{% if is_post %},
     {

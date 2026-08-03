@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">K리그 프로그래머의 스몰토크</title>
+  <desc id="description">흰 배경에 블로그 이름만 세 줄로 배치한 텍스트 썸네일</desc>
+  <rect width="1200" height="630" fill="#fdfdfd"/>
+  <g
+    font-family="Noto Sans KR, Apple SD Gothic Neo, sans-serif"
+    font-weight="600"
+    text-anchor="middle"
+  >
+    <text x="600" y="190" fill="#1d1f23" font-size="76">K리그</text>
+    <text x="600" y="320" fill="#1d1f23" font-size="96">프로그래머의</text>
+    <text x="600" y="450" fill="#24734f" font-size="96">스몰토크</text>
+  </g>
+</svg>

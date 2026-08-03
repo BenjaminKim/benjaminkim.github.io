@@ -24,6 +24,18 @@ class JsonLdTest < Minitest::Test
     assert_graph_type graph, "Person"
     assert_graph_type graph, "CollectionPage"
     assert_graph_type graph, "Blog"
+
+    website = graph.find { |node| node["@type"] == "WebSite" }
+    person = graph.find { |node| node["@type"] == "Person" }
+    collection_page = graph.find { |node| node["@type"] == "CollectionPage" }
+    blog = graph.find { |node| node["@type"] == "Blog" }
+
+    assert_equal "https://jeho.page/assets/img/home-og.jpg", website.dig("image", "url")
+    assert_equal 1200, website.dig("image", "width")
+    assert_equal 630, website.dig("image", "height")
+    assert_equal "https://jeho.page/assets/img/rootone.jpg", person.dig("image", "url")
+    assert_equal({ "@id" => "https://jeho.page/#website-image" }, collection_page["primaryImageOfPage"])
+    assert_equal({ "@id" => "https://jeho.page/#website-image" }, blog["image"])
   end
 
   def test_about_page_graph_describes_profile_and_visible_apps

@@ -7,7 +7,13 @@ end
 
 desc "내부 링크 검사 (빠름, 네트워크 불필요)"
 Rake::TestTask.new(:test) do |t|
-  t.test_files = FileList["test/internal_links_test.rb", "test/json_ld_test.rb"]
+  t.test_files = FileList[
+    "test/internal_links_test.rb",
+    "test/json_ld_test.rb",
+    "test/home_seo_test.rb",
+    "test/seo_meta_test.rb",
+    "test/sitemap_test.rb"
+  ]
   t.warning = false
   t.ruby_opts = ["-W0"]
 end

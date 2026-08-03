@@ -2,9 +2,18 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9/">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign latest_post = site.posts | first %}
+  {% assign homepage_last_modified = latest_post.seo.date_modified | default: latest_post.modified_date | default: latest_post.lastmod | default: latest_post.date %}
   <url>
-    <loc>https://jeho.page/about</loc>
+    <loc>{{ '/' | absolute_url }}</loc>
+    <lastmod>{{ homepage_last_modified | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>{{ '/about/' | absolute_url }}</loc>
     <lastmod>2023-10-12T12:06:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
