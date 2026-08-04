@@ -11,6 +11,7 @@ Rake::TestTask.new(:test) do |t|
     "test/internal_links_test.rb",
     "test/json_ld_test.rb",
     "test/home_seo_test.rb",
+    "test/coffee_banner_test.rb",
     "test/seo_meta_test.rb",
     "test/sitemap_test.rb"
   ]

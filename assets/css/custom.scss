@@ -217,3 +217,27 @@ ul.social-media-list {
     }
   }
 }
+
+.post-coffee-banner {
+  width: 100%;
+  max-width: 600px;
+  margin: 24px auto 8px;
+}
+
+.post-coffee-banner__link {
+  display: block;
+  overflow: hidden;
+  border-radius: 10px;
+  line-height: 0;
+
+  &:focus-visible {
+    outline: 3px solid rgba(73, 28, 146, 0.35);
+    outline-offset: 4px;
+  }
+}
+
+.post-coffee-banner__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
