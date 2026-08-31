@@ -26,8 +26,8 @@ date: 2010-04-25 23:45:00 +0900
 물론 ReactOS의 구현이 윈도우즈의 구현과 완전히 같을 것이라 믿어서는 안되지만 참고용으로 보기에는 아주 훌륭하다.  
 [ctags](https://en.wikipedia.org/wiki/Ctags#:~:text=Ctags%20is%20a%20programming%20tool,languages%20to%20aid%20code%20comprehension.&text=These%20tags%20allow%20definitions%20to,search%20engine%2C%20or%20other%20utility.) 같은 도구를 통해 전체 코드를 태깅 해놓고 필요할 때 빠르게 찾아갈 수 있도록 해두면 좋을 것이다.
 
-재미있는 것은, ReactOS의 코드를 읽으면서 코드 작성자 중 눈에 익은 이름을 하나 발견했는데 바로 Windows Internals 5판의 공동저자로 참여한 Alex Ionescu 였다.  
-작년에 Windows Internal 5/E이 나온다는 소식을 처음 들었을 때 나는 그의 이름을 처음 알았는데, [85년생의 젊은 친구가 5년쯤 전인 20살 때 I/O 매니저, 오브젝트 매니저, 프로세스 매니저등의 Windows executive 코드들을 거의 다 작성했다는 것에 너무 놀랐다.](https://reactos.org/wiki/User:Alex_Ionescu)
+재미있는 것은, ReactOS의 코드를 읽으면서 코드 작성자 중 눈에 익은 이름을 하나 발견했는데 바로 『Windows Internals』 5판의 공동저자로 참여한 Alex Ionescu 였다.  
+작년에 『Windows Internal』 5/E이 나온다는 소식을 처음 들었을 때 나는 그의 이름을 처음 알았는데, [85년생의 젊은 친구가 5년쯤 전인 20살 때 I/O 매니저, 오브젝트 매니저, 프로세스 매니저등의 Windows executive 코드들을 거의 다 작성했다는 것에 너무 놀랐다.](https://reactos.org/wiki/User:Alex_Ionescu)
 
 어느 날 이런 ReactOS가 잘 돌아는갈까 갑자기 궁금해져서 이미지를 받아 설치해봤었는데 Windows 95보다도 못한 그 조잡함에 경악을 하며 동시에 마이크로소프트가 얼마나 대단한지 새삼 깨달았다.
 ReactOS는 10년 넘게 개발되면서 아직도 버전이 0.3인데, 얼른 얼른 발전해서 참고할 수 있는 코드들이 더 많아졌으면 좋겠다.

@@ -46,7 +46,7 @@ date: 2023-04-22 08:47:00 +0900
 다행히도 제 곁에는 팀장님이 있었습니다.  
 제가 만난 가장 똑똑한 프로그래머.  
 
-[해커와 화가](/essay/2008/03/23/hackers-and-painters.html)라는 책에서 폴그레이엄이 그의 동료인 [로버트 모리스](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)를 보고 한 말.
+[『해커와 화가』](/essay/2008/03/23/hackers-and-painters.html)라는 책에서 폴그레이엄이 그의 동료인 [로버트 모리스](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)를 보고 한 말.
 > He is never wrong.  
 > 그는 절대 틀리는 법이 없어.
 

@@ -13,7 +13,7 @@ date: 2023-01-23 18:44:00 +0900
 
 아 한 번 있기는 하다.  
 대학교 때 연구실 홈페이지를 ASP로 만들었습니다.  
-[태요의 ASP](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=203741)라는 당시 유명한 책을 보면서 게시판도 만들고 댓글 기능도 만들었습니다.  
+[『태요의 ASP』](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=203741)라는 당시 유명한 책을 보면서 게시판도 만들고 댓글 기능도 만들었습니다.  
 재밌기는 했는데 좀 이상했습니다.
 
 이건 프로그램이 아닌 것 같아.  

@@ -20,7 +20,7 @@ date: 2010-08-07 00:57:00 +0900
 두가지 툴을 번갈아 쳐다보며 로그를 확인 하기는 어렵다. 순서가 뒤죽박죽이기 때문에.  
 이번에 프로세스 모니터에서 이런 기능을 해결하기 위한 인터페이스가 하나 추가되었다.
 
-이 아이디어는 [디버깅 애플리케이션](/programming/2008/04/06/debugging-applications-for-windows.html)의 저자인 존 로빈스가 제안했는데, 현재 MS 최고의 프로그래머 중 하나인 마크 루시노비치를 자신의 개인 프로그래머라고 농담하는 것이 재밌다.
+이 아이디어는 [『디버깅 애플리케이션』](/programming/2008/04/06/debugging-applications-for-windows.html)의 저자인 존 로빈스가 제안했는데, 현재 MS 최고의 프로그래머 중 하나인 마크 루시노비치를 자신의 개인 프로그래머라고 농담하는 것이 재밌다.
 
 > What I really wanted was for my trace statements to be part of the Process Monitor viewing so that way it would be trivial mapping the I/O activity to operations in my code.  
 > Fortunately, I have a personal developer at my disposal that is keen to tackle these kinds of challenges.  
@@ -29,7 +29,7 @@ date: 2010-08-07 00:57:00 +0900
 > Don’t hesitate to email Mark with feature ideas so he can be your personal developer as well.
 
 여담이지만 존 로빈스의 유머 감각은 정말 끝내준다.  
-그의 디버깅 애플리케이션만큼 즐거운 컴퓨터 책을 아직도 만나보지 못했다.  
+그의 『디버깅 애플리케이션』만큼 즐거운 컴퓨터 책을 아직도 만나보지 못했다.  
 이런 멋진 해커이자 명저자가 다시는 책을 안쓰기로 결정한 것은 정말 슬픈 일이다.
 
 어쨌거나 마크는 선뜻 제안을 받아들였고 콘트롤 코드를 하나 추가해서 [DeviceIoControl](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-deviceiocontrol) 함수를 통해 인터페이스 할 수 있도록 해주었다.  

@@ -2,12 +2,12 @@
 layout: post
 categories: essay
 image: /assets/img/building_book.png
-title: (마감) 책을 선물해드립니다 (건물주의 기쁨과 슬픔)
+title: (마감) 책을 선물해드립니다 『건물주의 기쁨과 슬픔』
 date: 2024-03-21 10:56:00 +0900
 ---
 
 작년에 제가 썼던 책을 블로그 독자 여러분들에게 선물해드리려 합니다.  
-저의 첫 책. [건물주의 기쁨과 슬픔](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304994762)
+저의 첫 책. [『건물주의 기쁨과 슬픔』](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304994762)
 
 ![건물주의 기쁨과 슬픔 책](/assets/img/building_book.png)  
 

@@ -5,9 +5,9 @@ image: /assets/img/DSCN0049.jpg
 title: 제프리 리처의 Windows via C/C++
 ---
 
-제프리 리처의 [Windows via C/C++ 번역서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2902118)가 나왔다.
+제프리 리처의 [『Windows via C/C++』 번역서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2902118)가 나왔다.
 
-[김상형의 윈도우즈 API 정복](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=669081)이나 윤성우의 TCP/IP는 모두가 잘 알고 있는 반면에,  
+[김상형의 『윈도우즈 API 정복』](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=669081)이나 윤성우의 『TCP/IP』는 모두가 잘 알고 있는 반면에,  
 이 책과 제프리 리처는 모르고 있는 사람들이 상당히 많다.
 
 이 책은 99년도에 4판이 발행된 이 후 2008년 12월에 5판이 발행되었다.  
@@ -30,11 +30,11 @@ title: 제프리 리처의 Windows via C/C++
 
 어째 쓴소리 하나 없이 칭찬만 하게 되는 것 같은데 이 책은 충분히 그럴만한 가치가 있다.
 
-오늘 강컴에 Windows API 정복을 저술한 김상형씨께서 이 책에 대한 서평을 남겨주셨는데 그 내용이 아주 재밌다.
+오늘 강컴에 『Windows API 정복』을 저술한 김상형씨께서 이 책에 대한 서평을 남겨주셨는데 그 내용이 아주 재밌다.
 
 > 아직 읽어 보지 않았지만 감히 서평부터 쓴다.  
 > 왜냐하면 안 읽어 봐도 내용을 거의 다 알고 있으며 저자의 이름만으로도 품질을 능히 짐작할 수 있기 때문이다.  
-> 대부분 알고 있겠지만 이 책의 전판은 Programming Application for Microsoft Windows 이며 그야말로 전설같은 책이다.  
+> 대부분 알고 있겠지만 이 책의 전판은 『Programming Application for Microsoft Windows』 이며 그야말로 전설같은 책이다.  
 > 한때 대림 출판사에서 황기태님에 의해 번역되었지만 지금은 완전히 절판되어 서점에서는 구할 방법이 없다.
 > 
 > 하지만 아직까지 중고라도 좋으니 이 책을 구해 달라는 사람들이 얼마나 많은지 모른다.  
