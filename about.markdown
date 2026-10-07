@@ -29,9 +29,9 @@ seo:
       <!-- 커피한잔 -->
       <div class="group bg-white rounded-2xl p-8 border-2 border-coffee shadow-lg hover:shadow-2xl transition-all hover:scale-105">
         <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
-          <img src="/assets/img/apps/coffee.webp" alt="커피한잔" class="w-full h-full object-cover">
+          <img src="/assets/img/apps/coffee.webp" alt="커피한잔 - 직장인 소개팅" class="w-full h-full object-cover">
         </div>
-        <h3 class="text-2xl font-bold text-gray-900 mb-3">커피한잔</h3>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3 break-keep">커피한잔 - 직장인 소개팅</h3>
         <p class="text-gray-600 mb-4">
           직장인을 위한 진지한 소개팅 앱.<br>
           사진을 올리지 않는 블라인드 소개팅 서비스입니다.

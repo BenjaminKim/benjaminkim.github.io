@@ -1,6 +1,6 @@
 - id: withcoffee
   type: MobileApplication
-  name: 커피한잔
+  name: 커피한잔 - 직장인 소개팅
   url: https://withcoffee.app
   description: 직장인을 위한 진지한 소개팅 앱. 사진을 올리지 않는 블라인드 소개팅 서비스입니다.
   application_category: LifestyleApplication
