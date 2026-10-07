@@ -41,6 +41,20 @@ seo:
         </a>
       </div>
 
+      <!-- 캠퍼스 커플 -->
+      <div class="group bg-white rounded-2xl p-8 border-2 border-campus-couple shadow-lg hover:shadow-2xl transition-all hover:scale-105">
+        <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
+          <img src="{{ '/assets/img/apps/campus-couple.webp' | relative_url }}" alt="캠퍼스 커플 - 대학생 소개팅" class="w-full h-full object-cover" loading="lazy" width="56" height="56">
+        </div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3 break-keep">캠퍼스 커플 - 대학생 소개팅</h3>
+        <p class="text-gray-600 mb-4">
+          대학생들만을 위한 무료 소개팅 서비스
+        </p>
+        <a id="about-campus-couple-app" href="https://campus-couple.com?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-campus-couple font-bold underline">
+          자세히 보기 →
+        </a>
+      </div>
+
       <!-- 액티브홀더스 -->
       <div class="group bg-white rounded-2xl p-8 border-2 border-activeholders shadow-lg hover:shadow-2xl transition-all hover:scale-105">
         <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">

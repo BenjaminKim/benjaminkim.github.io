@@ -6,6 +6,14 @@
   application_category: LifestyleApplication
   operating_system: iOS, Android
   image: /assets/img/apps/coffee.webp
+- id: campus-couple
+  type: MobileApplication
+  name: 캠퍼스 커플 - 대학생 소개팅
+  url: https://campus-couple.com
+  description: 대학생들만을 위한 무료 소개팅 서비스
+  application_category: LifestyleApplication
+  operating_system: Android
+  image: /assets/img/apps/campus-couple.webp
 - id: activeholders
   type: WebApplication
   name: 액티브홀더스
