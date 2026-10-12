@@ -1,0 +1,58 @@
+<svg id="moza" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background -->
+  <rect width="128" height="128" rx="28" fill="#E8EAF0"/>
+
+  <!-- Ghost body -->
+  <ellipse cx="48" cy="62" rx="32" ry="36" fill="#F0F2F5" stroke="#2D3250" stroke-width="3.5"/>
+  <!-- Ghost feet -->
+  <ellipse cx="36" cy="97" rx="8" ry="5" fill="#C8B8E8" stroke="#2D3250" stroke-width="2.5"/>
+  <ellipse cx="52" cy="97" rx="8" ry="5" fill="#C8B8E8" stroke="#2D3250" stroke-width="2.5"/>
+
+  <!-- Highlighter on head -->
+  <rect x="30" y="30" width="30" height="8" rx="3" fill="#FFE44D" transform="rotate(-15, 45, 34)"/>
+
+  <!-- Ghost face -->
+  <circle cx="38" cy="56" r="3.5" fill="#2D3250"/>
+  <circle cx="52" cy="56" r="3.5" fill="#2D3250"/>
+  <ellipse cx="42" cy="65" rx="4" ry="2.5" fill="#FF8A9E"/>
+
+  <!-- Ghost arm (left, holding grid) -->
+  <path d="M62 60 Q68 58 72 52" fill="none" stroke="#2D3250" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Ghost arm (right) -->
+  <path d="M66 72 Q72 76 76 80" fill="none" stroke="#2D3250" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Mosaic grid panel -->
+  <rect x="58" y="38" width="50" height="50" rx="6" fill="#2D3250"/>
+  <rect x="61" y="41" width="44" height="44" rx="4" fill="#3ECEC0"/>
+
+  <!-- Pixel grid -->
+  <rect x="61" y="41" width="11" height="11" fill="#7BE0D6"/>
+  <rect x="72" y="41" width="11" height="11" fill="#3ECEC0"/>
+  <rect x="83" y="41" width="11" height="11" fill="#56D4C8"/>
+  <rect x="94" y="41" width="11" height="11" fill="#7BE0D6"/>
+
+  <rect x="61" y="52" width="11" height="11" fill="#F5A623"/>
+  <rect x="72" y="52" width="11" height="11" fill="#E8794B"/>
+  <rect x="83" y="52" width="11" height="11" fill="#2D3250"/>
+  <rect x="94" y="52" width="11" height="11" fill="#3ECEC0"/>
+
+  <rect x="61" y="63" width="11" height="11" fill="#FF5E8A"/>
+  <rect x="72" y="63" width="11" height="11" fill="#F5A623"/>
+  <rect x="83" y="63" width="11" height="11" fill="#FF5E8A"/>
+  <rect x="94" y="63" width="11" height="11" fill="#8B5CF6"/>
+
+  <rect x="61" y="74" width="11" height="11" fill="#F2C94C"/>
+  <rect x="72" y="74" width="11" height="11" fill="#FF5E8A"/>
+  <rect x="83" y="74" width="11" height="11" fill="#F5A623"/>
+  <rect x="94" y="74" width="11" height="11" fill="#56D4C8"/>
+
+  <!-- Number badges -->
+  <circle cx="102" cy="42" r="10" fill="#FF3B30"/>
+  <text x="102" y="46.5" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+
+  <circle cx="80" cy="58" r="9" fill="#FF3B30"/>
+  <text x="80" y="62" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+
+  <circle cx="102" cy="88" r="10" fill="#FF3B30"/>
+  <text x="102" y="92.5" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+</svg>

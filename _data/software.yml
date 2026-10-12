@@ -40,7 +40,7 @@
   image: /assets/img/apps/spellstart.webp
 - id: moza
   type: MobileApplication
-  name: 모자 에디터
+  name: Moza 에디터
   url: https://apps.apple.com/kr/app/moza-editor/id6757701471
   description: 이미지에 모자이크, 형광펜, 카운터, 화살표 등을 간편하게 그릴 수 있는 마크업 앱입니다.
   application_category: GraphicsApplication

@@ -100,12 +100,12 @@ seo:
         </a>
       </div>
 
-      <!-- 모자 에디터 -->
+      <!-- Moza 에디터 -->
       <div class="group bg-white rounded-2xl p-8 border-2 border-moza shadow-lg hover:shadow-2xl transition-all hover:scale-105">
         <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
           <img src="/assets/img/apps/moza.webp" alt="모자이크" class="w-full h-full object-cover">
         </div>
-        <h3 class="text-2xl font-bold text-gray-900 mb-3">모자 에디터</h3>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3">Moza 에디터</h3>
         <p class="text-gray-600 mb-4">
           이미지에 모자이크, 형광펜, 카운터, 화살표 등을 간편하게 그릴 수 있는 마크업 앱입니다.
         </p>
