@@ -1,0 +1,11 @@
+- id: coffee
+  name: 커피한잔
+  url: https://withcoffee.app?utm_source=jeho_page_post_banner&utm_medium=blog
+  image: /assets/img/apps/coffee-post-banner.webp
+  alt: 커피한잔, 직장인의 블라인드소개팅
+
+- id: campus-couple
+  name: 캠퍼스 커플
+  url: https://campus-couple.com/ko?utm_source=jeho_page_post_banner&utm_medium=blog
+  image: /assets/img/apps/campus-couple-post-banner.webp
+  alt: 캠퍼스 커플, 대학생의 블라인드 소개팅

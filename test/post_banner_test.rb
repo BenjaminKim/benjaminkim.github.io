@@ -1,6 +1,9 @@
 require "minitest/autorun"
+require "json"
+require "nokogiri"
+require "uri"
 
-class CoffeeBannerTest < Minitest::Test
+class PostBannerTest < Minitest::Test
   SITE_DIR = File.expand_path("../_site", __dir__)
   POST_PATH = "essay/2026/08/02/programmer-lifespan.html"
 
@@ -11,7 +14,7 @@ class CoffeeBannerTest < Minitest::Test
   end
 
   def test_post_has_one_banner_between_share_controls_and_comments
-    banner_marker = 'class="post-coffee-banner"'
+    banner_marker = 'class="post-banner"'
 
     assert_equal 1, @post_html.scan(banner_marker).size
     assert_operator index_of('id="awesome-rss-button"'), :<, index_of(banner_marker)
@@ -28,9 +31,32 @@ class CoffeeBannerTest < Minitest::Test
     assert_includes @post_html, 'decoding="async"'
   end
 
+  def test_both_banner_options_have_matching_links_and_built_images
+    document = Nokogiri::HTML(@post_html)
+    options = document.css('[data-post-banner] [data-banner-options]')
+    assert_equal 1, options.size
+
+    banners = JSON.parse(options.first.text)
+    assert_equal ["coffee", "campus-couple"], banners.map { |banner| banner.fetch("id") }
+    assert_equal ["withcoffee.app", "campus-couple.com"], banners.map { |banner| URI(banner.fetch("url")).host }
+
+    banners.each do |banner|
+      assert_includes banner.fetch("url"), "utm_source=jeho_page_post_banner"
+      assert_includes banner.fetch("url"), "utm_medium=blog"
+      assert_includes banner.fetch("alt"), banner.fetch("name")
+      assert File.file?(File.join(SITE_DIR, banner.fetch("image"))), "배너 이미지가 없습니다: #{banner.fetch('image')}"
+    end
+
+    assert_equal 1, document.css('script[src="/assets/js/post-banner.js"]').size
+    assert File.file?(File.join(SITE_DIR, "assets/js/post-banner.js"))
+  end
+
   def test_banner_is_not_rendered_on_home_or_about_pages
-    refute_includes read_page("index.html"), 'class="post-coffee-banner"'
-    refute_includes read_page("about/index.html"), 'class="post-coffee-banner"'
+    ["index.html", "about/index.html"].each do |path|
+      html = read_page(path)
+      refute_includes html, 'class="post-banner"'
+      refute_includes html, '/assets/js/post-banner.js'
+    end
   end
 
   private

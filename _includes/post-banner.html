@@ -1,0 +1,26 @@
+{%- assign default_banner = site.data.post_banners.first -%}
+<aside class="post-banner" aria-label="{{ default_banner.name | escape }} 소개" data-post-banner data-banner-id="{{ default_banner.id | escape }}">
+  <a class="post-banner__link" href="{{ default_banner.url | escape }}">
+    <img class="post-banner__image"
+         src="{{ default_banner.image | relative_url }}"
+         alt="{{ default_banner.alt | escape }}"
+         width="1400"
+         height="350"
+         loading="lazy"
+         decoding="async">
+  </a>
+  <script type="application/json" data-banner-options>
+    [
+      {%- for banner in site.data.post_banners -%}
+      {
+        "id": {{ banner.id | jsonify }},
+        "name": {{ banner.name | jsonify }},
+        "url": {{ banner.url | jsonify }},
+        "image": {{ banner.image | relative_url | jsonify }},
+        "alt": {{ banner.alt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {%- endfor -%}
+    ]
+  </script>
+</aside>
+<script src="{{ '/assets/js/post-banner.js' | relative_url }}"></script>
