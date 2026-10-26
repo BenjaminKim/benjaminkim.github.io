@@ -61,11 +61,3 @@
   description: 인앱 결제 부가세 계산을 도와주는 서비스입니다.
   application_category: FinanceApplication
   operating_system: Web
-- id: infinite-addition
-  type: WebApplication
-  name: 무한의 덧셈
-  url: https://add.jeho.page/ko
-  description: 7~9세 아이들을 위한 끝없는 덧셈 게임입니다.
-  application_category: GameApplication
-  operating_system: Web
-  image: /assets/img/apps/infinite_addition.png
