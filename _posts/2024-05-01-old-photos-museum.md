@@ -58,6 +58,8 @@ date: 2024-05-01 18:10:00 +0900
 <br>
 <br>
 *함께 읽으면 좋은 글:*
+
+* [옛날 사진 박물관을 열었습니다](/essay/2026/11/18/old-photos-museum-launch.html)
 * [먹는 거에 돈 아끼지 말거라](https://brunch.co.kr/@buildingking/112)
 * [어머니와 함께 어머니의 고향을 여행하기](https://brunch.co.kr/@buildingking/75)
 * [리바이스 청카바](https://brunch.co.kr/@buildingking/58)
