@@ -2,7 +2,7 @@
 layout: post
 categories: essay
 image: /assets/img/campus-couple.png
-title: 한 달 만에 만든 캠퍼스커플, 10년을 내다보며
+title: "[에이아이프릭스 인터뷰] 한 달 만에 만든 캠퍼스커플, 10년을 내다보며"
 date: 2026-11-18 20:37:00 +0900
 ---
 
