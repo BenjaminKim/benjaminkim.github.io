@@ -30,6 +30,14 @@
   application_category: TravelApplication
   operating_system: Web
   image: /assets/img/apps/mykoreamap.webp
+- id: koreaarchive
+  type: WebApplication
+  name: 옛날 사진 박물관
+  url: https://koreaarchive.com
+  description: 대한민국의 옛 사진과 생활문화 기록을 모아, 지역의 변화와 일상의 기억을 함께 살펴보는 아카이브입니다.
+  application_category: EducationalApplication
+  operating_system: Web
+  image: /assets/img/apps/koreaarchive.png
 - id: spellstart
   type: MobileApplication
   name: 초등 받아쓰기

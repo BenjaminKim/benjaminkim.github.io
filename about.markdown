@@ -85,6 +85,21 @@ seo:
         </a>
       </div>
 
+      <!-- 옛날 사진 박물관 -->
+      <div class="group bg-white rounded-2xl p-8 border-2 border-amber-800 shadow-lg hover:shadow-2xl transition-all hover:scale-105">
+        <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
+          <img src="{{ '/assets/img/apps/koreaarchive.png' | relative_url }}" alt="옛날 사진 박물관" class="w-full h-full object-cover" loading="lazy" width="56" height="56">
+        </div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-3 break-keep">옛날 사진 박물관</h3>
+        <p class="text-gray-600 mb-4">
+          대한민국의 옛 사진과 생활문화 기록을 모아,
+          지역의 변화와 일상의 기억을 함께 살펴보는 아카이브입니다.
+        </p>
+        <a id="about-koreaarchive-app" href="https://koreaarchive.com?utm_source=jehopage&utm_medium=blog&utm_campaign=v3" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-amber-800 font-bold underline">
+          자세히 보기 →
+        </a>
+      </div>
+
       <!-- 초등 받아쓰기 -->
       <div class="group bg-white rounded-2xl p-8 border-2 border-spellstart shadow-lg hover:shadow-2xl transition-all hover:scale-105">
         <div class="w-14 h-14 rounded-xl overflow-hidden mb-4 shadow-md">
