@@ -1,7 +1,11 @@
 ---
 layout: post
 categories: essay
-image: /assets/img/campus-couple.png
+image: /assets/img/ai_freaks.png
+image_width: 1708
+image_height: 1256
+image_type: image/png
+image_alt: 에이아이프릭스 인스타그램에 실린 캠퍼스커플 개발자 인터뷰 표지
 title: "[에이아이프릭스 인터뷰] 한 달 만에 만든 캠퍼스커플, 10년을 내다보며"
 date: 2026-11-18 20:37:00 +0900
 ---
