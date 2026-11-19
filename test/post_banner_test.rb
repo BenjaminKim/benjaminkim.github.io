@@ -37,8 +37,8 @@ class PostBannerTest < Minitest::Test
     assert_equal 1, options.size
 
     banners = JSON.parse(options.first.text)
-    assert_equal ["coffee", "campus-couple", "koreaarchive", "mykoreamap"], banners.map { |banner| banner.fetch("id") }
-    assert_equal ["withcoffee.app", "campus-couple.com", "koreaarchive.com", "mykoreamap.com"], banners.map { |banner| URI(banner.fetch("url")).host }
+    assert_equal ["coffee", "campus-couple", "koreaarchive", "mykoreamap", "activeholders"], banners.map { |banner| banner.fetch("id") }
+    assert_equal ["withcoffee.app", "campus-couple.com", "koreaarchive.com", "mykoreamap.com", "activeholders.com"], banners.map { |banner| URI(banner.fetch("url")).host }
 
     banners.each do |banner|
       assert_includes banner.fetch("url"), "utm_source=jeho_page_post_banner"

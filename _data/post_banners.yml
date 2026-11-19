@@ -21,3 +21,9 @@
   url: https://mykoreamap.com/?utm_source=jeho_page_post_banner&utm_medium=blog
   image: /assets/img/apps/mykoreamap-post-banner.webp
   alt: 마이코리아맵, 내가 가본 곳을 색칠해요
+
+- id: activeholders
+  name: Activeholders
+  url: https://activeholders.com/?utm_source=jeho_page_post_banner&utm_medium=blog
+  image: /assets/img/apps/activeholders-post-banner.webp
+  alt: Activeholders, 주식 투자자의 보물창고
