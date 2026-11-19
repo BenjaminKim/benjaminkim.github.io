@@ -31,14 +31,14 @@ class PostBannerTest < Minitest::Test
     assert_includes @post_html, 'decoding="async"'
   end
 
-  def test_both_banner_options_have_matching_links_and_built_images
+  def test_banner_options_have_matching_links_and_built_images
     document = Nokogiri::HTML(@post_html)
     options = document.css('[data-post-banner] [data-banner-options]')
     assert_equal 1, options.size
 
     banners = JSON.parse(options.first.text)
-    assert_equal ["coffee", "campus-couple"], banners.map { |banner| banner.fetch("id") }
-    assert_equal ["withcoffee.app", "campus-couple.com"], banners.map { |banner| URI(banner.fetch("url")).host }
+    assert_equal ["coffee", "campus-couple", "koreaarchive"], banners.map { |banner| banner.fetch("id") }
+    assert_equal ["withcoffee.app", "campus-couple.com", "koreaarchive.com"], banners.map { |banner| URI(banner.fetch("url")).host }
 
     banners.each do |banner|
       assert_includes banner.fetch("url"), "utm_source=jeho_page_post_banner"
