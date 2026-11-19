@@ -50,6 +50,8 @@ date: 2026-11-19 12:42:00 +0900
 
 {% include end-divider.html %}
 
+[커피한잔의 공지사항](https://withcoffee.app/notices/96)으로 쓴 글을 옮겨왔습니다.
+
 *함께 읽으면 좋은 글:*
 
 * [우린 아직 더 행복할 수 있다구](/essay/2023/07/11/we-can-still-be-happier.html)
