@@ -15,3 +15,9 @@
   url: https://koreaarchive.com/?utm_source=jeho_page_post_banner&utm_medium=blog
   image: /assets/img/apps/koreaarchive-post-banner.webp
   alt: 옛날 사진 박물관, 사진으로 만나는 대한민국
+
+- id: mykoreamap
+  name: 마이코리아맵
+  url: https://mykoreamap.com/?utm_source=jeho_page_post_banner&utm_medium=blog
+  image: /assets/img/apps/mykoreamap-post-banner.webp
+  alt: 마이코리아맵, 내가 가본 곳을 색칠해요
